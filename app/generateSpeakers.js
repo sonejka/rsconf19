@@ -9,7 +9,7 @@ function generateSpeakerPage(speaker) {
   let ejs = require('ejs');
   let fileSystem = require('fs');
 
-  let speakerFileName = speaker.name.replace(' ', '-');
+  let speakerFileName = speaker.name.replace(' ', '-').toLowerCase();
 
   ejs.renderFile(__dirname + '/templates/speaker.ejs', speaker, function(err, str) {
     // str => Rendered HTML string

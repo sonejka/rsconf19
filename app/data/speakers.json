@@ -12,7 +12,7 @@
   {
     "id": 1,
     "name": "Andrei Lesnitsky",
-    "photo": "Andrei-Lesnitsky.jpg",
+    "photo": "andrei-lesnitsky.jpg",
     "city": "Minsk, Belarus",
     "intro": "Andrei Lesnitsky - self-employed software dev. Passioned about front-end development, bleeding edge web-technologies, js performance, public speaking and knowledge sharing. Constantly experimenting with new stuff, messing around with pet projects for fun.",
     "talk_title": "TBD",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "name": "Andre Gloukhmantchouk",
-    "photo": "Andre-Gloukhmantchouk.jpg",
+    "photo": "andre-gloukhmantchouk.jpg",
     "city": "Los Angeles, California",
     "intro": "Software Engineer at Google.",
     "talk_title": "TBD",
