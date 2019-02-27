@@ -4,7 +4,7 @@
     "name": "Alexander Gerasimov",
     "photo": "alexander-gerasimov.jpg",
     "city": "Berlin, Germany",
-    "intro": "Alex is employed as a front-end engineer at Wix.com, earning just enough to sustain his functional programming addiction. In his spare time he teaches programming and creates educational games with his hacker friends.",
+    "intro": "<p>Alex is employed as a front-end engineer at Wix.com, earning just enough to sustain his functional programming addiction.</p><p>In his spare time he teaches programming and creates educational games with his hacker friends.</p>",
     "talk_title": "TBD",
     "talk_description": "TBD",
     "twitter": "da_quirm"
@@ -14,7 +14,7 @@
     "name": "Andrei Lesnitsky",
     "photo": "andrei-lesnitsky.jpg",
     "city": "Minsk, Belarus",
-    "intro": "Andrei Lesnitsky - self-employed software dev. Passioned about front-end development, bleeding edge web-technologies, js performance, public speaking and knowledge sharing. Constantly experimenting with new stuff, messing around with pet projects for fun.",
+    "intro": "<p>Andrei Lesnitsky - self-employed software dev. Passioned about front-end development, bleeding edge web-technologies, js performance, public speaking and knowledge sharing. Constantly experimenting with new stuff, messing around with pet projects for fun.</p>",
     "talk_title": "TBD",
     "talk_description": "TBD",
     "twitter": ""
@@ -24,9 +24,19 @@
     "name": "Andre Gloukhmantchouk",
     "photo": "andre-gloukhmantchouk.jpg",
     "city": "Los Angeles, California",
-    "intro": "Software Engineer at Google.",
+    "intro": "<p>Software Engineer at Google.</p>",
     "talk_title": "TBD",
     "talk_description": "TBD",
     "twitter": ""
+  },
+  {
+    "id": 4,
+    "name": "Martin Splitt",
+    "photo": "martin-splitt.jpg",
+    "city": "Zürich, Switzerland",
+    "intro": "<p>Martin is open source contributor and web evangelist by heart from Zurich with a decade experience from the trenches of software engineering in multiple fields.</p><p>He works as a software engineer at Archilogic in front- and backend.</p><p> He devotes his time to moving the web forward, fixing problems, building applications and systems and breaking things for fun & profit.</p><p> Martin believes in the web platform and is working with bleeding edge technologies that will allow the web to prosper.</p>",
+    "talk_title": "TBD",
+    "talk_description": "TBD",
+    "twitter": "g33konaut"
   }
 ]
