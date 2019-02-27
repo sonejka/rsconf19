@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Alexander Gerasimov",
+    "photo": "alexander-gerasimov.jpg",
+    "city": "Berlin, Germany",
+    "intro": "Alex is employed as a front-end engineer at Wix.com, earning just enough to sustain his functional programming addiction. In his spare time he teaches programming and creates educational games with his hacker friends.",
+    "talk_title": "TBD",
+    "talk_description": "TBD",
+    "twitter": "da_quirm"
+  },
+  {
+    "id": 1,
+    "name": "Andrei Lesnitsky",
+    "photo": "Andrei-Lesnitsky.jpg",
+    "city": "Minsk, Belarus",
+    "intro": "Andrei Lesnitsky - self-employed software dev. Passioned about front-end development, bleeding edge web-technologies, js performance, public speaking and knowledge sharing. Constantly experimenting with new stuff, messing around with pet projects for fun.",
+    "talk_title": "TBD",
+    "talk_description": "TBD",
+    "twitter": ""
+  },
+  {
+    "id": 3,
+    "name": "Andre Gloukhmantchouk",
+    "photo": "Andre-Gloukhmantchouk.jpg",
+    "city": "Los Angeles, California",
+    "intro": "Software Engineer at Google.",
+    "talk_title": "TBD",
+    "talk_description": "TBD",
+    "twitter": ""
+  }
+]

@@ -71,9 +71,9 @@ gulp.task('html', ['styles', 'scripts'], () => {
     .pipe(gulp.dest('docs'));
 });
 
-gulp.task('speaker', () => {
-  return gulp.src('app/speaker/*')
-    .pipe(gulp.dest('docs/speaker'));
+gulp.task('speakers', () => {
+  return gulp.src('app/speakers/*')
+    .pipe(gulp.dest('docs/speakers'));
 });
 
 gulp.task('images', () => {
@@ -114,7 +114,7 @@ gulp.task('serve', () => {
 
     gulp.watch([
       'app/*.html',
-      'app/speaker/*.html',
+      'app/speakers/*.html',
       'app/images/**/*',
       '.tmp/fonts/**/*'
     ]).on('change', reload);
@@ -172,7 +172,7 @@ gulp.task('wiredep', () => {
     .pipe(gulp.dest('app'));
 });
 
-gulp.task('build', ['lint', 'html','speaker', 'images', 'fonts', 'extras'], () => {
+gulp.task('build', ['lint', 'html','speakers', 'images', 'fonts', 'extras'], () => {
   return gulp.src('docs/**/*').pipe($.size({title: 'build', gzip: true}));
 });
 
