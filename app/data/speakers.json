@@ -38,5 +38,25 @@
     "talk_title": "TBD",
     "talk_description": "TBD",
     "twitter": "g33konaut"
+  },
+  {
+    "id": 5,
+    "name": "Kirill Knysh",
+    "photo": "kirill-knysh.jpg",
+    "city": "Amsterdam, The Netherlands",
+    "intro": "<p>Kirill Knysh, Engineer at EPAM Systems Amsterdam, 5+ years of experience of Set-Top-Box UI development, passionate to coding.</p>",
+    "talk_title": "TBD",
+    "talk_description": "TBD",
+    "twitter": ""
+  },
+  {
+    "id": 5,
+    "name": "Ilya Pukhalski",
+    "photo": "ilya-pukhalski.jpg",
+    "city": "Amsterdam, The Netherlands",
+    "intro": "<p>Digital architect helping great brands launch not always great products. All-way JavaScript junkie, retired rock star, rym gat, beer drinker, hell raiser.</p>",
+    "talk_title": "TBD",
+    "talk_description": "TBD",
+    "twitter": "pukhalski"
   }
 ]
