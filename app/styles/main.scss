@@ -1308,10 +1308,23 @@ nav {
 
 .sponsorship-packages {
   width: 100%;
-  margin: 150px 0;
+  margin: 0;
+
+
+  tr td {
+    padding: 0;
+
+    h5 {
+      margin: 10px 0;
+      line-height: 2rem;
+      font-weight: normal;
+    }
+  }
 
   tr td:first-child {
-    width: 30%;
+    width: 45%;
+    text-align: right;
+
   }
 
 }
@@ -1363,7 +1376,9 @@ footer {
     display: none;
   }
 
-  body, .page-wrap {
+  body
+  //.page-wrap
+    {
     padding: 0;
     background: #fff;
     font-size: 12pt;
@@ -1371,7 +1386,7 @@ footer {
   }
 
   section {
-    padding: 5px 0;
+    padding: 20px 0;
   }
 
   a:link,
@@ -1427,7 +1442,19 @@ footer {
     }
   }
 
+  .no-print, .no-print * {
+    display: none !important;
+  }
+
+  .more {
+    page-break-before: always;
+  }
+
 }
+
+
+
+
 
 /*------------------------------------*\
     MEDIA PRINT a2
