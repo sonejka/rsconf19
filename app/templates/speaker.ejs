@@ -5,7 +5,11 @@
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-55428637-2"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
     gtag('js', new Date());
 
     gtag('config', 'UA-55428637-2');
@@ -58,7 +62,8 @@
             <li><a href="../index.html">Home</a></li>
             <li><a href="../schedule.html">Schedule</a></li>
             <li><a href="../speakers.html">Speakers</a></li>
-            <li><a target="_blank" href="https://imaguru.by/product/the-rolling-scopes-conference-2019/">Tickets</a></li>
+            <li><a target="_blank" href="https://imaguru.by/product/the-rolling-scopes-conference-2019/">Tickets</a>
+            </li>
             <li><a href="../venue.html">Venue</a></li>
             <li><a href="../partners.html">Partners</a></li>
             <li><a href="../contacts.html">Contacts</a></li>
@@ -107,7 +112,8 @@
             August 9-11, 2019
             <br><span class="city-address">Minsk, Belarus</span></p>
 
-          <p><a target="_blank" class="btn" href="https://imaguru.by/product/the-rolling-scopes-conference-2019/"> Buy a Ticket</a></p>
+          <p><a target="_blank" class="btn" href="https://imaguru.by/product/the-rolling-scopes-conference-2019/"> Buy a
+              Ticket</a></p>
           <!--<p class="placeholder-btn"> Not on sale yet</p>-->
 
           <p>Follow us on <a target="_blank" href="https://twitter.com/rollingscopes">Twitter</a> or
@@ -119,7 +125,8 @@
           <h2>Follow us</h2>
           <p>Follow us on social media, our hashtag #rollingscopes</p>
           <ul class="social-links">
-            <li><a target="_blank" href="http://frontendbelarus.herokuapp.com/"><i class="fab fa-slack-hash"></i></a></li>
+            <li><a target="_blank" href="http://frontendbelarus.herokuapp.com/"><i class="fab fa-slack-hash"></i></a>
+            </li>
             <li><a target="_blank" href="https://www.facebook.com/groups/TheRollingScopes/"><i
                   class="fab fa-facebook-f"></i></a></li>
             <li><a target="_blank" href="https://www.youtube.com/user/therollingscopes"><i class="fab fa-youtube"
@@ -141,8 +148,10 @@
 
       <div class="talk-info">
         <p class="text-lg"><%= talk_title %></p>
-        <!--<p class="text-md"><span class="talk-date">FEB 11</span>, <span class="talk-time">10:00</span> <span-->
-        <!--class="talk-place first-stream">Pink Room</span><span class="talk-lang">EN</span></p>-->
+        <p class="text-md"><!--<span class="talk-date">FEB 11</span>, -->
+          <!--<span class="talk-time">10:00</span> -->
+          <!--<span class="talk-place first-stream">Pink Room</span>--><span class="talk-lang"><%= talk_lang %></span>
+        </p>
         <p><%- talk_description %></p>
       </div>
     </div>
@@ -158,7 +167,8 @@
           <div class="margin-bottom-md"><%- intro %></div>
 
           <% if (twitter.length > 0) { %>
-          <p>Twitter: <a class="bold" target="_blank" href="https://twitter.com/<%= twitter %>">@<%= twitter %></a></p>
+            <p>Twitter: <a class="bold" target="_blank" href="https://twitter.com/<%= twitter %>">@<%= twitter %></a>
+            </p>
           <% } %>
         </div>
       </div>

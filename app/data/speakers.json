@@ -5,6 +5,7 @@
     "photo": "alexander-gerasimov.jpg",
     "city": "Berlin, Germany",
     "intro": "<p>Alex is employed as a front-end engineer at Wix.com, earning just enough to sustain his functional programming addiction.</p><p>In his spare time he teaches programming and creates educational games with his hacker friends.</p>",
+    "talk_lang": "EN",
     "talk_title": "Talk TBD",
     "talk_description": "",
     "twitter": "da_quirm"
@@ -15,6 +16,7 @@
     "photo": "andrei-lesnitsky.jpg",
     "city": "Minsk, Belarus",
     "intro": "<p>Andrei Lesnitsky - self-employed software dev. Passioned about front-end development, bleeding edge web-technologies, js performance, public speaking and knowledge sharing. Constantly experimenting with new stuff, messing around with pet projects for fun.</p>",
+    "talk_lang": "EN",
     "talk_title": "Talk TBD",
     "talk_description": "",
     "twitter": ""
@@ -25,6 +27,7 @@
     "photo": "andre-gloukhmantchouk.jpg",
     "city": "Los Angeles, The United States",
     "intro": "<p>Andre is Software Engineer at Google/YouTube monetization. Uses his spare time to keep up with ever-evolving Front End world. Loves snowboard, wakeboard, &lt;anything&gt;board.</p>",
+    "talk_lang": "EN",
     "talk_title": "Talk TBD",
     "talk_description": "",
     "twitter": ""
@@ -35,6 +38,7 @@
     "photo": "martin-splitt.jpg",
     "city": "Zürich, Switzerland",
     "intro": "<p>Martin is open source contributor and web evangelist by heart from Zurich with a decade experience from the trenches of software engineering in multiple fields.</p><p>He works as a developer advocate at Google and loves solving problems.</p><p> He devotes his time to moving the web forward, fixing problems, building applications and systems and breaking things for fun & profit.</p><p> Martin believes in the web platform and is working with bleeding edge technologies that will allow the web to prosper.</p>",
+    "talk_lang": "EN",
     "talk_title": "Talk TBD",
     "talk_description": "",
     "twitter": "g33konaut"
@@ -45,6 +49,7 @@
     "photo": "kirill-knysh.jpg",
     "city": "Amsterdam, The Netherlands",
     "intro": "<p>Kirill Knysh, Engineer at EPAM Systems Amsterdam, 5+ years of experience of Set-Top-Box UI development, passionate to coding.</p>",
+    "talk_lang": "EN",
     "talk_title": "Talk TBD",
     "talk_description": "",
     "twitter": ""
@@ -55,6 +60,7 @@
     "photo": "ilya-pukhalski.jpg",
     "city": "Amsterdam, The Netherlands",
     "intro": "<p>Digital architect helping great brands launch not always great products. All-way JavaScript junkie, retired rock star, rym gat, beer drinker, hell raiser.</p>",
+    "talk_lang": "EN",
     "talk_title": "Talk TBD",
     "talk_description": "",
     "twitter": "pukhalski"
@@ -65,8 +71,20 @@
     "photo": "martin-woolley.jpg",
     "city": "London, United Kingdom",
     "intro": "<p>Martin Woolley works for the Bluetooth SIG, the technical standards body for Bluetooth. He’s an industry veteran with over 30 years’ experience working with computers large, small and ….. getting smaller. He still has a Sinclair ZX81 somewhere.<p><p>Martin is the Bluetooth SIG's Developer Relations Manager for the EMEA region and is responsible for informing, educating and supporting developers in the region.</p>",
+    "talk_lang": "EN",
     "talk_title": "Creating IoT Applications with Web Bluetooth",
     "talk_description": "<p>10 million Bluetooth devices ship every day, and that figure is rising. Regarded as one of the key, enabling technologies of the Internet of Things (IoT), Bluetooth is everywhere and in the summer of 2017, a new Bluetooth technology, Bluetooth mesh networking was released. Bluetooth mesh is used in enterprise and industrial IoT systems and in these environments, web technologies and cloud-based architectures are king. </p><p>Web Bluetooth allows developers to create web applications which can monitor and control Bluetooth devices. In this session, we’ll review key Bluetooth concepts and capabilities and the Web Bluetooth APIs which let you exploit them. </p><p>There may even be demos!</p>",
     "twitter": "bluetooth_mdw"
+  },
+  {
+    "id": 7,
+    "name": "Alexander Saft",
+    "photo": "alexander-saft.jpg",
+    "city": "Moscow, Russia",
+    "intro": "<p>Alexander is a Software Engineer at Lifestream. Building lots of different APIs helped him to know the other side of work with vary RDBMS and gave him experience to become a sous chef of DBA. Now he is a usual fullstack developer who paints buttons, but with knowledge about transaction isolation levels and ways to get half of database with one query in milliseconds. Likes to take pictures and to talk about photography, especially lifestyle and still life.</p>",
+    "talk_lang": "RU",
+    "talk_title": "Workshop: ORM without ORM",
+    "talk_description": "<p>Every backend developer faces with the need to work with database. Usually it’s RDBMS and usually it’s ORM. And it’s convenient and works fine. Until the queries become monstrous. Because RDBMS allow and encourage to write complex queries, but the ORMs… ORMs don’t like anything non-standard. And developer finds himself between the hammer and the anvil: he has to write clean and neat code and he has to utilize advanced DBMS features to reach good performance. So, is there any way to do what we need to do and not to suffer? At the workshop we will search and will find the way to write pretty code and get enthusiastic glance from your DBA.</p>",
+    "twitter": "AlSaft"
   }
 ]
