@@ -86,5 +86,26 @@
     "talk_title": "Workshop: ORM without ORM",
     "talk_description": "<p>Every backend developer faces with the need to work with database. Usually it’s RDBMS and usually it’s ORM. And it’s convenient and works fine. Until the queries become monstrous. Because RDBMS allow and encourage to write complex queries, but the ORMs… ORMs don’t like anything non-standard. And developer finds himself between the hammer and the anvil: he has to write clean and neat code and he has to utilize advanced DBMS features to reach good performance. So, is there any way to do what we need to do and not to suffer? At the workshop we will search and will find the way to write pretty code and get enthusiastic glance from your DBA.</p>",
     "twitter": "AlSaft"
+  }, {
+  "id": 8,
+  "name": "Timofey Lavrenuyk",
+  "photo": "timofey-lavrenuyk.jpg",
+  "city": "Odessa, Ukraine",
+  "intro": "<p>Timofey is a Software Engineer at Keepsolid. Mozilla Tech Speaker. 6+ years in web development. Interested in creating my own projects, testing new features and going into production.</p>",
+  "talk_lang": "RU",
+  "talk_title": "Building an Offline first app with Persistence storage",
+  "talk_description": "<p>My talk will be on the approach of offline first. This is something that has long been the norm on native platforms, but not very popular on the web. This will be about the experience of offline first at the architectural level using Web Worker and IndexedDB (with Lovefield SQL Engine).</p>",
+  "twitter": "geek_timofey"
+},
+  {
+    "id": 9,
+    "name": "Dima Korolev",
+    "photo": "dima-korolev.jpg",
+    "city": "Moscow, Russia",
+    "intro": "<p>В разработке с младших классов школы, в команде Tinkoff.ru - c 2016 года. По образованию врач, по призванию зануда.</p>",
+    "talk_lang": "RU",
+    "talk_title": "Через тернии к ATM",
+    "talk_description": "<p>В августе 2018 года Тинькофф Банк запустил собственную сеть банкоматов. Одна из задач, стоявших перед командой - разработка оригинального, понятного и удобного для клиентов интерфейса. Рассказ о том, как важно выбирать технологии исходя из условий, с какими проблемами мы столкнулись, как их можно было бы избежать, и что из этого всего вышло.</p> <p>1) Что собой представляет UI для банкоматов.<br>- Взаимодействие софта и железа внутри банкомата.<br>- Используемый стек технологий для разработки UI.<br>- Почему выбрали именно такой стек?<br><br>2) Какие проблемы мы испытывали и испытываем при разработке и тестировании.<br>- Тестирование.<br>- Релизы.<br>- Решение клиентских проблем, необычные случаи из жизни.<br><br>3) Что удалось сделать.<br>- Много различных банкоматов, моделей, функций.<br>- Немного об оптимизации инкассации за счет наших технологий.</p>",
+    "twitter": ""
   }
 ]

@@ -1,6 +1,5 @@
 let speakersJSON = require('./data/speakers');
 
-
 for (let i = 0; i < speakersJSON.length; i++) {
   generateSpeakerPage(speakersJSON[i]);
 }
