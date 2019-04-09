@@ -86,7 +86,8 @@
     "talk_title": "Workshop: ORM without ORM",
     "talk_description": "<p>Every backend developer faces with the need to work with database. Usually it’s RDBMS and usually it’s ORM. And it’s convenient and works fine. Until the queries become monstrous. Because RDBMS allow and encourage to write complex queries, but the ORMs… ORMs don’t like anything non-standard. And developer finds himself between the hammer and the anvil: he has to write clean and neat code and he has to utilize advanced DBMS features to reach good performance. So, is there any way to do what we need to do and not to suffer? At the workshop we will search and will find the way to write pretty code and get enthusiastic glance from your DBA.</p>",
     "twitter": "AlSaft"
-  }, {
+  },
+  {
   "id": 8,
   "name": "Timofey Lavrenuyk",
   "photo": "timofey-lavrenuyk.jpg",
@@ -106,6 +107,29 @@
     "talk_lang": "RU",
     "talk_title": "Через тернии к ATM",
     "talk_description": "<p>В августе 2018 года Тинькофф Банк запустил собственную сеть банкоматов. Одна из задач, стоявших перед командой - разработка оригинального, понятного и удобного для клиентов интерфейса. Рассказ о том, как важно выбирать технологии исходя из условий, с какими проблемами мы столкнулись, как их можно было бы избежать, и что из этого всего вышло.</p> <p>1) Что собой представляет UI для банкоматов.<br>- Взаимодействие софта и железа внутри банкомата.<br>- Используемый стек технологий для разработки UI.<br>- Почему выбрали именно такой стек?<br><br>2) Какие проблемы мы испытывали и испытываем при разработке и тестировании.<br>- Тестирование.<br>- Релизы.<br>- Решение клиентских проблем, необычные случаи из жизни.<br><br>3) Что удалось сделать.<br>- Много различных банкоматов, моделей, функций.<br>- Немного об оптимизации инкассации за счет наших технологий.</p>",
+    "twitter": ""
+  },
+
+  {
+  "id": 10,
+  "name": "Irina Levina",
+  "photo": "irina-levina.jpg",
+    "city": "Minsk, Belarus",
+  "intro": "<p>A Frontend developer in Emerline. My team knows me as a person, who can gladly take strange tasks, that nobody wants to do. Сo-organiser, a regular attendee and sometimes a speaker of frontend meetups and conferences.</p>",
+  "talk_lang": "RU",
+  "talk_title": "TBD",
+  "talk_description": "<p>TBD</p>",
+  "twitter": ""
+},
+  {
+    "id": 11,
+    "name": "Kseniya Koltun",
+    "photo": "kseniya-koltun.jpg",
+    "city": "Minsk, Belarus",
+    "intro": "<p></p>",
+    "talk_lang": "RU",
+    "talk_title": "TBD",
+    "talk_description": "<p>TBD</p>",
     "twitter": ""
   }
 ]
