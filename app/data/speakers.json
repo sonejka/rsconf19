@@ -109,13 +109,12 @@
     "talk_description": "<p>В августе 2018 года Тинькофф Банк запустил собственную сеть банкоматов. Одна из задач, стоявших перед командой - разработка оригинального, понятного и удобного для клиентов интерфейса. Рассказ о том, как важно выбирать технологии исходя из условий, с какими проблемами мы столкнулись, как их можно было бы избежать, и что из этого всего вышло.</p> <p>1) Что собой представляет UI для банкоматов.<br>- Взаимодействие софта и железа внутри банкомата.<br>- Используемый стек технологий для разработки UI.<br>- Почему выбрали именно такой стек?<br><br>2) Какие проблемы мы испытывали и испытываем при разработке и тестировании.<br>- Тестирование.<br>- Релизы.<br>- Решение клиентских проблем, необычные случаи из жизни.<br><br>3) Что удалось сделать.<br>- Много различных банкоматов, моделей, функций.<br>- Немного об оптимизации инкассации за счет наших технологий.</p>",
     "twitter": ""
   },
-
   {
   "id": 10,
   "name": "Irina Levina",
   "photo": "irina-levina.jpg",
     "city": "Minsk, Belarus",
-  "intro": "<p>A Frontend developer in Emerline. My team knows me as a person, who can gladly take strange tasks, that nobody wants to do. Сo-organiser, a regular attendee and sometimes a speaker of frontend meetups and conferences.</p>",
+  "intro": "<p>A Frontend developer in Emerline. Irina can use coding as a meditation. Each day brings her a new inspiration in Frontend development, she hopes that it will never end, and she wants and tries to share it with other people.</p>",
   "talk_lang": "RU",
   "talk_title": "TBD",
   "talk_description": "<p>TBD</p>",
@@ -130,6 +129,17 @@
     "talk_lang": "RU",
     "talk_title": "TBD",
     "talk_description": "<p>TBD</p>",
+    "twitter": ""
+  },
+  {
+    "id": 12,
+    "name": "Alexander Shushunov",
+    "photo": "alexander-shushunov.jpg",
+    "city": "Tver, Russia",
+    "intro": "<p>Alexander is a software developer at EPAM Systems. He has been writing code for 15 year. And he likes it. He started as a back-end developer, but 4 years ago he turned to other side. The front-end world is amazing and it is getting better every day. Being a part of it is very exciting.</p>",
+    "talk_lang": "RU",
+    "talk_title": "Svelte. Первый взгляд.",
+    "talk_description": "<p>Рассказ о первом знакомстве с Svelte. Его основные особенности (что лежит в основе, основные концепции). Что нужно, чтобы написать первое приложение. Общие впечатления. Положительные и отрицательные стороны. Небольшое сравнение с React. </p> <p> Доклад начального уровня. Рассчитан на людей, которые давно слышали о фреймворке, но руки не доходили попробовать.</p>",
     "twitter": ""
   }
 ]
