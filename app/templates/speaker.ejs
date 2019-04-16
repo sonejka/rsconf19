@@ -155,7 +155,7 @@
         <p><%- talk_description %></p>
       </div>
 
-      <% if (workshop_title.length > 0) { %>
+      <% if (typeof workshop_title != 'undefined') { %>
 
         <div class="talk-info">
           <p class="text-lg"><%= workshop_title %></p>

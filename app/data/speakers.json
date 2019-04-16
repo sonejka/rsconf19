@@ -88,16 +88,16 @@
     "twitter": "AlSaft"
   },
   {
-  "id": 9,
-  "name": "Timofey Lavrenuyk",
-  "photo": "timofey-lavrenuyk.jpg",
-  "city": "Odessa, Ukraine",
-  "intro": "<p>Timofey is a Software Engineer at Keepsolid. Mozilla Tech Speaker. 6+ years in web development. Interested in creating my own projects, testing new features and going into production.</p>",
-  "talk_lang": "RU",
-  "talk_title": "Building an Offline first app with Persistence storage",
-  "talk_description": "<p>My talk will be on the approach of offline first. This is something that has long been the norm on native platforms, but not very popular on the web. This will be about the experience of offline first at the architectural level using Web Worker and IndexedDB (with Lovefield SQL Engine).</p>",
-  "twitter": "geek_timofey"
-},
+    "id": 9,
+    "name": "Timofey Lavrenuyk",
+    "photo": "timofey-lavrenuyk.jpg",
+    "city": "Odessa, Ukraine",
+    "intro": "<p>Timofey is a Software Engineer at Keepsolid. Mozilla Tech Speaker. 6+ years in web development. Interested in creating my own projects, testing new features and going into production.</p>",
+    "talk_lang": "RU",
+    "talk_title": "Building an Offline first app with Persistence storage",
+    "talk_description": "<p>My talk will be on the approach of offline first. This is something that has long been the norm on native platforms, but not very popular on the web. This will be about the experience of offline first at the architectural level using Web Worker and IndexedDB (with Lovefield SQL Engine).</p>",
+    "twitter": "geek_timofey"
+  },
   {
     "id": 10,
     "name": "Dima Korolev",
@@ -110,16 +110,16 @@
     "twitter": ""
   },
   {
-  "id": 11,
-  "name": "Irina Levina",
-  "photo": "irina-levina.jpg",
+    "id": 11,
+    "name": "Irina Levina",
+    "photo": "irina-levina.jpg",
     "city": "Minsk, Belarus",
-  "intro": "<p>A Frontend developer in Emerline. Irina can use coding as a meditation. Each day brings her a new inspiration in Frontend development, she hopes that it will never end, and she wants and tries to share it with other people.</p>",
-  "talk_lang": "RU",
-  "talk_title": "TBD",
-  "talk_description": "<p>TBD</p>",
-  "twitter": ""
-},
+    "intro": "<p>A Frontend developer in Emerline. Irina can use coding as a meditation. Each day brings her a new inspiration in Frontend development, she hopes that it will never end, and she wants and tries to share it with other people.</p>",
+    "talk_lang": "RU",
+    "talk_title": "TBD",
+    "talk_description": "<p>TBD</p>",
+    "twitter": ""
+  },
   {
     "id": 12,
     "name": "Kseniya Koltun",
@@ -143,16 +143,16 @@
     "twitter": ""
   },
   {
-  "id": 14,
-  "name": "Nikita Sidorov",
-  "photo": "nikita-sidorov.jpg",
-  "city": "Moscow, Russia",
-  "intro": "<p>В Маркете Никита занимается техническими проектами фронтенда, улучшая сервис как для самих разработчиков, так и для пользователей. Ручной рутине предпочитает рутину автоматизированную.</p>",
-  "talk_lang": "RU",
-  "talk_title": "Как не писать код самому: делегируем наши проблемы AST",
-  "talk_description": "<p>Рассмотрим проблему автоматического тестирования интерфейсов, работающих на технологии React. Кратко пробежимся по основам использования AST на примере автогенерации селекторов для React-компонентов, используя библиотеку Reselector.</p>",
-  "twitter": ""
-},
+    "id": 14,
+    "name": "Nikita Sidorov",
+    "photo": "nikita-sidorov.jpg",
+    "city": "Moscow, Russia",
+    "intro": "<p>В Маркете Никита занимается техническими проектами фронтенда, улучшая сервис как для самих разработчиков, так и для пользователей. Ручной рутине предпочитает рутину автоматизированную.</p>",
+    "talk_lang": "RU",
+    "talk_title": "Как не писать код самому: делегируем наши проблемы AST",
+    "talk_description": "<p>Рассмотрим проблему автоматического тестирования интерфейсов, работающих на технологии React. Кратко пробежимся по основам использования AST на примере автогенерации селекторов для React-компонентов, используя библиотеку Reselector.</p>",
+    "twitter": ""
+  },
   {
     "id": 15,
     "name": "Shawn Wang",
@@ -162,8 +162,19 @@
     "talk_lang": "EN",
     "talk_title": "STAR Apps: Design Systems, TypeScript, Apollo GraphQL, and React",
     "talk_description": "A new front-end stack is emerging. They involve building Design Systems for visual consistency, using TypeScript for internal consistency, Apollo GraphQL for data manipulation, and server- or statically-rendered React for data representation. In this talk we explore how these trends fit together, and _why_ leading product teams from AirBnb to the New York Times are embracing them.",
-    "workshop_title": "Workshop: JAMStack Jumpstart: Gatsby + Netlify" ,
-    "workshop_description": "<p>There is a lot of developer and investment interest in JAMStack technologies: from the serverless movement to new authentication models to continuous atomic deployment to the static site generator renaissance. But with so many new terms and options, it is hard for people to figure out where to start.</p><p>This workshop will teach developers to set up a simple but state of the art Gatsby and Netlify stack, which lets people create blazing fast sites and apps with React and GraphQL, backed up by a continuous deployment and serverless platform complete with authentication and CMS. It has never been easier to get a great Lighthouse score, or to deploy complex, secure webapps for free.</p>" ,
+    "workshop_title": "Workshop: JAMStack Jumpstart: Gatsby + Netlify",
+    "workshop_description": "<p>There is a lot of developer and investment interest in JAMStack technologies: from the serverless movement to new authentication models to continuous atomic deployment to the static site generator renaissance. But with so many new terms and options, it is hard for people to figure out where to start.</p><p>This workshop will teach developers to set up a simple but state of the art Gatsby and Netlify stack, which lets people create blazing fast sites and apps with React and GraphQL, backed up by a continuous deployment and serverless platform complete with authentication and CMS. It has never been easier to get a great Lighthouse score, or to deploy complex, secure webapps for free.</p>",
     "twitter": "swyx"
+  },
+  {
+    "id": 16,
+    "name": "Sergey Shalyapin",
+    "photo": "sergey-shalyapin.jpg",
+    "city": "Minsk, Belarus",
+    "intro": "<p>6-year front-end developer. Senior engineer at Oxagile. Really cross-platform developer making apps from native mobile applications up to TV apps using js-based technologies. Lecturer at EPAM js lab, mentor and lecturer at rolling scopes since it was started, who became streamer in fact :)</p>",
+    "talk_lang": "EN",
+    "talk_title": "What's wrong with classic education?!",
+    "talk_description": "<p>What was new in terms of education tasks, how offline 30-person lectures grew up to thousand-viewers online webinars. How home tasks were updated. And what technologies are used to keep up the school.</p>",
+    "twitter": ""
   }
 ]
