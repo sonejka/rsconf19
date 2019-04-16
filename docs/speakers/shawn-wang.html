@@ -17,7 +17,7 @@
   <meta charset="utf-8">
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>RS Conf 2019 | Talk <%= talk_title %></title>
+  <title>RS Conf 2019 | Talk STAR Apps: Design Systems, TypeScript, Apollo GraphQL, and React</title>
 
   <link rel="apple-touch-icon" href="../apple-touch-icon.png">
   <!-- Place favicon.ico in the root directory -->
@@ -147,26 +147,26 @@
     <div class="content-sm">
 
       <div class="talk-info">
-        <p class="text-lg"><%= talk_title %></p>
+        <p class="text-lg">STAR Apps: Design Systems, TypeScript, Apollo GraphQL, and React</p>
         <p class="text-md"><!--<span class="talk-date">FEB 11</span>, -->
           <!--<span class="talk-time">10:00</span> -->
-          <!--<span class="talk-place first-stream">Pink Room</span>--><span class="talk-lang"><%= talk_lang %></span>
+          <!--<span class="talk-place first-stream">Pink Room</span>--><span class="talk-lang">EN</span>
         </p>
-        <p><%- talk_description %></p>
+        <p>A new front-end stack is emerging. They involve building Design Systems for visual consistency, using TypeScript for internal consistency, Apollo GraphQL for data manipulation, and server- or statically-rendered React for data representation. In this talk we explore how these trends fit together, and _why_ leading product teams from AirBnb to the New York Times are embracing them.</p>
       </div>
 
-      <% if (workshop_title.length > 0) { %>
+      
 
         <div class="talk-info">
-          <p class="text-lg"><%= workshop_title %></p>
+          <p class="text-lg">Workshop: JAMStack Jumpstart: Gatsby + Netlify</p>
           <p class="text-md"><!--<span class="talk-date">FEB 11</span>, -->
             <!--<span class="talk-time">10:00</span> -->
-            <!--<span class="talk-place first-stream">Pink Room</span>--><span class="talk-lang"><%= talk_lang %></span>
+            <!--<span class="talk-place first-stream">Pink Room</span>--><span class="talk-lang">EN</span>
           </p>
-          <p><%- workshop_description %></p>
+          <p><p>There is a lot of developer and investment interest in JAMStack technologies: from the serverless movement to new authentication models to continuous atomic deployment to the static site generator renaissance. But with so many new terms and options, it is hard for people to figure out where to start.</p><p>This workshop will teach developers to set up a simple but state of the art Gatsby and Netlify stack, which lets people create blazing fast sites and apps with React and GraphQL, backed up by a continuous deployment and serverless platform complete with authentication and CMS. It has never been easier to get a great Lighthouse score, or to deploy complex, secure webapps for free.</p></p>
         </div>
 
-      <% } %>
+      
 
 
     </div>
@@ -176,15 +176,15 @@
     <div class="content-sm">
       <h2>Speaker</h2>
       <div class="speaker-profile">
-        <img src="../images/speakers/<%= photo %>" alt="<%= name %> photo">
-        <div class="speaker-about"><p class="text-lg"><%= name %></p>
-          <p class="text-md margin-bottom-md"><%= city %></p>
-          <div class="margin-bottom-md"><%- intro %></div>
+        <img src="../images/speakers/shawn-wang.jpg" alt="Shawn Wang photo">
+        <div class="speaker-about"><p class="text-lg">Shawn Wang</p>
+          <p class="text-md margin-bottom-md">New York, United States</p>
+          <div class="margin-bottom-md"><p><a target='_blank' href='https://twitter.com/swyx'>@swyx</a> is an Infinite Builder working on Developer Experience at Netlify. In his free time he helps people Learn in Public at Egghead.io and /r/reactjs.</p></div>
 
-          <% if (twitter.length > 0) { %>
-            <p>Twitter: <a class="bold" target="_blank" href="https://twitter.com/<%= twitter %>">@<%= twitter %></a>
+          
+            <p>Twitter: <a class="bold" target="_blank" href="https://twitter.com/swyx">@swyx</a>
             </p>
-          <% } %>
+          
         </div>
       </div>
 

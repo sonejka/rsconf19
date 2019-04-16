@@ -1,6 +1,6 @@
 [
   {
-    "id": 0,
+    "id": 1,
     "name": "Alexander Gerasimov",
     "photo": "alexander-gerasimov.jpg",
     "city": "Berlin, Germany",
@@ -11,7 +11,7 @@
     "twitter": "da_quirm"
   },
   {
-    "id": 1,
+    "id": 2,
     "name": "Andrei Lesnitsky",
     "photo": "andrei-lesnitsky.jpg",
     "city": "Minsk, Belarus",
@@ -22,10 +22,10 @@
     "twitter": "lesnitsky_a"
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Andre Gloukhmantchouk",
     "photo": "andre-gloukhmantchouk.jpg",
-    "city": "Los Angeles, The United States",
+    "city": "Los Angeles, United States",
     "intro": "<p>Andre is Software Engineer at Google/YouTube monetization. Uses his spare time to keep up with ever-evolving Front End world. Loves snowboard, wakeboard, &lt;anything&gt;board.</p>",
     "talk_lang": "EN",
     "talk_title": "Talk TBD",
@@ -33,7 +33,7 @@
     "twitter": ""
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Martin Splitt",
     "photo": "martin-splitt.jpg",
     "city": "Zürich, Switzerland",
@@ -44,7 +44,7 @@
     "twitter": "g33konaut"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Kirill Knysh",
     "photo": "kirill-knysh.jpg",
     "city": "Amsterdam, The Netherlands",
@@ -55,7 +55,7 @@
     "twitter": ""
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Ilya Pukhalski",
     "photo": "ilya-pukhalski.jpg",
     "city": "Amsterdam, The Netherlands",
@@ -66,7 +66,7 @@
     "twitter": "pukhalski"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Martin Woolley",
     "photo": "martin-woolley.jpg",
     "city": "London, United Kingdom",
@@ -77,7 +77,7 @@
     "twitter": "bluetooth_mdw"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Alexander Saft",
     "photo": "alexander-saft.jpg",
     "city": "Moscow, Russia",
@@ -88,7 +88,7 @@
     "twitter": "AlSaft"
   },
   {
-  "id": 8,
+  "id": 9,
   "name": "Timofey Lavrenuyk",
   "photo": "timofey-lavrenuyk.jpg",
   "city": "Odessa, Ukraine",
@@ -99,7 +99,7 @@
   "twitter": "geek_timofey"
 },
   {
-    "id": 9,
+    "id": 10,
     "name": "Dima Korolev",
     "photo": "dima-korolev.jpg",
     "city": "Moscow, Russia",
@@ -110,7 +110,7 @@
     "twitter": ""
   },
   {
-  "id": 10,
+  "id": 11,
   "name": "Irina Levina",
   "photo": "irina-levina.jpg",
     "city": "Minsk, Belarus",
@@ -121,18 +121,18 @@
   "twitter": ""
 },
   {
-    "id": 11,
+    "id": 12,
     "name": "Kseniya Koltun",
     "photo": "kseniya-koltun.jpg",
     "city": "Minsk, Belarus",
-    "intro": "<p></p>",
+    "intro": "<p>Head of UX/ Product Manager в стартапе https://facemetrics.io/, одного из известных белорусских стартапов в области дополненной реальности.\nДо стартапа Ксения более 10 лет работала в EPAM Systems, разрабатывая интерфейсы для заказчиков с мировым именем и руководя группой из 30 дизайнеров; выступила ментором Minsk Service Design Jam и докладчиком конференций «Деловой интернет», ProfsoUX, The Rolling Scopes.</p>",
     "talk_lang": "RU",
     "talk_title": "TBD",
     "talk_description": "<p>TBD</p>",
     "twitter": ""
   },
   {
-    "id": 12,
+    "id": 13,
     "name": "Alexander Shushunov",
     "photo": "alexander-shushunov.jpg",
     "city": "Tver, Russia",
@@ -141,5 +141,29 @@
     "talk_title": "Svelte. Первый взгляд.",
     "talk_description": "<p>Рассказ о первом знакомстве с Svelte. Его основные особенности (что лежит в основе, основные концепции). Что нужно, чтобы написать первое приложение. Общие впечатления. Положительные и отрицательные стороны. Небольшое сравнение с React. </p> <p> Доклад начального уровня. Рассчитан на людей, которые давно слышали о фреймворке, но руки не доходили попробовать.</p>",
     "twitter": ""
+  },
+  {
+  "id": 14,
+  "name": "Nikita Sidorov",
+  "photo": "nikita-sidorov.jpg",
+  "city": "Moscow, Russia",
+  "intro": "<p>В Маркете Никита занимается техническими проектами фронтенда, улучшая сервис как для самих разработчиков, так и для пользователей. Ручной рутине предпочитает рутину автоматизированную.</p>",
+  "talk_lang": "RU",
+  "talk_title": "Как не писать код самому: делегируем наши проблемы AST",
+  "talk_description": "<p>Рассмотрим проблему автоматического тестирования интерфейсов, работающих на технологии React. Кратко пробежимся по основам использования AST на примере автогенерации селекторов для React-компонентов, используя библиотеку Reselector.</p>",
+  "twitter": ""
+},
+  {
+    "id": 15,
+    "name": "Shawn Wang",
+    "photo": "shawn-wang.jpg",
+    "city": "New York, United States",
+    "intro": "<p><a target='_blank' href='https://twitter.com/swyx'>@swyx</a> is an Infinite Builder working on Developer Experience at Netlify. In his free time he helps people Learn in Public at Egghead.io and /r/reactjs.</p>",
+    "talk_lang": "EN",
+    "talk_title": "STAR Apps: Design Systems, TypeScript, Apollo GraphQL, and React",
+    "talk_description": "A new front-end stack is emerging. They involve building Design Systems for visual consistency, using TypeScript for internal consistency, Apollo GraphQL for data manipulation, and server- or statically-rendered React for data representation. In this talk we explore how these trends fit together, and _why_ leading product teams from AirBnb to the New York Times are embracing them.",
+    "workshop_title": "Workshop: JAMStack Jumpstart: Gatsby + Netlify" ,
+    "workshop_description": "<p>There is a lot of developer and investment interest in JAMStack technologies: from the serverless movement to new authentication models to continuous atomic deployment to the static site generator renaissance. But with so many new terms and options, it is hard for people to figure out where to start.</p><p>This workshop will teach developers to set up a simple but state of the art Gatsby and Netlify stack, which lets people create blazing fast sites and apps with React and GraphQL, backed up by a continuous deployment and serverless platform complete with authentication and CMS. It has never been easier to get a great Lighthouse score, or to deploy complex, secure webapps for free.</p>" ,
+    "twitter": "swyx"
   }
 ]
