@@ -176,5 +176,16 @@
     "talk_title": "What's wrong with classic education?!",
     "talk_description": "<p>What was new in terms of education tasks, how offline 30-person lectures grew up to thousand-viewers online webinars. How home tasks were updated. And what technologies are used to keep up the school.</p>",
     "twitter": ""
+  },
+  {
+    "id": 17,
+    "name": "Madlaina Kalunder",
+    "photo": "madlaina-kalunder.jpg",
+    "city": "Zurich, Switzerland",
+    "intro": "<p>Madlaina is a full stack developer and a 3d graphics enthusiast on a mission to make 3d content accessible for people working on the web. She graduated at the Zurich University of Arts with a bachelor degree in Game Design, combining the passion for 3d and storytelling with the newest technologies.</p> <p>Currently, she researches XR technologies and 3D Human-Computer Interaction at the University of Applied Science Northwestern Switzerland. Madlaina believes in bringing people of different backgrounds together to solve problems in creative ways. </p>",
+    "talk_lang": "EN",
+    "talk_title": "Beyond Flatland - the rise of 3D user interfaces",
+    "talk_description": "<p>As humans we use spatial<sup>*</sup> intelligence to navigate around the world, record information as mental models and to solve complex three-dimensional problems. Navigating virtual 3D content with common 2D interaction techniques has severe drawbacks regarding efficiency and ease of use. In this talk we will explore possibilities of using three-dimensional user interfaces which let the user interact with virtual objects, environments or information using direct 3D input in the physical or virtual space.</p><p>Seeing how complex 3D interaction concepts can be broken down to simpler problems will inspire web developers to get creative and consider creating spatial computing products with 3D web technologies. Get inspired to experiment with the techniques and explore the possibilities of the immersive web beyond flatland.</p><p><small><sup>*</sup>spatial stands for \"relating to or occupying space\"</small></p> <h3 class='padding-top-md'>Takeaways for the audience</h3><ul> <li>Introduction to 3D UI/UX and interaction techniques</li> <li>Exploration of 3D user interaction systems and device landscape</li>  <li>Opportunities of Collaboration in spatial computing</li> <li>Enhancing Immersion through Storytelling & Visual Narrative</li> <li>Human Factors in Natural User Interfaces</li> <li>Opportunities in immersive web applications</li> <li>cool demos</li></ul>",
+    "twitter": "anialdam"
   }
 ]
