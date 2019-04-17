@@ -187,5 +187,16 @@
     "talk_title": "Beyond Flatland - the rise of 3D user interfaces",
     "talk_description": "<p>As humans we use spatial<sup>*</sup> intelligence to navigate around the world, record information as mental models and to solve complex three-dimensional problems. Navigating virtual 3D content with common 2D interaction techniques has severe drawbacks regarding efficiency and ease of use. In this talk we will explore possibilities of using three-dimensional user interfaces which let the user interact with virtual objects, environments or information using direct 3D input in the physical or virtual space.</p><p>Seeing how complex 3D interaction concepts can be broken down to simpler problems will inspire web developers to get creative and consider creating spatial computing products with 3D web technologies. Get inspired to experiment with the techniques and explore the possibilities of the immersive web beyond flatland.</p><p><small><sup>*</sup>spatial stands for \"relating to or occupying space\"</small></p> <h3 class='padding-top-md'>Takeaways for the audience</h3><ul> <li>Introduction to 3D UI/UX and interaction techniques</li> <li>Exploration of 3D user interaction systems and device landscape</li>  <li>Opportunities of Collaboration in spatial computing</li> <li>Enhancing Immersion through Storytelling & Visual Narrative</li> <li>Human Factors in Natural User Interfaces</li> <li>Opportunities in immersive web applications</li> <li>cool demos</li></ul>",
     "twitter": "anialdam"
+  },
+  {
+    "id": 18,
+    "name": "Anton Bely",
+    "photo": "anton-bely.jpg",
+    "city": "Minsk, Belarus",
+    "intro": "<p>Anton Bely is a Software Engineer at Yandex. He started as Java dev, but almost at the beginning turned to front-end and now feels better. Passioned about Front-End and Math. Strives to learn how things work. Touches ML for fun. Lecturer at Rolling Scopes School.</p>",
+    "talk_lang": "RU",
+    "talk_title": "Angular + Redux ... stop, what?",
+    "talk_description": "<p>Now we can use Redux within Angular application with help of ngrx. I would like to talk about some useful tricks, which can help us to improve code readability, performance and make you feel better.</p>",
+    "twitter": ""
   }
 ]
