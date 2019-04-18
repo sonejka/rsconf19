@@ -198,5 +198,16 @@
     "talk_title": "Angular + Redux ... stop, what?",
     "talk_description": "<p>Now we can use Redux within Angular application with help of ngrx. I would like to talk about some useful tricks, which can help us to improve code readability, performance and make you feel better.</p>",
     "twitter": ""
+  },
+  {
+    "id": 19,
+    "name": "Ekaterina Prigara",
+    "photo": "ekaterina_prigara.jpg",
+    "city": "Munich, Germany",
+    "intro": "<p>Ekaterina is a Product Manager for the WebStorm IDE at JetBrains. As part of her job, and as a hobby, she follows all the new things going on in the JavaScript ecosystem, experiments with new tools, and tries to understand how WebStorm can help developers. She also loves music and coffee.</p>",
+    "talk_lang": "RU",
+    "talk_title": "TBD",
+    "talk_description": "<p></p>",
+    "twitter": "katyaprigara"
   }
 ]
