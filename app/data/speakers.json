@@ -202,12 +202,23 @@
   {
     "id": 19,
     "name": "Ekaterina Prigara",
-    "photo": "ekaterina_prigara.jpg",
+    "photo": "ekaterina-prigara.jpg",
     "city": "Munich, Germany",
     "intro": "<p>Ekaterina is a Product Manager for the WebStorm IDE at JetBrains. As part of her job, and as a hobby, she follows all the new things going on in the JavaScript ecosystem, experiments with new tools, and tries to understand how WebStorm can help developers. She also loves music and coffee.</p>",
     "talk_lang": "RU",
     "talk_title": "TBD",
     "talk_description": "<p></p>",
     "twitter": "katyaprigara"
+  },
+  {
+    "id": 20,
+    "name": "Muhammed Salih Guler",
+    "photo": "muhammed-salih-guler.jpg",
+    "city": "Berlin, Germany",
+    "intro": "<p>Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart. He likes sharing his knowledge with the people by mentoring aspiring developers, blogging and talking at conferences.</p>",
+    "talk_lang": "EN",
+    "talk_title": "Animations in Flutter",
+    "talk_description": "<p>If you are into mobile development, you probably heard of Flutter. It's the new kid in the block and offers you a native cross-platform development environment.</p> <p>One of the biggest advertisements for the Flutter is \"You won't say no to your UI/UX designer anymore\" and one of the biggest reason for this is: Animations.</p> <p>In this talk we will go through, how you can create the widely used animations in Flutter by explaining the key concepts of it and of course, we will see some code :)</p>",
+    "twitter": "salihgueler"
   }
 ]
