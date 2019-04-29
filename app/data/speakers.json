@@ -220,5 +220,16 @@
     "talk_title": "Animations in Flutter",
     "talk_description": "<p>If you are into mobile development, you probably heard of Flutter. It's the new kid in the block and offers you a native cross-platform development environment.</p> <p>One of the biggest advertisements for the Flutter is \"You won't say no to your UI/UX designer anymore\" and one of the biggest reason for this is: Animations.</p> <p>In this talk we will go through, how you can create the widely used animations in Flutter by explaining the key concepts of it and of course, we will see some code :)</p>",
     "twitter": "salihgueler"
+  },
+  {
+    "id": 21,
+    "name": "Aleksandr Denisov",
+    "photo": "aleksandr-denisov.jpg",
+    "city": "Nizhny Novgorod, Russia",
+    "intro": "<p>EPAM, Senior Software Engineer, Nizhny Novgorod</p><p>Founder of GDG Nizhny Novgorod</p><p>Co-Founder of the podcast  “Mobile People Talks”</p><p>Stack: Java, Microservices, Cloud, Firebase and Flutter of course</p><p>I’m experienced a lot in enterprise development, in IT for more than 15 years. I worked in the field of the nuclear industry, taxation, telecom. Recently, I specialized mainly in a microservice architecture, but now my main interest is Flutter. I’m a Flutter enthusiast and Co-Head of Flutter Competency in EPAM</p>",
+    "talk_lang": "RU",
+    "talk_title": "How to cook Flutter correctly",
+    "talk_description": "<p>Flutter is a new mobile framework from Google, created for the development of applications for iOS and Android with the same codebase. SDK for cross-platform development allows developers to write applications in the Dart language and is designed to easily create a UI for both platforms.</p><p>Unfortunately, there is nothing in the documentation that looks like a guide to the recommended application architecture.</p><p>In the talk, I’ll talk about various typical architectures that can be used when developing on Flutter, their pros, and cons. And on one of them - BloC, we will stop in more detail.</p><p>BloC (Business Logic Component) is an architectural template presented by Google at the DartConf conference last year, based on the reactive paradigm, and in my opinion one of the most suitable for development on Flutter.</p>",
+    "twitter": "ShuregDenisov"
   }
 ]
