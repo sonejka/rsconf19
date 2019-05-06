@@ -266,15 +266,27 @@
     "company": "SFEIR"
   },
   {
-  "id": 23,
-  "name": "Vojtech Miksu",
-  "photo": "vojtech-miksu.jpg",
-  "city": "San Francisco, United States",
-  "intro": "<p>TBD</p>",
-  "talk_lang": "EN",
-  "talk_title": "What A Drag",
-  "talk_description": "<p>\"Can we do this thing drag and droppable?\". That's one of the sentences that every front end developer fears the most. There are many DnD libraries out there but did you ever consider building something from scratch before adding additional 100kB to your bundle?</p><p>Let's take a look what tools browsers offer today. You can build beautiful and accessible experiences while supporting mobile devices and not sacrificing the performance! This talk is inspired by the recently released react-movable library.</p>",
-  "twitter": "vmiksu",
-  "company": "Uber"
-}
+    "id": 23,
+    "name": "Vojtech Miksu",
+    "photo": "vojtech-miksu.jpg",
+    "city": "San Francisco, United States",
+    "intro": "<p>TBD</p>",
+    "talk_lang": "EN",
+    "talk_title": "What A Drag",
+    "talk_description": "<p>\"Can we do this thing drag and droppable?\". That's one of the sentences that every front end developer fears the most. There are many DnD libraries out there but did you ever consider building something from scratch before adding additional 100kB to your bundle?</p><p>Let's take a look what tools browsers offer today. You can build beautiful and accessible experiences while supporting mobile devices and not sacrificing the performance! This talk is inspired by the recently released react-movable library.</p>",
+    "twitter": "vmiksu",
+    "company": "Uber"
+  },
+  {
+    "id": 24,
+    "name": "Richard Westenra",
+    "photo": "richard-westenra.jpg",
+    "city": "London, United Kingdom",
+    "intro": "<p>I'm a London-based front-end dev from New Zealand with ten years of experience, specialising in interactive data-visualisation. I often work with React and D3, and am interested in accessibility, open web standards and usability.</p><p>I once won a \"Code in the Dark\" blind-coding competition, but I also once took down a client website overnight by deploying to the wrong endpoint at 5pm, so overall I reckon I'm breaking even.</p>",
+    "talk_lang": "EN",
+    "talk_title": "Painting with Data",
+    "talk_description": "<p>Data-visualisation trades in metaphor and allusion. At its best, it’s imaginative storytelling with data and algorithms. We’ll explore how to create beauty with JavaScript, how dataviz can shape the way we see the world, and how you can get started painting with data.</p>",
+    "twitter": "richardwestenra",
+    "company": "QuantumBlack"
+  }
 ]
