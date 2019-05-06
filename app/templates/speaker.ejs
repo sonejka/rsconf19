@@ -168,7 +168,6 @@
 
       <% } %>
 
-
     </div>
   </section>
 
@@ -176,7 +175,12 @@
     <div class="content-sm">
       <h2>Speaker</h2>
       <div class="speaker-profile">
-        <img src="../images/speakers/<%= photo %>" alt="<%= name %> photo">
+        <figure>
+          <img src="../images/speakers/<%= photo %>" alt="<%= name %> photo">
+          <figcaption>
+            <span class="speaker-company"><%= company %></span>
+          </figcaption>
+        </figure>
         <div class="speaker-about"><p class="text-lg"><%= name %></p>
           <p class="text-md margin-bottom-md"><%= city %></p>
           <div class="margin-bottom-md"><%- intro %></div>

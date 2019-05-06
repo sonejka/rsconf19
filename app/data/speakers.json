@@ -8,7 +8,8 @@
     "talk_lang": "EN",
     "talk_title": "Talk TBD",
     "talk_description": "",
-    "twitter": "da_quirm"
+    "twitter": "da_quirm",
+    "company": "wix.com"
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "talk_lang": "EN",
     "talk_title": "Talk TBD",
     "talk_description": "",
-    "twitter": "lesnitsky_a"
+    "twitter": "lesnitsky_a",
+    "company": "Self-employed"
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "talk_lang": "EN",
     "talk_title": "Talk TBD",
     "talk_description": "",
-    "twitter": ""
+    "twitter": "",
+    "company": "Google"
   },
   {
     "id": 4,
@@ -41,7 +44,8 @@
     "talk_lang": "EN",
     "talk_title": "Talk TBD",
     "talk_description": "",
-    "twitter": "g33konaut"
+    "twitter": "g33konaut",
+    "company": "Google"
   },
   {
     "id": 5,
@@ -52,7 +56,8 @@
     "talk_lang": "EN",
     "talk_title": "Talk TBD",
     "talk_description": "",
-    "twitter": ""
+    "twitter": "",
+    "company": "Uber"
   },
   {
     "id": 6,
@@ -63,7 +68,8 @@
     "talk_lang": "EN",
     "talk_title": "Talk TBD",
     "talk_description": "",
-    "twitter": "pukhalski"
+    "twitter": "pukhalski",
+    "company": "EPAM"
   },
   {
     "id": 7,
@@ -74,7 +80,8 @@
     "talk_lang": "EN",
     "talk_title": "Creating IoT Applications with Web Bluetooth",
     "talk_description": "<p>10 million Bluetooth devices ship every day, and that figure is rising. Regarded as one of the key, enabling technologies of the Internet of Things (IoT), Bluetooth is everywhere and in the summer of 2017, a new Bluetooth technology, Bluetooth mesh networking was released. Bluetooth mesh is used in enterprise and industrial IoT systems and in these environments, web technologies and cloud-based architectures are king. </p><p>Web Bluetooth allows developers to create web applications which can monitor and control Bluetooth devices. In this session, we’ll review key Bluetooth concepts and capabilities and the Web Bluetooth APIs which let you exploit them. </p><p>There may even be demos!</p>",
-    "twitter": "bluetooth_mdw"
+    "twitter": "bluetooth_mdw",
+    "company": "Bluetooth SIG"
   },
   {
     "id": 8,
@@ -85,7 +92,8 @@
     "talk_lang": "RU",
     "talk_title": "Workshop: ORM without ORM",
     "talk_description": "<p>Every backend developer faces with the need to work with database. Usually it’s RDBMS and usually it’s ORM. And it’s convenient and works fine. Until the queries become monstrous. Because RDBMS allow and encourage to write complex queries, but the ORMs… ORMs don’t like anything non-standard. And developer finds himself between the hammer and the anvil: he has to write clean and neat code and he has to utilize advanced DBMS features to reach good performance. So, is there any way to do what we need to do and not to suffer? At the workshop we will search and will find the way to write pretty code and get enthusiastic glance from your DBA.</p>",
-    "twitter": "AlSaft"
+    "twitter": "AlSaft",
+    "company": "Lifestream"
   },
   {
     "id": 9,
@@ -96,7 +104,8 @@
     "talk_lang": "RU",
     "talk_title": "Building an Offline first app with Persistence storage",
     "talk_description": "<p>My talk will be on the approach of offline first. This is something that has long been the norm on native platforms, but not very popular on the web. This will be about the experience of offline first at the architectural level using Web Worker and IndexedDB (with Lovefield SQL Engine).</p>",
-    "twitter": "geek_timofey"
+    "twitter": "geek_timofey",
+    "company": "KeepSolid"
   },
   {
     "id": 10,
@@ -107,7 +116,8 @@
     "talk_lang": "RU",
     "talk_title": "Через тернии к ATM",
     "talk_description": "<p>В августе 2018 года Тинькофф Банк запустил собственную сеть банкоматов. Одна из задач, стоявших перед командой - разработка оригинального, понятного и удобного для клиентов интерфейса. Рассказ о том, как важно выбирать технологии исходя из условий, с какими проблемами мы столкнулись, как их можно было бы избежать, и что из этого всего вышло.</p> <p>1) Что собой представляет UI для банкоматов.<br>- Взаимодействие софта и железа внутри банкомата.<br>- Используемый стек технологий для разработки UI.<br>- Почему выбрали именно такой стек?<br><br>2) Какие проблемы мы испытывали и испытываем при разработке и тестировании.<br>- Тестирование.<br>- Релизы.<br>- Решение клиентских проблем, необычные случаи из жизни.<br><br>3) Что удалось сделать.<br>- Много различных банкоматов, моделей, функций.<br>- Немного об оптимизации инкассации за счет наших технологий.</p>",
-    "twitter": ""
+    "twitter": "",
+    "company": "Tinkoff"
   },
   {
     "id": 11,
@@ -118,7 +128,8 @@
     "talk_lang": "RU",
     "talk_title": "TBD",
     "talk_description": "<p>TBD</p>",
-    "twitter": ""
+    "twitter": "",
+    "company": "Emerline"
   },
   {
     "id": 12,
@@ -129,7 +140,8 @@
     "talk_lang": "RU",
     "talk_title": "TBD",
     "talk_description": "<p>TBD</p>",
-    "twitter": ""
+    "twitter": "",
+    "company": "FaceMetrics"
   },
   {
     "id": 13,
@@ -140,7 +152,8 @@
     "talk_lang": "RU",
     "talk_title": "Svelte. Первый взгляд.",
     "talk_description": "<p>Рассказ о первом знакомстве с Svelte. Его основные особенности (что лежит в основе, основные концепции). Что нужно, чтобы написать первое приложение. Общие впечатления. Положительные и отрицательные стороны. Небольшое сравнение с React. </p> <p> Доклад начального уровня. Рассчитан на людей, которые давно слышали о фреймворке, но руки не доходили попробовать.</p>",
-    "twitter": ""
+    "twitter": "",
+    "company": "EPAM"
   },
   {
     "id": 14,
@@ -151,7 +164,8 @@
     "talk_lang": "RU",
     "talk_title": "Как не писать код самому: делегируем наши проблемы AST",
     "talk_description": "<p>Рассмотрим проблему автоматического тестирования интерфейсов, работающих на технологии React. Кратко пробежимся по основам использования AST на примере автогенерации селекторов для React-компонентов, используя библиотеку Reselector.</p>",
-    "twitter": ""
+    "twitter": "",
+    "company": "Yandex"
   },
   {
     "id": 15,
@@ -164,7 +178,8 @@
     "talk_description": "A new front-end stack is emerging. They involve building Design Systems for visual consistency, using TypeScript for internal consistency, Apollo GraphQL for data manipulation, and server- or statically-rendered React for data representation. In this talk we explore how these trends fit together, and _why_ leading product teams from AirBnb to the New York Times are embracing them.",
     "workshop_title": "Workshop: JAMStack Jumpstart: Gatsby + Netlify",
     "workshop_description": "<p>There is a lot of developer and investment interest in JAMStack technologies: from the serverless movement to new authentication models to continuous atomic deployment to the static site generator renaissance. But with so many new terms and options, it is hard for people to figure out where to start.</p><p>This workshop will teach developers to set up a simple but state of the art Gatsby and Netlify stack, which lets people create blazing fast sites and apps with React and GraphQL, backed up by a continuous deployment and serverless platform complete with authentication and CMS. It has never been easier to get a great Lighthouse score, or to deploy complex, secure webapps for free.</p>",
-    "twitter": "swyx"
+    "twitter": "swyx",
+    "company": "Netlify"
   },
   {
     "id": 16,
@@ -175,7 +190,8 @@
     "talk_lang": "EN",
     "talk_title": "What's wrong with classic education?!",
     "talk_description": "<p>What was new in terms of education tasks, how offline 30-person lectures grew up to thousand-viewers online webinars. How home tasks were updated. And what technologies are used to keep up the school.</p>",
-    "twitter": ""
+    "twitter": "",
+    "company": ""
   },
   {
     "id": 17,
@@ -186,7 +202,8 @@
     "talk_lang": "EN",
     "talk_title": "Beyond Flatland - the rise of 3D user interfaces",
     "talk_description": "<p>As humans we use spatial<sup>*</sup> intelligence to navigate around the world, record information as mental models and to solve complex three-dimensional problems. Navigating virtual 3D content with common 2D interaction techniques has severe drawbacks regarding efficiency and ease of use. In this talk we will explore possibilities of using three-dimensional user interfaces which let the user interact with virtual objects, environments or information using direct 3D input in the physical or virtual space.</p><p>Seeing how complex 3D interaction concepts can be broken down to simpler problems will inspire web developers to get creative and consider creating spatial computing products with 3D web technologies. Get inspired to experiment with the techniques and explore the possibilities of the immersive web beyond flatland.</p><p><small><sup>*</sup>spatial stands for \"relating to or occupying space\"</small></p> <h3 class='padding-top-md'>Takeaways for the audience</h3><ul> <li>Introduction to 3D UI/UX and interaction techniques</li> <li>Exploration of 3D user interaction systems and device landscape</li>  <li>Opportunities of Collaboration in spatial computing</li> <li>Enhancing Immersion through Storytelling & Visual Narrative</li> <li>Human Factors in Natural User Interfaces</li> <li>Opportunities in immersive web applications</li> <li>cool demos</li></ul>",
-    "twitter": "anialdam"
+    "twitter": "anialdam",
+    "company": "FHNW.ch"
   },
   {
     "id": 18,
@@ -197,7 +214,8 @@
     "talk_lang": "RU",
     "talk_title": "Angular + Redux ... stop, what?",
     "talk_description": "<p>Now we can use Redux within Angular application with help of ngrx. I would like to talk about some useful tricks, which can help us to improve code readability, performance and make you feel better.</p>",
-    "twitter": ""
+    "twitter": "",
+    "company": "Yandex"
   },
   {
     "id": 19,
@@ -206,9 +224,10 @@
     "city": "Munich, Germany",
     "intro": "<p>Ekaterina is a Product Manager for the WebStorm IDE at JetBrains. As part of her job, and as a hobby, she follows all the new things going on in the JavaScript ecosystem, experiments with new tools, and tries to understand how WebStorm can help developers. She also loves music and coffee.</p>",
     "talk_lang": "RU",
-    "talk_title": "TBD",
-    "talk_description": "<p></p>",
-    "twitter": "katyaprigara"
+    "talk_title": "How we develop WebStorm",
+    "talk_description": "<p>We at the WebStorm team at JetBrains aim at making JavaScript developers more productive and happy. I will tell you about the IDE development process, how we decide what features will be implemented, and how users can help us with that and be involved in this process.</p>",
+    "twitter": "katyaprigara",
+    "company": "JetBrains"
   },
   {
     "id": 20,
@@ -219,7 +238,8 @@
     "talk_lang": "EN",
     "talk_title": "Animations in Flutter",
     "talk_description": "<p>If you are into mobile development, you probably heard of Flutter. It's the new kid in the block and offers you a native cross-platform development environment.</p> <p>One of the biggest advertisements for the Flutter is \"You won't say no to your UI/UX designer anymore\" and one of the biggest reason for this is: Animations.</p> <p>In this talk we will go through, how you can create the widely used animations in Flutter by explaining the key concepts of it and of course, we will see some code :)</p>",
-    "twitter": "salihgueler"
+    "twitter": "salihgueler",
+    "company": "Onefootball GmbH"
   },
   {
     "id": 21,
@@ -230,6 +250,20 @@
     "talk_lang": "RU",
     "talk_title": "How to cook Flutter correctly",
     "talk_description": "<p>Flutter is a new mobile framework from Google, created for the development of applications for iOS and Android with the same codebase. SDK for cross-platform development allows developers to write applications in the Dart language and is designed to easily create a UI for both platforms.</p><p>Unfortunately, there is nothing in the documentation that looks like a guide to the recommended application architecture.</p><p>In the talk, I’ll talk about various typical architectures that can be used when developing on Flutter, their pros, and cons. And on one of them - BloC, we will stop in more detail.</p><p>BloC (Business Logic Component) is an architectural template presented by Google at the DartConf conference last year, based on the reactive paradigm, and in my opinion one of the most suitable for development on Flutter.</p>",
-    "twitter": "ShuregDenisov"
+    "twitter": "ShuregDenisov",
+    "company": "EPAM"
+  },
+
+  {
+    "id": 22,
+    "name": "Elaine Dias Batista",
+    "photo": "elaine-dias-batista.jpg",
+    "city": "Paris, France",
+    "intro": "<p>Elaine works at SFEIR on mobile and voice technologies projects. She loves to share with the community her experiences about her favorite topics: Android, Google Assistant and Flutter.</p>",
+    "talk_lang": "EN",
+    "talk_title": "Google Assistant for Android developers",
+    "talk_description": "<p>The fact that \"apps\" for the Google Assistant and for Android are both available on Android smartphones can be the cause of some confusion. Do I have to go to the Play Store to download and install an \"app\" for the Google Assistant? Can I launch a Google Assistant experience from an Android app? How to integrate advanced voice recognition (NLP or other) on existing apps? What experience should I offer on my app?  In this talk I will answer these questions, do a comparison of the ecosystems and how they can work together.</p>",
+    "twitter": "elainedbatista",
+    "company": "SFEIR"
   }
 ]
