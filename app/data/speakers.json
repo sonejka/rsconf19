@@ -253,7 +253,6 @@
     "twitter": "ShuregDenisov",
     "company": "EPAM"
   },
-
   {
     "id": 22,
     "name": "Elaine Dias Batista",
@@ -265,5 +264,17 @@
     "talk_description": "<p>The fact that \"apps\" for the Google Assistant and for Android are both available on Android smartphones can be the cause of some confusion. Do I have to go to the Play Store to download and install an \"app\" for the Google Assistant? Can I launch a Google Assistant experience from an Android app? How to integrate advanced voice recognition (NLP or other) on existing apps? What experience should I offer on my app?  In this talk I will answer these questions, do a comparison of the ecosystems and how they can work together.</p>",
     "twitter": "elainedbatista",
     "company": "SFEIR"
-  }
+  },
+  {
+  "id": 23,
+  "name": "Vojtech Miksu",
+  "photo": "vojtech-miksu.jpg",
+  "city": "San Francisco, United States",
+  "intro": "<p>TBD</p>",
+  "talk_lang": "EN",
+  "talk_title": "What A Drag",
+  "talk_description": "<p>\"Can we do this thing drag and droppable?\". That's one of the sentences that every front end developer fears the most. There are many DnD libraries out there but did you ever consider building something from scratch before adding additional 100kB to your bundle?</p><p>Let's take a look what tools browsers offer today. You can build beautiful and accessible experiences while supporting mobile devices and not sacrificing the performance! This talk is inspired by the recently released react-movable library.</p>",
+  "twitter": "vmiksu",
+  "company": "Uber"
+}
 ]
