@@ -297,8 +297,20 @@
     "intro": "<p>Milica is web developer from Belgrade, currently writing for Google about performance optimizations and tools that can help you with that. Before that she was an intern at Mozilla where she worked on Servo engine and learned a lot about how browsers work. She’s also a Mozilla Tech Speaker and a big believer in open web, always exploring new technologies that are moving it forward, like WebAssembly and WebVR.</p>",
     "talk_lang": "EN",
     "talk_title": "Fast future with WebAssembly",
-    "talk_description": "<p>The web has come a long way from text pages with links, but the only language that you could use to build applications for it was JavaScript - until now.</p><p>WebAssembly is a new type of code that modern browsers can run and it's fast by design. You do not write WebAssembly, you compile other languages, like C++ or Rust, to WebAssembly. All major browsers support it and they are steadily working on adding new features.</p><p>If you just smile and nod at the mention of binary and compilation targets, this talk is for you. It will be your gentle guide into how WebAssembly works, why we need it and how you can benefit from it in your next project (even if you continue to work with JavaScript only). Exciting real-world applications and implications included.</p>\n",
+    "talk_description": "<p>The web has come a long way from text pages with links, but the only language that you could use to build applications for it was JavaScript - until now.</p><p>WebAssembly is a new type of code that modern browsers can run and it's fast by design. You do not write WebAssembly, you compile other languages, like C++ or Rust, to WebAssembly. All major browsers support it and they are steadily working on adding new features.</p><p>If you just smile and nod at the mention of binary and compilation targets, this talk is for you. It will be your gentle guide into how WebAssembly works, why we need it and how you can benefit from it in your next project (even if you continue to work with JavaScript only). Exciting real-world applications and implications included.</p>",
     "twitter": "bibydigital",
     "company": "Mozilla"
+  },
+  {
+    "id": 26,
+    "name": "Paul Yuhnovich",
+    "photo": "paul-yuhnovich.jpg",
+    "city": "Minsk, Belarus",
+    "intro": "<p>Paul is a web developer, who happens to be several communities organizer, public speaker, mentor, traveler and just a guy with a good sense of humor. Currently lives in Minsk, but you can easily find him at any international conference.</p>",
+    "talk_lang": "EN",
+    "talk_title": "A universal fusion of the team",
+    "talk_description": "<p>In a galaxy far, far away... Perhaps there is a team with high-quality processes, their communication proceeds without any problems and each team member speaks in the language that is understandable for everyone.</p><p>However, let's go back to our realities, where much still needs to be improved. To begin with, let's try to get rid of our (dev) accent to find a common language with the rest of the team.</p>",
+    "twitter": "Paul_Yuhnovich",
+    "company": "EPAM"
   }
 ]
