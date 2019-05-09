@@ -312,5 +312,29 @@
     "talk_description": "<p>In a galaxy far, far away... Perhaps there is a team with high-quality processes, their communication proceeds without any problems and each team member speaks in the language that is understandable for everyone.</p><p>However, let's go back to our realities, where much still needs to be improved. To begin with, let's try to get rid of our (dev) accent to find a common language with the rest of the team.</p>",
     "twitter": "Paul_Yuhnovich",
     "company": "EPAM"
+  },
+  {
+    "id": 26,
+    "name": "Paul Yuhnovich",
+    "photo": "paul-yuhnovich.jpg",
+    "city": "Minsk, Belarus",
+    "intro": "<p>Paul is a web developer, who happens to be several communities organizer, public speaker, mentor, traveler and just a guy with a good sense of humor. Currently lives in Minsk, but you can easily find him at any international conference.</p>",
+    "talk_lang": "EN",
+    "talk_title": "A universal fusion of the team",
+    "talk_description": "<p>In a galaxy far, far away... Perhaps there is a team with high-quality processes, their communication proceeds without any problems and each team member speaks in the language that is understandable for everyone.</p><p>However, let's go back to our realities, where much still needs to be improved. To begin with, let's try to get rid of our (dev) accent to find a common language with the rest of the team.</p>",
+    "twitter": "Paul_Yuhnovich",
+    "company": "EPAM"
+  },
+  {
+    "id": 27,
+    "name": "Anastasiia Voitova",
+    "photo": "anastasiia-voitova.jpg",
+    "city": "Kyiv, Ukraine",
+    "intro": "<p>Software engineer with a wide background, I started as a mobile developer. Then I focused on cryptography/applied security, now I'm building security tools for protecting data during the whole life cycle, not depending on a platform.</p><p>I maintain open source security libraries that allow developers to integrate encryption into their apps and infrastructures easily (currently 11 languages/platforms are supported), conduct secure software development training and workshops about building secure apps.</p><p>Recently used languages: Swift/ObjC, Go, C.</p>",
+    "talk_lang": "EN",
+    "talk_title": "10 lines of encryption, 1500 lines of key management",
+    "talk_description": "<p>Often when users ask for some features, they don’t understand how long it takes to make them. When features are related to security, developers also often don’t understand how long it will take.</p><p>I will show the real case about one large note taking the app, that decided to implement convenient note encryption and note locking for their existing user base. But finding a balance between usability, security and mobile platforms' restrictions is complicated.</p><p>We will start with the security design scheme, then select the proper encryption library, then implement the flow, and prepare for incidents. Now — think about it — cryptography is only chapter 3 in OWASP MASVS (7 chapters in general). Even the best cryptography will fail if basic security controls are badly implemented.</p><p>Points we will go through the difference between \"locking\" and \"encrypting\", the difference between password and encryption key, how to sync passwords between devices, what exactly to store in keychain/keystore, how to use proper cryptography (AES CBC or AES GCM, random salt? IV? padding? what a hell is this mess), how to use biometrics (we don’t want to bother user, let’s use biometric keychain, but what if users will change their fingerprints — shall we invalidate all passwords?), updating encryption version (imagine, vulnerability is discovered in our library or app — how to update cipher, and softly migrate users to the new cipher, if users don’t even have a clue that encryption was versioned).</p><p>In the end, this is only one simple JIRA ticket \"let's encrypt the notes\" from the eyes of security software engineer :)</p>",
+    "twitter": "vixentael",
+    "company": "Cossack Labs"
   }
 ]
