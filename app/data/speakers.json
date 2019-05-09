@@ -336,5 +336,17 @@
     "talk_description": "<p>Often when users ask for some features, they don’t understand how long it takes to make them. When features are related to security, developers also often don’t understand how long it will take.</p><p>I will show the real case about one large note taking the app, that decided to implement convenient note encryption and note locking for their existing user base. But finding a balance between usability, security and mobile platforms' restrictions is complicated.</p><p>We will start with the security design scheme, then select the proper encryption library, then implement the flow, and prepare for incidents. Now — think about it — cryptography is only chapter 3 in OWASP MASVS (7 chapters in general). Even the best cryptography will fail if basic security controls are badly implemented.</p><p>Points we will go through the difference between \"locking\" and \"encrypting\", the difference between password and encryption key, how to sync passwords between devices, what exactly to store in keychain/keystore, how to use proper cryptography (AES CBC or AES GCM, random salt? IV? padding? what a hell is this mess), how to use biometrics (we don’t want to bother user, let’s use biometric keychain, but what if users will change their fingerprints — shall we invalidate all passwords?), updating encryption version (imagine, vulnerability is discovered in our library or app — how to update cipher, and softly migrate users to the new cipher, if users don’t even have a clue that encryption was versioned).</p><p>In the end, this is only one simple JIRA ticket \"let's encrypt the notes\" from the eyes of security software engineer :)</p>",
     "twitter": "vixentael",
     "company": "Cossack Labs"
+  },
+  {
+    "id": 28,
+    "name": "Vladimir Ivanov",
+    "photo": "vladimir-ivanov.jpg",
+    "city": "Saint-Petersburg, Russia",
+    "intro": "<p>Vladimir Ivanov is a Mobile Solution Architect in EPAM Systems. Basically it means he designs software systems with focus on the mobile apps. Coming from Android background Vladimir is also proficient in React-Native and cloud technologies and incredibly passionate about sharing his knowledge.</p>",
+    "talk_lang": "EN",
+    "talk_title": "Wake Up, Neo",
+    "talk_description": "<p>I believe most of us are just doing their day-to-day job and it's fine. But have you thought are we doing alright as an industry? Do we do things in a right way? Do we do the right things? Are there any flaws in what we are doing? Actually, there are! The security is not great generally speaking, the performance of our apps can be much better, the quality is below optimal and the emotional atmosphere is definitely not ideal. In this topic, I want to uncover those issues to give the current state of the industry and provide some tips on how we can improve it together. </p>",
+    "twitter": "vvsevolodovich",
+    "company": "EPAM"
   }
 ]
