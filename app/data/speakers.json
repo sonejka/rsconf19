@@ -270,7 +270,7 @@
     "name": "Vojtech Miksu",
     "photo": "vojtech-miksu.jpg",
     "city": "San Francisco, United States",
-    "intro": "<p>TBD</p>",
+    "intro": "<p> I am an UI Platform Engineer at Uber who builds and maintains a component library called Base Web and various tooling around design systems. Let's find the best machanka place in Minsk and chat about open source, CSS in JS and React!</p>",
     "talk_lang": "EN",
     "talk_title": "What A Drag",
     "talk_description": "<p>\"Can we do this thing drag and droppable?\". That's one of the sentences that every front end developer fears the most. There are many DnD libraries out there but did you ever consider building something from scratch before adding additional 100kB to your bundle?</p><p>Let's take a look what tools browsers offer today. You can build beautiful and accessible experiences while supporting mobile devices and not sacrificing the performance! This talk is inspired by the recently released react-movable library.</p>",
@@ -314,18 +314,6 @@
     "company": "EPAM"
   },
   {
-    "id": 26,
-    "name": "Paul Yuhnovich",
-    "photo": "paul-yuhnovich.jpg",
-    "city": "Minsk, Belarus",
-    "intro": "<p>Paul is a web developer, who happens to be several communities organizer, public speaker, mentor, traveler and just a guy with a good sense of humor. Currently lives in Minsk, but you can easily find him at any international conference.</p>",
-    "talk_lang": "EN",
-    "talk_title": "A universal fusion of the team",
-    "talk_description": "<p>In a galaxy far, far away... Perhaps there is a team with high-quality processes, their communication proceeds without any problems and each team member speaks in the language that is understandable for everyone.</p><p>However, let's go back to our realities, where much still needs to be improved. To begin with, let's try to get rid of our (dev) accent to find a common language with the rest of the team.</p>",
-    "twitter": "Paul_Yuhnovich",
-    "company": "EPAM"
-  },
-  {
     "id": 27,
     "name": "Anastasiia Voitova",
     "photo": "anastasiia-voitova.jpg",
@@ -348,5 +336,29 @@
     "talk_description": "<p>I believe most of us are just doing their day-to-day job and it's fine. But have you thought are we doing alright as an industry? Do we do things in a right way? Do we do the right things? Are there any flaws in what we are doing? Actually, there are! The security is not great generally speaking, the performance of our apps can be much better, the quality is below optimal and the emotional atmosphere is definitely not ideal. In this topic, I want to uncover those issues to give the current state of the industry and provide some tips on how we can improve it together. </p>",
     "twitter": "vvsevolodovich",
     "company": "EPAM"
+  },
+  {
+    "id": 29,
+    "name": "Artur Kenzhaev",
+    "photo": "artur-kenzhaev.jpg",
+    "city": "Moscow, Russia",
+    "intro": "<p>Team Lead at Yandex, Yandex.Market Design System Lead Engineer.</p><p>Artur is obsessed with coding, music, drums and has Master Degree on Computational Linguistics. He's also passionate about software architecture, Type Systems and User/Application Interfaces. In his spare time, he looks for any ways to simplify complex things in the front end \uD83D\uDE05</p>\n",
+    "talk_lang": "EN",
+    "talk_title": "The Quest of the Styling Graal",
+    "talk_description": "<p>\"At Yandex.Market we have a lot of different products with a wide variety of User Interfaces, plenty of client-side experiments like A/B tests, and each service have requirements such as performance, caching, theming and so on. And we've tried many different approaches in order to build a unified Design System which can be used by any of our services.</p><p>So, there are dozens of ways to style React applications, from Plain CSS and CSS-Modules to styled-components. Each option has tradeoffs. Yet the following problems often remain overlooked: styles, markup semantics, and accessibility.</p><p>Shadow DOM and frameworks like Svelte or Vue have made a step towards scoped styles for tags and attributes. However, it is still absent in React.</p><p>I would like to talk about the history of different web-applications styling solutions, and share some ideas about framework-agnostic library reshadow (https://reshadow.dev), which provides the Shadow DOM Developer Experience, but for the Virtual DOM.</p><p>It is about a way to match styles of complex application state on the simple declarative CSS selectors for tags, Components, and props, with efficient runtime and compile-time processing.</p><p>Thus, the more semantic and accessible markup you write, the simpler selectors you get.</p><p>At last but not least, reshadow makes it easy to completely restyle any Component, which in combination with Dependency Injection opens up additional possibilities in theming and A/B testing without product-code changes.\"</p>",
+    "twitter": "_lttb",
+    "company": "Yandex.Market"
+  },
+  {
+    "id": 30,
+    "name": "Vitaly Friedman",
+    "photo": "vitaly-friedman.jpg",
+    "city": "Freiburg, Germany",
+    "intro": "<p>Vitaly Friedman loves beautiful content and does not give up easily. From Minsk in Belarus, he studied computer science and mathematics in Germany, discovered the passage a passion for typography, writing and design. After working as a freelance designer and developer for 6 years, he co-founded <a href=\"http://smashingmagazine.com/\" target=\"_blank\">Smashing Magazine</a>, a leading online magazine dedicated to design and web development. Vitaly is the author, co-author and editor of all <a href=\"https://shop.smashingmagazine.com\" target=\"_blank\">Smashing books</a>. He currently works developing the new <a href=\"“https://www.smashingmagazine.com/membership“\" taget=\"_blank\">Smashing Memberships</a> around the globe!</p>",
+    "talk_lang": "EN",
+    "talk_title": "Privacy UX",
+    "talk_description": "<p>Privacy UX Interfaces have become quite a character, haven't they? Self-indulgent, impolite and genuinely unlikeable. How often are you greeted with a wondrous permissions prompt craving to send you messages to the lock screen? What about onboarding cards you dismiss without reading? How about app notifications, streaming endlessly and loudly your way? And what about the infamous \"feedback\" or \"chat\" buttons floating on the sie? All these solutions desperately craving for our attention, yet as a result pushing customers away, often irrevocably. In this talk, Vitaly Friedman, co-founder of Smashing Magazine and creative lead and UX consultant, will explore better approaches for onboarding and offboarding, authentication patterns and infamous GDPR consent cookie prompts, annoying permission requests and disruptive notifications requests. Plus, we'll learn how to deal with nasty CAPTCHAs, social sign-ins, shady third-parties, shaky connectivity issues and a few general privacy issues that often cost conversion. You'll walk away with a toolbox of techniques applicable to any mobile project — be it a native app, PWA or a good ol' responsive website. Beware: you will not be able to unlearn what you'll learn in this session!</p>",
+    "twitter": "smashingmag",
+    "company": "Smashing Magazine"
   }
 ]
