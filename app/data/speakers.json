@@ -360,5 +360,17 @@
     "talk_description": "<p>Privacy UX Interfaces have become quite a character, haven't they? Self-indulgent, impolite and genuinely unlikeable. How often are you greeted with a wondrous permissions prompt craving to send you messages to the lock screen? What about onboarding cards you dismiss without reading? How about app notifications, streaming endlessly and loudly your way? And what about the infamous \"feedback\" or \"chat\" buttons floating on the sie? All these solutions desperately craving for our attention, yet as a result pushing customers away, often irrevocably. In this talk, Vitaly Friedman, co-founder of Smashing Magazine and creative lead and UX consultant, will explore better approaches for onboarding and offboarding, authentication patterns and infamous GDPR consent cookie prompts, annoying permission requests and disruptive notifications requests. Plus, we'll learn how to deal with nasty CAPTCHAs, social sign-ins, shady third-parties, shaky connectivity issues and a few general privacy issues that often cost conversion. You'll walk away with a toolbox of techniques applicable to any mobile project — be it a native app, PWA or a good ol' responsive website. Beware: you will not be able to unlearn what you'll learn in this session!</p>",
     "twitter": "smashingmag",
     "company": "Smashing Magazine"
+  },
+  {
+    "id": 31,
+    "name": "Scott Feinberg",
+    "photo": "scott-feinberg.jpg",
+    "city": "New York, United States",
+    "intro": "<p>Scott currently works at Google, helping media customers utilize Google Cloud. Prior to Google, Scott led development for The New York Times Cooking website. </p>",
+    "talk_lang": "EN",
+    "talk_title": "Move Beyond Functions: Simple, Robust App Hosting with KNative and Google Cloud Run",
+    "talk_description": "<p>We were led to believe that as frontends developers, if we wanted easy deployments, we needed to stick our code in a function. Since the birth of Lambda, the FaaS movement had been wildly popular. The problem is we ended up with a stack where we have a bunch of functions for one-offs, a single well maintained deployment path for our main application, and perhaps a mix legacy VMs running particular workloads. If we're lucky, our main deployment path is using K8S and has nice pipelines, but everything else is pretty ad-hoc.</p><p>This approach has been defended because why invest in all the work required to deploy to K8S for all those apps? It's a lot of yaml files after all.</p><p>But now there's a new approach. With Knative, you can easily deploy your scripts to a Kubernetes cluster with just a simple bit of configuration. No custom frameworks, just a vanilla container running your functions and applications.</p><p>Learn how Knative and Google Cloud Run are changing how frontend developers deploy code!</p>",
+    "twitter": "",
+    "company": "Google"
   }
 ]
