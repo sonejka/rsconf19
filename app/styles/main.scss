@@ -1172,8 +1172,46 @@ nav {
   width: 100%;
   max-width: 560px;
   margin-bottom: 20px;
+}
 
+.venue-photos {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0;
+  margin: 0 auto 50px;
 
+  @media (max-width: $screen-tablet) {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    flex-wrap: nowrap;
+    margin: 0 auto 20px;
+
+  }
+
+  li {
+    float: left;
+    display: inline-block;
+    width: 25%;
+    overflow: hidden;
+
+    @media (max-width: $screen-tablet) {
+      width: auto;
+      float: none;
+      display: inline-block;
+      margin: 0;
+      padding: 0;
+      overflow: initial;
+
+    }
+
+    img {
+      width: auto;
+      height: 220px;
+      max-width: 220px;
+    }
+  }
 }
 
 /*------------------------------------*\
