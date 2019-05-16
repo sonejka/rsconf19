@@ -372,5 +372,17 @@
     "talk_description": "<p>We were led to believe that as frontends developers, if we wanted easy deployments, we needed to stick our code in a function. Since the birth of Lambda, the FaaS movement had been wildly popular. The problem is we ended up with a stack where we have a bunch of functions for one-offs, a single well maintained deployment path for our main application, and perhaps a mix legacy VMs running particular workloads. If we're lucky, our main deployment path is using K8S and has nice pipelines, but everything else is pretty ad-hoc.</p><p>This approach has been defended because why invest in all the work required to deploy to K8S for all those apps? It's a lot of yaml files after all.</p><p>But now there's a new approach. With Knative, you can easily deploy your scripts to a Kubernetes cluster with just a simple bit of configuration. No custom frameworks, just a vanilla container running your functions and applications.</p><p>Learn how Knative and Google Cloud Run are changing how frontend developers deploy code!</p>",
     "twitter": "",
     "company": "Google"
+  },
+  {
+    "id": 32,
+    "name": "Ioana Chiorean",
+    "photo": "ioana-chiorean.jpg",
+    "city": "Cluj Napoca, Romania",
+    "intro": "<p>Ioana is a software engineer that has more than 9 years testing experience with a specialization in mobile apps. Currently located in Romania she is leading 4 teams in an outsourcing company. In her free time she contributes to Open Source projects while enjoying a coffee or a good wine. She is the Module Owner for Mozilla Reps and one of the MozTechSpeakers.</p>",
+    "talk_lang": "EN",
+    "talk_title": "How I learned testing from mobile browsers",
+    "talk_description": "<p>Working on 5 mobile browsers app each with different focus might seem overwhelming. Ramping up people for such diverse testing might seem impossible. But as tom Cruise survived Mission Impossible, so did my team.</p>",
+    "twitter": "ioana_cis",
+    "company": "Cognizant Softvision / Mozilla"
   }
 ]
