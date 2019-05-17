@@ -384,5 +384,17 @@
     "talk_description": "<p>Working on 5 mobile browsers app each with different focus might seem overwhelming. Ramping up people for such diverse testing might seem impossible. But as tom Cruise survived Mission Impossible, so did my team.</p>",
     "twitter": "ioana_cis",
     "company": "Cognizant Softvision / Mozilla"
+  },
+  {
+    "id": 33,
+    "name": "Artem Kunets",
+    "photo": "artem-kunets.jpg",
+    "city": "Moscow, Russia",
+    "intro": "<p>Артем разрабатывает приложение с 3D-сценой в Align Technology и изучает возможности WebGL в браузере. В свободное время развивает свой движок для рендеринга. Считает, что 3D-графика даёт разработчику безграничные возможности для реализации его идей.</p>",
+    "talk_lang": "RU",
+    "talk_title": "Трассируем лучи в реальном времени",
+    "talk_description": "<p>Я расскажу о способах рендеринга в реальном времени. Доклад делится на две части, в первой части будет рассказано о рендеринге с помощью растеризации, а также о том, что с ней не так. Вторая часть доклада посвящена рендерингу с помощью трассировки лучей и тому какие возможности это для нас открывает. Я буду использовать технологию NVIDIA RTX и соответствующее расширение Vulkan API, примеры кода на Node.js. Доклад дает представление о том, как можно начать разрабатывать собственный трассировщик лучей используя Javascript уже сегодня.</p>",
+    "twitter": "",
+    "company": "Align Technology"
   }
 ]
