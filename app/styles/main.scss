@@ -880,6 +880,71 @@ nav {
       padding: 5px;
     }
   }
+}
+
+
+/*------------------------------------*\
+    TICKETS
+\*------------------------------------*/
+
+.tickets-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+
+  > li {
+    display: list-item;
+    width: 100%;
+    text-align: left;
+    padding: 20px 0;
+
+    p {
+      margin: 0 0 0 280px;
+    }
+  }
+
+  img {
+    float: left;
+    width: 100%;
+    max-width: 240px;
+    margin-right: 40px;
+    //display: none;
+  }
+
+  .btn {
+    float: right;
+    margin: 30px 0 0 20px;
+  }
+}
+
+.ticket-set {
+  display: flex;
+  flex-direction: row;
+
+  .ticket-card {
+    border: 1px solid #000;
+    display: inline-block;
+    width: 25%;
+    text-align: left;
+    padding-bottom: 10px;
+    margin: 0 10px;
+
+    .ticket-card-body {
+      padding: 20px 15px 0;
+    }
+
+    h3 {
+      text-align: center;
+    }
+
+    img {
+      width: 100%;
+    }
+
+    .btn {
+      width: 100%;
+    }
+  }
 
 }
 
