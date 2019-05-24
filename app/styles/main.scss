@@ -918,23 +918,42 @@ nav {
 }
 
 .ticket-set {
+  list-style: none;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: stretch;
+  align-content: flex-start;
 
   .ticket-card {
-    border: 1px solid #000;
-    display: inline-block;
+    position: relative;
+    //border: 1px solid #000;
+    display: list-item;
     width: 25%;
     text-align: left;
-    padding-bottom: 10px;
-    margin: 0 10px;
+    padding: 20px 15px 50px;
 
-    .ticket-card-body {
-      padding: 20px 15px 0;
+    @media (max-width: $screen-tablet) {
+      width: 50%;
+      margin-bottom: 30px;
+    }
+
+    @media (max-width: $screen-phone) {
+      width: 100%;
+      padding: 0 0 0;
+      margin-bottom: 50px;
+      padding: 20px 15px 50px;
+
     }
 
     h3 {
       text-align: center;
+    }
+
+    p, ul li {
+      font-size: 1.3rem;
+      line-height: 2rem;
     }
 
     img {
@@ -942,7 +961,11 @@ nav {
     }
 
     .btn {
-      width: 100%;
+      position: absolute;
+      bottom: 0;
+      right: 15px;
+      left: 15px;
+      padding: 5px 10px;
     }
   }
 
