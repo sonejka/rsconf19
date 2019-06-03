@@ -420,5 +420,17 @@
     "talk_description": "<p>Каждый разработчик сталкивается с желанием автоматизировать часть своей работы. Но далеко не каждый пишет для этого собственный плагин для Android Studio или IntelliJ IDEA, потому что думает, что это сложно.</p><p>В докладе я докажу, что разработать плагин — подъёмная задача для любого разработчика.</p><p>Я расскажу, как в hh.ru сделали плагин для создания feature-модулей: почему решили написать именно плагин и почему не подошли существующие решения генерации кода, с какими проблемами сталкивались и как их решали. Раскрою несколько секретов плагиностроения: что такое PSI, как создавать собственные wizard-диалоги и как использовать встроенный DI. А также покажу исходники и расскажу, что в них поменять для решения ваших задач.</p><p>Доклад будет интересен как тем, кто никогда не писал плагины, так и тем, кто только начал в них разбираться.</p>",
     "twitter": "",
     "company": "Headhunter"
-  }
+  },
+  {
+  "id": 36,
+  "name": "Vladik Khononov",
+  "photo": "vladik-khononov.jpg",
+  "city": "Nazareth Iliit, Israel",
+  "intro": "<p>РI’m a software engineer with 20 years of industry experience. During the years, I worked for companies large and small, in roles ranging from Webmaster to Chief Architect. </p><p>I aim to maintain an active media career as a public speaker, a blogger, and an author. Currently I’m a regular speaker at leading software engineering conferences, such as O’Reilly Software Architecture, NDC, DDD Europe, and others. My topics include distributed systems, Domain-Driven Design, microservices, evolutionary architecture, and software architecture in general.</p><p>As an author, I participated in the “Domain-Driven Design: The First 15 Years” book project, alongside Martin Fowler, Mel Conway, Rebecca Wirfs-Brock, and other industry leaders.</p>",
+  "talk_lang": "RU",
+  "talk_title": "Testing Software Architecture",
+  "talk_description": "<p>If anything, the Agile, Lean, and DevOps movements have proven that software architecture is not a “one man show”. Instead, in order to succeed, software design is a group effort that requires involvement from different stakeholders. In this session I’d like to talk about the testing aspect of software architecture and design.</p><p>We will see what exactly is this “important stuff”, that we use to call software architecture; what are its goals, and what differentiates a good architecture from a bad one? Next, we will discuss how to watch over a system’s architecture during the various stages of its development:</p><ul><li>The differences between under and over-engineering</li><li>How to identify forming of a “big ball of mud” in early stages</li><li>What are the symptoms of an exhausted architecture that is breaking under its own weight</li></ul><p>Ultimately, I’ll demonstrate how such tests can be automated using static code analysis tools.</p>",
+  "twitter": "vladikk",
+  "company": "Invesus Group"
+}
 ]
