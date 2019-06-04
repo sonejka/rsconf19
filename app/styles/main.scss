@@ -17,6 +17,7 @@ $color-pink: #FC94FC;
 $color-yellow: #F8EF5A;
 $color-lime: #CDE525;
 $color-green: #51E782;
+$color-red: #ff4239;
 
 $content-xsm: 470px;
 $content-sm: 555px;
@@ -1135,10 +1136,14 @@ nav {
   }
 
   .first-stream {
-    background: $color-pink;
+    background: $color-red;
   }
 
   .second-stream {
+    background: $color-green;
+  }
+
+  .third-stream {
     background: $color-blue;
   }
 
@@ -1216,31 +1221,55 @@ nav {
     .talk-place {
       padding: 0 7px;
       margin: 0 5px;
-      background: $color-pink;
+      background: $color-red;
     }
 
     &.first-stream {
       .talk-place {
-        background: $color-pink;
+        background: $color-red;
       }
     }
 
     &.second-stream {
+      border: 0;
+      .talk-place {
+        background: $color-green;
+      }
+    }
+
+    &.third-stream {
       .talk-place {
         background: $color-blue;
       }
     }
 
-    &.first-stream,
-    &.second-stream {
+    &.third-stream.no-border {
+      border: 0;
+    }
+
+    &.first-stream {
+      border: 0;
       @media (min-width: $screen-tablet) {
-        width: 50%;
+        width: 40%;
         padding-right: 25px;
+        border-bottom: 1px solid $color-black;
       }
     }
 
     &.second-stream {
+      border: 0;
       @media (min-width: $screen-tablet) {
+        border-bottom: 1px solid $color-black;
+      }
+    }
+
+
+    &.second-stream, &.third-stream {
+      .schedule-time {
+        display: none;
+      }
+      @media (min-width: $screen-tablet) {
+        width: 30%;
         padding-right: 0;
         padding-left: 25px;
         .schedule-time {
