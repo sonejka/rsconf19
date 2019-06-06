@@ -1152,7 +1152,9 @@ nav {
   }
 }
 
-.mobile-people-friday .talk-info .first-stream {
+
+.schedule.mobile-people-friday > li .talk-place,
+.schedule.mobile-people-friday > li.first-stream .talk-place {
   background: $color-blue;
 }
 
