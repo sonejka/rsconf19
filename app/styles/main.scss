@@ -1158,28 +1158,36 @@ nav {
 
 .first-day-btn,
 .second-day-btn {
-
   transition: 0.3s;
 
   @include border-radius(30px);
   margin: 0 15px;
 
   .abbr-view {
-    display: none;
+    display: block;
+    font-size: 1.5rem;
+    font-weight: normal;
+
+    @media (max-width: $screen-tablet) {
+      font-size: 1.5rem;
+    }
   }
 
   @media (max-width: $screen-tablet) {
 
     box-sizing: content-box;
     min-width: 40px;
-    padding: 10px 20px;
-    margin: 0 10px;
+    padding: 10px 10px;
+    margin: 5px 5px;
 
     .abbr-view {
       display: inline;
     }
     .full-view {
-      display: none;
+      //display: none;
+      font-size: 1.5rem;
+      line-height: 2rem;
+      display: block;
     }
   }
 }
@@ -1232,6 +1240,7 @@ nav {
 
     &.second-stream {
       border: 0;
+
       .talk-place {
         background: $color-green;
       }
@@ -1263,11 +1272,11 @@ nav {
       }
     }
 
-
     &.second-stream, &.third-stream {
       .schedule-time {
         display: none;
       }
+
       @media (min-width: $screen-tablet) {
         width: 30%;
         padding-right: 0;
@@ -1277,8 +1286,21 @@ nav {
         }
       }
     }
-
   }
+
+  &.mobile-people-friday .first-stream {
+    @media (min-width: $screen-tablet) {
+      width: 55%;
+    }
+  }
+
+  &.mobile-people-friday .second-stream {
+    @media (min-width: $screen-tablet) {
+      width: 45%;
+    }
+  }
+
+
 }
 
 /*------------------------------------*\
