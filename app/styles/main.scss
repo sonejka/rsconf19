@@ -1155,9 +1155,12 @@ nav {
 
 .schedule.mobile-people-day > li .talk-place,
 .schedule.mobile-people-day > li.first-stream .talk-place {
-  background: $color-blue;
+  background: $color-green;
 }
 
+.schedule.mobile-people-day > li.second-stream .talk-place {
+  background: $color-blue;
+}
 /*------------------------------------*\
     SCHEDULE
 \*------------------------------------*/
