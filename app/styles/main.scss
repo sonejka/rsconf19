@@ -1153,8 +1153,8 @@ nav {
 }
 
 
-.schedule.mobile-people-friday > li .talk-place,
-.schedule.mobile-people-friday > li.first-stream .talk-place {
+.schedule.mobile-people-day > li .talk-place,
+.schedule.mobile-people-day > li.first-stream .talk-place {
   background: $color-blue;
 }
 
@@ -1294,13 +1294,13 @@ nav {
     }
   }
 
-  &.mobile-people-friday .first-stream {
+  &.mobile-people-day .first-stream {
     @media (min-width: $screen-tablet) {
       width: 55%;
     }
   }
 
-  &.mobile-people-friday .second-stream {
+  &.mobile-people-day .second-stream {
     @media (min-width: $screen-tablet) {
       width: 45%;
     }
