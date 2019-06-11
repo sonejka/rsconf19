@@ -468,5 +468,29 @@
     "talk_description": "<p>During this talk, we’ll discuss why we bet on visual unit tests. On a real example, we’ll discover how to implement such tests for React application with Jest and Puppeteer, we’ll meet Allure report with Jest and in the end, set up the full pipeline with CircleCi and GitHub to run our own visual tests on each pull request. Also, we’ll consider performance and some tricky parts (eg. how to integrate it with BrowserStack in case if you need cross-browser testing).</p><p>Demo project and draft presentation available here: https://github.com/zaqqaz/visual-unit-tests</p>",
     "twitter": "",
     "company": "DAZN"
+  },
+  {
+    "id": 40,
+    "name": "Alexey Bykov",
+    "photo": "alexey-bykov.jpg",
+    "city": "Moscow, Russia",
+    "intro": "<p>Алексей занимается Android-разработкой с 2016 года, успел поработать в аутсорсе, стартапах и крупных компаниях. В данный момент разрабатывает Kaspersky Secure Connection и Kaspersky Security Cloud. Увлекается мобильным UX'ом. Организатор и лектор сообщества Android Academy MSK, выступал на MOSDROID и AppsConf</p>",
+    "talk_lang": "RU",
+    "talk_title": "UX как область ответственности мобильного разработчика",
+    "talk_description": "<p>Мы часто говорим об удобстве разработки для программиста: “Архитектура, Многомодульность, чистый код…”. </p><p>Несмотря на это, не так много приложений могут похвастаться действительно хорошо реализованным UX’ом в проекте.</p><p>Поговорим о том, как мы можем менять в лучшую сторону UX приложения с минимальными затратами, и почему это не только задача дизайнера.</p>",
+    "twitter": "hungry_moose",
+    "company": "KasperskyLab"
+  },
+  {
+    "id": 41,
+    "name": "Dmitriy Movchan",
+    "photo": "dmitriy-movchan.jpg",
+    "city": "Moscow, Russia",
+    "intro": "<p></p>",
+    "talk_lang": "RU",
+    "talk_title": "Автотесты под Android - так ли это просто?",
+    "talk_description": "<p>Очень многие сегодня хотят внедрить автотесты в свои проекты. Многие неправильно оценивают сложность внедрения, расценивая эту задачу как простую. Однако приходит суровая реальность и на автотесты приходится потратить намного больше времени, чем ожидалось. Так в чем же дело? Давайте разберемся вместе на моем докладе. </p>",
+    "twitter": "",
+    "company": "KasperskyLab"
   }
 ]
