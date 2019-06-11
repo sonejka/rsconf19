@@ -642,7 +642,7 @@ nav {
   grid-template-rows: auto;
   align-content: space-between;
 
-  grid-template-areas: "primary about venue tickets" "primary previous venue tickets" "primary previous venue social" "lang . . . ";
+  grid-template-areas: "primary about venue tickets" "primary previous venue tickets" "primary mp-day . social" "lang . . . ";
 
   ul {
     list-style: none;
@@ -677,7 +677,7 @@ nav {
   @media (max-width: $screen-desktop) {
     grid-template-columns: repeat(3, 1fr);
     grid-row-gap: 0;
-    grid-template-areas: "primary about venue" "primary previous venue" "primary tickets social" "lang . .";
+    grid-template-areas: "primary about venue" "primary previous venue" "mp-day tickets social" "lang . .";
   }
 
   @media (max-width: $screen-tablet) {
@@ -686,7 +686,7 @@ nav {
 
     grid-template-columns: repeat(1, 100%);
     grid-row-gap: 0;
-    grid-template-areas: "primary" "tickets" "previous" "lang";
+    grid-template-areas: "primary" "tickets" "mp-day" "previous" "lang";
   }
 
 }
@@ -759,6 +759,37 @@ nav {
   //    display: none;
   //  }
   //}
+
+}
+
+.menu-item-mpday {
+  grid-area: mp-day;
+
+  li {
+    display: inline-block;
+    padding: 0 16px 0 0;
+  }
+
+  a.active {
+    border-bottom: none;
+  }
+
+  img {
+    float: left;
+    width: auto;
+    margin-left: -20px;
+  }
+
+  @media (max-width: $screen-tablet) {
+    p {
+      text-align: center;
+    }
+    img {
+      margin: auto;
+      display: none;
+      float: none;
+    }
+  }
 
 }
 
