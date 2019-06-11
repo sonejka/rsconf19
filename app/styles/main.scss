@@ -638,11 +638,11 @@ nav {
   display: inline-grid;
   grid-template-columns: repeat(4, 1fr);
   grid-column-gap: 30px;
-  grid-row-gap: 30px;
+  grid-row-gap: 10px;
   grid-template-rows: auto;
   align-content: space-between;
 
-  grid-template-areas: "primary about venue tickets" "primary previous venue tickets" "primary mp-day . social" "lang . . . ";
+  grid-template-areas: "primary about venue tickets" "primary mp-day previous social"  ;
 
   ul {
     list-style: none;
@@ -677,7 +677,7 @@ nav {
   @media (max-width: $screen-desktop) {
     grid-template-columns: repeat(3, 1fr);
     grid-row-gap: 0;
-    grid-template-areas: "primary about venue" "primary previous venue" "mp-day tickets social" "lang . .";
+    grid-template-areas: "primary about tickets" "primary mp-day venue" "previous .  social";
   }
 
   @media (max-width: $screen-tablet) {
