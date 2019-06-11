@@ -492,5 +492,17 @@
     "talk_description": "<p>Очень многие сегодня хотят внедрить автотесты в свои проекты. Многие неправильно оценивают сложность внедрения, расценивая эту задачу как простую. Однако приходит суровая реальность и на автотесты приходится потратить намного больше времени, чем ожидалось. Так в чем же дело? Давайте разберемся вместе на моем докладе. </p>",
     "twitter": "",
     "company": "KasperskyLab"
+  },
+  {
+    "id": 42,
+    "name": "Max Nikulin",
+    "photo": "max-nikulin.jpg",
+    "city": "Novosibirsk, Russia",
+    "intro": "<p>Max Nikulin is iOS Tech lead in Movavi. Company creating software for working with multimedia. Worked with the iOS platform for 7 years. I am looking for interesting challenges in the industry and the last thing I found is video processing.</p>",
+    "talk_lang": "RU",
+    "talk_title": "Строим видеоредактор для iOS",
+    "talk_description": "<p>В докладе вы узнаете о том, как устроена обработка видео в общем виде, из каких основных частей может состоять абстрактный мобильный видеоредактор, в чем фундаментальные отличия предметной области между платформами iOS и Android. </p><p>А также мы более подробно остановимся на различных вариантах реализации частей видеоредактора для платформы iOS на основе AVFoundation, а также посмотрим, как можно применять обычные подходы проектирования к нашей предметной области.</p>",
+    "twitter": "",
+    "company": "Movavi"
   }
 ]
