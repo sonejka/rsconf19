@@ -516,5 +516,29 @@
     "talk_description": "<p>Как начать писать 2D игры на WebGL в браузере, если ранее с ним не сталкивался? Стоит ли вообще начинать? Пишем игры почти не изучая сложных API. Как взять взять Canvas или React и достичь быстрого рендеринга в 2D.</p><p>В докладе рассматриваем подходы к разработке как домашних проектов так и разработку игр на работе как замену маркетинговых лендингов.</p>",
     "twitter": "mamu_eval",
     "company": "Tinkoff"
+  },
+  {
+    "id": 44,
+    "name": "Mateusz Szklarek",
+    "photo": "mateusz-szklarek.jpg",
+    "city": "Warsaw, Poland",
+    "intro": "<p>I work as an Senior iOS developer at EL Passion for more than 4 years. I created several mobile applications in Objective-C & Swift from scratch. I’m big fan of unit testing in PRACTICE and believe that “each line of code matters”. Lately worked as Flutter developer.</p>",
+    "talk_lang": "EN",
+    "talk_title": "MVVM as good (anti)pattern in iOS",
+    "talk_description": "<p>Nowadays there are a lot of materials, presentations & talks about how great MVVM architecture is. Hype about the view models look like a never ending story. There are a lot of developers who like this approach and use it in their own projects. I tried to go against the grain and show a different perspective of MVVM. I also try to answer questions like: Do we really need it? Does it solves any particular problem or is it overkill?</p>",
+    "twitter": "SzklarekMateusz",
+    "company": "EL Passion"
+  },
+  {
+    "id": 45,
+    "name": "Danis Tazetdinov",
+    "photo": "danis-tazetdinov.jpg",
+    "city": "Nizhny Novgogord, Russia",
+    "intro": "<p>iOS evangelist, 19 years in software development, 8 years in mobile.</p><p>Mobile People Talks podcast host.</p>",
+    "talk_lang": "RU",
+    "talk_title": "Augmenting Reality",
+    "talk_description": "<p>Discussing how and why AR could be used for indoor navigation - use cases, world mapping, way finding. Current possibilities and limitations. Looking into the future - what could be possible soon.</p>",
+    "twitter": "edeniska",
+    "company": "EPAM Systems"
   }
 ]
