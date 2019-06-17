@@ -1195,15 +1195,30 @@ nav {
 /*------------------------------------*\
     SCHEDULE
 \*------------------------------------*/
-
-.first-day-btn,
-.second-day-btn {
+.schedule-tabs {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: space-between;
+}
+.schedule-tabs .btn {
+  width: 25%;
+  display: inline-block;
   transition: 0.3s;
 
-  @include border-radius(30px);
-  margin: 0 15px;
+  @include border-radius(0px);
+  padding: 15px 30px;
+  margin: 15px;
+
+  .stream-date {
+    display: block;
+  }
 
   .abbr-view {
+    display: none;
+  }
+
+  .stream-date {
     display: block;
     font-size: 1.5rem;
     font-weight: normal;
@@ -1216,19 +1231,30 @@ nav {
   @media (max-width: $screen-tablet) {
 
     box-sizing: content-box;
-    min-width: 40px;
-    padding: 10px 10px;
-    margin: 5px 5px;
+    padding: 10px;
+    margin: 5px;
 
-    .abbr-view {
-      display: inline;
-    }
     .full-view {
       //display: none;
       font-size: 1.5rem;
       line-height: 2rem;
       display: block;
     }
+
+    .abbr-view {
+      display: block;
+    }
+    .full-view {
+      display: none;
+    }
+  }
+
+
+  &:first-child {
+    margin-left: 0;
+  }
+  &:last-child {
+    margin-right: 0;
   }
 }
 
