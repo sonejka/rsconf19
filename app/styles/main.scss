@@ -1721,7 +1721,13 @@ footer {
   right: 20px;
   display: none;
   padding: 0;
-  opacity: 0.5;
+  opacity: 0.7;
+  z-index: 11;
+
+  @media (max-width: $screen-tablet) {
+    background: $color-black;
+    color: #fff;
+  }
 }
 
 .scroll-top i {
