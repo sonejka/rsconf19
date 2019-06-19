@@ -138,7 +138,7 @@
     "city": "Minsk, Belarus",
     "intro": "<p>Head of UX/ Product Manager в стартапе https://facemetrics.io/, одного из известных белорусских стартапов в области дополненной реальности.\nДо стартапа Ксения более 10 лет работала в EPAM Systems, разрабатывая интерфейсы для заказчиков с мировым именем и руководя группой из 30 дизайнеров; выступила ментором Minsk Service Design Jam и докладчиком конференций «Деловой интернет», ProfsoUX, The Rolling Scopes.</p>",
     "talk_lang": "RU",
-    "talk_title": "TBD",
+    "talk_title": "Продуктовая мобильная разработка - не дизайном единым. (не) про дизайн, командную работу и справедливость.",
     "talk_description": "<p>TBD</p>",
     "twitter": "",
     "company": "FaceMetrics"
@@ -540,5 +540,29 @@
     "talk_description": "<p>Discussing how and why AR could be used for indoor navigation - use cases, world mapping, way finding. Current possibilities and limitations. Looking into the future - what could be possible soon.</p>",
     "twitter": "edeniska",
     "company": "EPAM Systems"
+  },
+  {
+    "id": 46,
+    "name": "George Kvasnikov",
+    "photo": "george-kvasnikov.jpg",
+    "city": "Moscow, Russia",
+    "intro": "<p></p>",
+    "talk_lang": "RU",
+    "talk_title": "Креативность начинается с незнания",
+    "talk_description": "<p></p>",
+    "twitter": "",
+    "company": "Fantasy"
+  },
+  {
+    "id": 47,
+    "name": "Denis Trusilo",
+    "photo": "denis-trusilo.jpg",
+    "city": "Minsk, Belarus",
+    "intro": "<p></p>",
+    "talk_lang": "RU",
+    "talk_title": "Видеопродакшен без комплексов: Почему красивые ролики снимать бессмысленно.",
+    "talk_description": "<p></p>",
+    "twitter": "",
+    "company": "Pocket Rocket"
   }
 ]
