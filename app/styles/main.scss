@@ -1274,6 +1274,12 @@ nav {
     display: flex;
   }
 
+  sup {
+    background: #111;
+    color: #fff;
+    padding: 0 2px;
+  }
+
   & > li {
     width: 100%;
     position: relative;
