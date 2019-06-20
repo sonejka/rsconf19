@@ -1367,6 +1367,7 @@ nav {
   }
 
   &.mobile-people-day .second-stream {
+    border-bottom: 1px solid $color-black;
     @media (min-width: $screen-tablet) {
       width: 45%;
     }
