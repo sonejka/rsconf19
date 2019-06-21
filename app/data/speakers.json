@@ -30,8 +30,8 @@
     "city": "Los Angeles, United States",
     "intro": "<p>Andre is Software Engineer at Google/YouTube monetization. Uses his spare time to keep up with ever-evolving Front End world. Loves snowboard, wakeboard, &lt;anything&gt;board.</p>",
     "talk_lang": "EN",
-    "talk_title": "Talk TBD",
-    "talk_description": "",
+    "talk_title": "What's next for cross platform mobile development?",
+    "talk_description": "<ul><li>Server-driven UI for mobile apps</li><li>The problem we are trying to solve</li><li>Why server-driven UI</li><li>Examples of implementation</li></ul>",
     "twitter": "",
     "company": "Google"
   },
