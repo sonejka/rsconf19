@@ -28,12 +28,12 @@
     "name": "Andre Gloukhmantchouk",
     "photo": "andre-gloukhmantchouk.jpg",
     "city": "Los Angeles, United States",
-    "intro": "<p>Andre is Software Engineer at Google/YouTube monetization. Uses his spare time to keep up with ever-evolving Front End world. Loves snowboard, wakeboard, &lt;anything&gt;board.</p>",
-    "talk_lang": "EN",
+    "intro": "<p>Andre is Software Engineer at Facebook. Uses his spare time to keep up with ever-evolving Front End world. Loves snowboard, wakeboard, &lt;anything&gt;board.</p>",
+    "talk_lang": "RU",
     "talk_title": "What's next for cross platform mobile development?",
     "talk_description": "<ul><li>Server-driven UI for mobile apps</li><li>The problem we are trying to solve</li><li>Why server-driven UI</li><li>Examples of implementation</li></ul>",
     "twitter": "",
-    "company": "Google"
+    "company": "Facebook"
   },
   {
     "id": 4,
@@ -65,8 +65,8 @@
     "photo": "ilya-pukhalski.jpg",
     "city": "Amsterdam, The Netherlands",
     "intro": "<p>Digital architect helping great brands launch not always great products. All-way JavaScript junkie, retired rock star, rym gat, beer drinker, hell raiser.</p>",
-    "talk_lang": "EN",
-    "talk_title": "Talk TBD",
+    "talk_lang": "RU",
+    "talk_title": "Your Job Sucks And This Is Why",
     "talk_description": "",
     "twitter": "pukhalski",
     "company": "EPAM"
