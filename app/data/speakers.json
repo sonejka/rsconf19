@@ -55,7 +55,7 @@
     "intro": "<p>Kirill Knysh, Software Engineer at Uber Amsterdam, 9+ years of experience, including front end, back end, Set-Top-Box UI development, passionate to coding.</p>",
     "talk_lang": "EN",
     "talk_title": "React application as API",
-    "talk_description": "",
+    "talk_description": "Web applications went far beyond regular web sites. They are no longer just static (or dynamic) content presentations but rather complex systems with well defined business roles and goals. This is a story about how to transform your (pretty sure huge) React based application into a set of well separated single responsible features (endpoints), make them reusable, easy pluggable and maintainable.",
     "twitter": "",
     "company": "Uber"
   },
@@ -479,7 +479,7 @@
     "talk_title": "UX как область ответственности мобильного разработчика",
     "talk_description": "<p>Мы часто говорим об удобстве разработки для программиста: “Архитектура, Многомодульность, чистый код…”. </p><p>Несмотря на это, не так много приложений могут похвастаться действительно хорошо реализованным UX’ом в проекте.</p><p>Поговорим о том, как мы можем менять в лучшую сторону UX приложения с минимальными затратами, и почему это не только задача дизайнера.</p>",
     "twitter": "hungry_moose",
-    "company": "KasperskyLab"
+    "company": "Revolut"
   },
   {
     "id": 41,
