@@ -378,10 +378,10 @@
     "name": "Ioana Chiorean",
     "photo": "ioana-chiorean.jpg",
     "city": "Cluj Napoca, Romania",
-    "intro": "<p>Ioana is a software engineer that has more than 9 years testing experience with a specialization in mobile apps. Currently located in Romania she is leading 4 teams in an outsourcing company. In her free time she contributes to Open Source projects while enjoying a coffee or a good wine. She is the Module Owner for Mozilla Reps and one of the MozTechSpeakers.</p>",
+    "intro": "<p>Ioana is a software engineer that has more than 10 years testing experience with a specialization in mobile apps. Currently located in Romania she is leading 4 teams in an outsourcing company. In her free time she contributes to Open Source projects while enjoying a coffee or a good wine. She is the Module Owner for Mozilla Reps and one of the MozTechSpeakers.</p>",
     "talk_lang": "EN",
     "talk_title": "How I learned testing from mobile browsers",
-    "talk_description": "<p>Working on 5 mobile browsers app each with different focus might seem overwhelming. Ramping up people for such diverse testing might seem impossible. But as tom Cruise survived Mission Impossible, so did my team.</p>",
+    "talk_description": "<p>Working on 5 mobile browsers app each with different focus might seem overwhelming. Ramping up people for such diverse testing might seem impossible. But as Tom Cruise survived Mission Impossible, so did my team.</p>",
     "twitter": "ioana_cis",
     "company": "Cognizant Softvision / Mozilla"
   },
