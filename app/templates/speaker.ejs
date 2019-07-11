@@ -151,6 +151,32 @@
 
       <% } %>
 
+      <% if (typeof talk2_title != 'undefined') { %>
+
+        <div class="talk-info">
+          <p class="text-lg"><%= talk2_title %></p>
+          <p class="text-md"><!--<span class="talk-date">FEB 11</span>, -->
+            <!--<span class="talk-time">10:00</span> -->
+            <!--<span class="talk-place first-stream">Pink Room</span>--><span class="talk-lang"><%= talk_lang %></span>
+          </p>
+          <p><%- talk2_description %></p>
+        </div>
+
+      <% } %>
+
+      <% if (typeof talk3_title != 'undefined') { %>
+
+        <div class="talk-info">
+          <p class="text-lg"><%= talk3_title %></p>
+          <p class="text-md"><!--<span class="talk-date">FEB 11</span>, -->
+            <!--<span class="talk-time">10:00</span> -->
+            <!--<span class="talk-place first-stream">Pink Room</span>--><span class="talk-lang"><%= talk_lang %></span>
+          </p>
+          <p><%- talk3_description %></p>
+        </div>
+
+      <% } %>
+
     </div>
   </section>
 

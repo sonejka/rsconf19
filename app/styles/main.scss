@@ -1181,6 +1181,10 @@ nav {
   .talk-with {
     padding-top: 15px;
   }
+
+  & + .talk-info {
+    padding-top: 50px;
+  }
 }
 
 

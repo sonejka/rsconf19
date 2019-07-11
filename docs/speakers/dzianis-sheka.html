@@ -17,7 +17,7 @@
   <meta charset="utf-8">
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>RS Conf 2019 | Talk 10 lines of encryption, 1500 lines of key management</title>
+  <title>RS Conf 2019 | Talk Education vs training?</title>
 
   <link rel="apple-touch-icon" href="../apple-touch-icon.png">
   <!-- Place favicon.ico in the root directory -->
@@ -130,17 +130,39 @@
     <div class="content-sm">
 
       <div class="talk-info">
-        <p class="text-lg">10 lines of encryption, 1500 lines of key management</p>
+        <p class="text-lg">Education vs training?</p>
         <p class="text-md"><!--<span class="talk-date">FEB 11</span>, -->
           <!--<span class="talk-time">10:00</span> -->
-          <!--<span class="talk-place first-stream">Pink Room</span>--><span class="talk-lang">EN</span>
+          <!--<span class="talk-place first-stream">Pink Room</span>--><span class="talk-lang">RU</span>
         </p>
-        <p><p>Often when users ask for some features, they don’t understand how long it takes to make them. When features are related to security, developers also often don’t understand how long it will take.</p><p>I will show the real case about one large note taking the app, that decided to implement convenient note encryption and note locking for their existing user base. But finding a balance between usability, security and mobile platforms' restrictions is complicated.</p><p>We will start with the security design scheme, then select the proper encryption library, then implement the flow, and prepare for incidents. Now — think about it — cryptography is only chapter 3 in OWASP MASVS (7 chapters in general). Even the best cryptography will fail if basic security controls are badly implemented.</p><p>Points we will go through the difference between "locking" and "encrypting", the difference between password and encryption key, how to sync passwords between devices, what exactly to store in keychain/keystore, how to use proper cryptography (AES CBC or AES GCM, random salt? IV? padding? what a hell is this mess), how to use biometrics (we don’t want to bother user, let’s use biometric keychain, but what if users will change their fingerprints — shall we invalidate all passwords?), updating encryption version (imagine, vulnerability is discovered in our library or app — how to update cipher, and softly migrate users to the new cipher, if users don’t even have a clue that encryption was versioned).</p><p>In the end, this is only one simple JIRA ticket "let's encrypt the notes" from the eyes of security software engineer :)</p></p>
+        <p><ul><li>Is it a real contradiction?</li><li>Should be training a social lift?</li><li>Does the current computer science education in Belarus / Eastern world help the student to build a foundation of knowledge or prevent them?</li><li>Is the self-education future for us?</li></ul></p>
       </div>
 
       
 
       
+
+        <div class="talk-info">
+          <p class="text-lg">Technical communities - what next?</p>
+          <p class="text-md"><!--<span class="talk-date">FEB 11</span>, -->
+            <!--<span class="talk-time">10:00</span> -->
+            <!--<span class="talk-place first-stream">Pink Room</span>--><span class="talk-lang">RU</span>
+          </p>
+          <p>Dawn or rebirth? What new opportunities do we have? What direction do we look at?</p>
+        </div>
+
+      
+
+      
+
+        <div class="talk-info">
+          <p class="text-lg">Future after matureness</p>
+          <p class="text-md"><!--<span class="talk-date">FEB 11</span>, -->
+            <!--<span class="talk-time">10:00</span> -->
+            <!--<span class="talk-place first-stream">Pink Room</span>--><span class="talk-lang">RU</span>
+          </p>
+          <p><ul><li>Is Javascript moving in Java way (driven by the big enterprise like java or non-commercial organization like python or by the community as c++)</li><li>Should javascript developers continue adopting engineering practices?</li><li>Or should the coder deep into the business?</li><li>In what degree should an engineer be platform agnostic?</li></ul></p>
+        </div>
 
       
 
@@ -152,18 +174,15 @@
       <h2>Speaker</h2>
       <div class="speaker-profile">
         <figure>
-          <img src="../images/speakers/anastasiia-voitova.jpg" alt="Anastasiia Voitova photo">
+          <img src="../images/speakers/dzianis-sheka.jpg" alt="Dzianis Sheka photo">
           <figcaption>
-            <span class="speaker-company">Cossack Labs</span>
+            <span class="speaker-company">Mapbox</span>
           </figcaption>
         </figure>
-        <div class="speaker-about"><p class="text-lg">Anastasiia Voitova</p>
-          <p class="text-md margin-bottom-md">Kyiv, Ukraine</p>
-          <div class="margin-bottom-md"><p>Software engineer with a wide background, I started as a mobile developer. Then I focused on cryptography/applied security, now I'm building security tools for protecting data during the whole life cycle, not depending on a platform.</p><p>I maintain open source security libraries that allow developers to integrate encryption into their apps and infrastructures easily (currently 11 languages/platforms are supported), conduct secure software development training and workshops about building secure apps.</p><p>Recently used languages: Swift/ObjC, Go, C.</p></div>
+        <div class="speaker-about"><p class="text-lg">Dzianis Sheka</p>
+          <p class="text-md margin-bottom-md">Minsk, Belarus</p>
+          <div class="margin-bottom-md"><p>TBD</p></div>
 
-          
-            <p>Twitter: <a class="bold" target="_blank" href="https://twitter.com/vixentael">@vixentael</a>
-            </p>
           
         </div>
       </div>

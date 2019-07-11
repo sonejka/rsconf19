@@ -422,17 +422,17 @@
     "company": "Headhunter"
   },
   {
-  "id": 36,
-  "name": "Vladik Khononov",
-  "photo": "vladik-khononov.jpg",
-  "city": "Nazareth Iliit, Israel",
-  "intro": "<p>Vladik (Vlad) Khononov is a software engineer with 20 years of industry experience. During the years, he worked for companies large and small, in roles ranging from Webmaster to Chief Architect. </p><p>Vladik maintains an active media career as a public speaker, a blogger, and an author. Vlad is a regular speaker at leading software engineering conferences — O’Reilly Software Architecture, NDC, DDD Europe, and others — where he speaks on Distributed Systems, Domain-Driven Design, Microservices, and software architecture in general.</p><p>As an author, Vlad participated in the “Domain-Driven Design: The First 15 Years” book project, alongside Martin Fowler, Mel Conway, Rebecca Wirfs-Brock, and other industry leaders.</p>",
-  "talk_lang": "RU",
-  "talk_title": "Testing Software Architecture",
-  "talk_description": "<p>If anything, the Agile, Lean, and DevOps movements have proven that software architecture is not a “one man show”. Instead, in order to succeed, software design is a group effort that requires involvement from different stakeholders. In this session I’d like to talk about the testing aspect of software architecture and design.</p><p>We will see what exactly is this “important stuff”, that we use to call software architecture; what are its goals, and what differentiates a good architecture from a bad one? Next, we will discuss how to watch over a system’s architecture during the various stages of its development:</p><ul><li>The differences between under and over-engineering</li><li>How to identify forming of a “big ball of mud” in early stages</li><li>What are the symptoms of an exhausted architecture that is breaking under its own weight</li></ul><p>Ultimately, I’ll demonstrate how such tests can be automated using static code analysis tools.</p>",
-  "twitter": "vladikk",
-  "company": "Invesus Group"
-},
+    "id": 36,
+    "name": "Vladik Khononov",
+    "photo": "vladik-khononov.jpg",
+    "city": "Nazareth Iliit, Israel",
+    "intro": "<p>Vladik (Vlad) Khononov is a software engineer with 20 years of industry experience. During the years, he worked for companies large and small, in roles ranging from Webmaster to Chief Architect. </p><p>Vladik maintains an active media career as a public speaker, a blogger, and an author. Vlad is a regular speaker at leading software engineering conferences — O’Reilly Software Architecture, NDC, DDD Europe, and others — where he speaks on Distributed Systems, Domain-Driven Design, Microservices, and software architecture in general.</p><p>As an author, Vlad participated in the “Domain-Driven Design: The First 15 Years” book project, alongside Martin Fowler, Mel Conway, Rebecca Wirfs-Brock, and other industry leaders.</p>",
+    "talk_lang": "RU",
+    "talk_title": "Testing Software Architecture",
+    "talk_description": "<p>If anything, the Agile, Lean, and DevOps movements have proven that software architecture is not a “one man show”. Instead, in order to succeed, software design is a group effort that requires involvement from different stakeholders. In this session I’d like to talk about the testing aspect of software architecture and design.</p><p>We will see what exactly is this “important stuff”, that we use to call software architecture; what are its goals, and what differentiates a good architecture from a bad one? Next, we will discuss how to watch over a system’s architecture during the various stages of its development:</p><ul><li>The differences between under and over-engineering</li><li>How to identify forming of a “big ball of mud” in early stages</li><li>What are the symptoms of an exhausted architecture that is breaking under its own weight</li></ul><p>Ultimately, I’ll demonstrate how such tests can be automated using static code analysis tools.</p>",
+    "twitter": "vladikk",
+    "company": "Invesus Group"
+  },
   {
     "id": 37,
     "name": "Yonatan Levin",
@@ -590,15 +590,43 @@
     "company": "AIC"
   },
   {
-  "id": 50,
-  "name": "Yan Ageenko",
-  "photo": "yan-ageenko.jpg",
-  "city": "Minsk, Belarus",
-  "intro": "<p>Ян работает в IT c 2004 года. За это время прошел путь от рядового дизайнера до арт-директора и руководителя отдела дизайна и разработки. Работал со множеством проектов – от обычных сайтов и приложений до сложных сервисов и игр с дополненной реальностью. В настоящее время преподает UI/UX дизайн в IT-академии ПВТ и занимается корпоративным менторингом. Также ведет свой \n<a target=\"_blank\" href=\"https://www.youtube.com/channel/UCFwdlILJL8HLAYLvJE-ySDQ\">канал на YouTube</a></p>",
-  "talk_lang": "RU",
-  "talk_title": "Дизайн-система на HTML/CSS",
-  "talk_description": "<ul><li>Как дизайн-система упрощает разработку продуктов и экономит время</li><li>Что общего у дизайнеров и frontend-разработчиков</li><li>Зачем дизайнеру знать технологии, а разработчику - основы дизайна</li><li>Как хороший дизайн выглядит на уровне кода</li><li>Можно ли быть хорошим разработчиком и дизайнером одновременно</li></ul>",
-  "twitter": "",
-  "company": "IT-Academy"
-}
+    "id": 50,
+    "name": "Yan Ageenko",
+    "photo": "yan-ageenko.jpg",
+    "city": "Minsk, Belarus",
+    "intro": "<p>Ян работает в IT c 2004 года. За это время прошел путь от рядового дизайнера до арт-директора и руководителя отдела дизайна и разработки. Работал со множеством проектов – от обычных сайтов и приложений до сложных сервисов и игр с дополненной реальностью. В настоящее время преподает UI/UX дизайн в IT-академии ПВТ и занимается корпоративным менторингом. Также ведет свой \n<a target=\"_blank\" href=\"https://www.youtube.com/channel/UCFwdlILJL8HLAYLvJE-ySDQ\">канал на YouTube</a></p>",
+    "talk_lang": "RU",
+    "talk_title": "Дизайн-система на HTML/CSS",
+    "talk_description": "<ul><li>Как дизайн-система упрощает разработку продуктов и экономит время</li><li>Что общего у дизайнеров и frontend-разработчиков</li><li>Зачем дизайнеру знать технологии, а разработчику - основы дизайна</li><li>Как хороший дизайн выглядит на уровне кода</li><li>Можно ли быть хорошим разработчиком и дизайнером одновременно</li></ul>",
+    "twitter": "",
+    "company": "IT-Academy"
+  },
+  {
+    "id": 50,
+    "name": "Yan Ageenko",
+    "photo": "yan-ageenko.jpg",
+    "city": "Minsk, Belarus",
+    "intro": "<p>Ян работает в IT c 2004 года. За это время прошел путь от рядового дизайнера до арт-директора и руководителя отдела дизайна и разработки. Работал со множеством проектов – от обычных сайтов и приложений до сложных сервисов и игр с дополненной реальностью. В настоящее время преподает UI/UX дизайн в IT-академии ПВТ и занимается корпоративным менторингом. Также ведет свой \n<a target=\"_blank\" href=\"https://www.youtube.com/channel/UCFwdlILJL8HLAYLvJE-ySDQ\">канал на YouTube</a></p>",
+    "talk_lang": "RU",
+    "talk_title": "Дизайн-система на HTML/CSS",
+    "talk_description": "<ul><li>Как дизайн-система упрощает разработку продуктов и экономит время</li><li>Что общего у дизайнеров и frontend-разработчиков</li><li>Зачем дизайнеру знать технологии, а разработчику - основы дизайна</li><li>Как хороший дизайн выглядит на уровне кода</li><li>Можно ли быть хорошим разработчиком и дизайнером одновременно</li></ul>",
+    "twitter": "",
+    "company": "IT-Academy"
+  },
+  {
+    "id": 51,
+    "name": "Dzianis Sheka",
+    "photo": "dzianis-sheka.jpg",
+    "city": "Minsk, Belarus",
+    "intro": "<p>TBD</p>",
+    "talk_lang": "RU",
+    "talk_title": "Education vs training?",
+    "talk_description": "<ul><li>Is it a real contradiction?</li><li>Should be training a social lift?</li><li>Does the current computer science education in Belarus / Eastern world help the student to build a foundation of knowledge or prevent them?</li><li>Is the self-education future for us?</li></ul>",
+    "talk2_title": "Technical communities - what next?",
+    "talk2_description": "Dawn or rebirth? What new opportunities do we have? What direction do we look at?",
+    "talk3_title": "Future after matureness",
+    "talk3_description": "<ul><li>Is Javascript moving in Java way (driven by the big enterprise like java or non-commercial organization like python or by the community as c++)</li><li>Should javascript developers continue adopting engineering practices?</li><li>Or should the coder deep into the business?</li><li>In what degree should an engineer be platform agnostic?</li></ul>",
+    "twitter": "",
+    "company": "Mapbox"
+  }
 ]
