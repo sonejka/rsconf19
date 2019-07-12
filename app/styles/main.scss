@@ -21,7 +21,7 @@ $color-red: #ff4239;
 
 $content-xsm: 470px;
 $content-sm: 555px;
-$content-md: 740px;
+$content-md: 937px;
 $content-lg: 1134px;
 
 $height-footer: 40px;
@@ -246,7 +246,11 @@ body {
       }
     }
   }
+}
 
+.conf-title {
+  width: 100%;
+  margin: 30px 0;
 }
 
 .noscroll {
