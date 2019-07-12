@@ -13,15 +13,15 @@
   },
   {
     "id": 2,
-    "name": "Andrei Lesnitsky",
-    "photo": "andrei-lesnitsky.jpg",
-    "city": "Minsk, Belarus",
-    "intro": "<p>Andrei Lesnitsky - self-employed software dev. Passioned about front-end development, bleeding edge web-technologies, js performance, public speaking and knowledge sharing. Constantly experimenting with new stuff, messing around with pet projects for fun.</p>",
+    "name": "Vitali Lashchanka",
+    "photo": "vitali-lashchanka.jpg",
+    "city": "Riga, Latvia",
+    "intro": "<p>My name is Vitali Lashchanka and I’m Lead Software Development Engineer in Evolution Gaming. During my career I’ve worked as Backend and Frontend Developer in different companies, industries and positions. \u2028Test Automation was always my point of interest.\u2028In my current role I’m actively help teams to establish good testing and test automation practices related to frontend development (for example visual regression testing)</p>",
     "talk_lang": "EN",
-    "talk_title": "Talk TBD",
-    "talk_description": "",
-    "twitter": "lesnitsky_a",
-    "company": "Self-employed"
+    "talk_title": "Fail Fast approach in Frontend Development",
+    "talk_description": "TBD",
+    "twitter": "",
+    "company": "Evolution Gaming"
   },
   {
     "id": 3,
@@ -630,3 +630,4 @@
     "company": "Mapbox"
   }
 ]
+
