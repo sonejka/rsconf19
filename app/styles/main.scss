@@ -1,6 +1,7 @@
 // bower:scss
 // endbower
 @import "normalize";
+@import "fonts.css";
 
 /*------------------------------------*\
     VARIABLES
@@ -26,38 +27,42 @@ $content-lg: 1134px;
 
 $height-footer: 40px;
 
-$font-family: 'Exo 2', sans-serif;
+$font-family-geo: 'Geo', sans-serif;
+$font-family-exo2: 'Exo 2', sans-serif;
+$font-family-arialBlack: 'Arial Black', sans-serif;
 
 //text sizes
-$font-size-sm: 1.8rem;
-$line-height-sm: 2.8rem;
+$font-size-xsm: 2.4rem;
+$line-height-xsm: 2.8rem;
+$font-size-sm: 3.2rem;
+$line-height-sm: 3.6rem;
 $font-size-md: 2.4rem;
 $line-height-md: 3.6rem;
-$font-size-lg: 3.6rem;
-$line-height-lg: 4.6rem;
+$font-size-lg: 5rem;
+$line-height-lg: 5rem;
 
 //text sizes for mobile
-$font-size-sm-mb: 1.6rem;
-$line-height-sm-mb: 2.4rem;
-$font-size-md-mb: 1.8rem;
-$line-height-md-mb: 2.6rem;
-$font-size-lg-mb: 2.4rem;
-$line-height-lg-mb: 3.2rem;
+$font-size-sm-mb: 2.4rem;
+$line-height-sm-mb: 2.6rem;
+$font-size-md-mb: 2.4rem;
+$line-height-md-mb: 2.4rem;
+$font-size-lg-mb: 3.2rem;
+$line-height-lg-mb: 3.6rem;
 
 //heading sizes
-$font-size-h1: 7.2rem;
-$line-height-h1: 8rem;
-$font-size-h2: 2rem;
-$line-height-h2: 3rem;
-$font-size-h3: 2rem;
-$line-height-h3: 3rem;
+$font-size-h1: 10rem;
+$line-height-h1: 9rem;
+$font-size-h2: 3.2rem;
+$line-height-h2: 4rem;
+$font-size-h3: 3.2rem;
+$line-height-h3: 3.6rem;
 
 //heading sizes for mobile
 $font-size-h1-mb: 3rem;
 $line-height-h1-mb: 3.8rem;
-$font-size-h2-mb: 2rem;
-$line-height-h2-mb: 3rem;
-$font-size-h3-mb: 1.8rem;
+$font-size-h2-mb: 2.4rem;
+$line-height-h2-mb: 3.2rem;
+$font-size-h3-mb: 2.4rem;
 $line-height-h3-mb: 2.6rem;
 
 // Media queries breakpoints
@@ -153,96 +158,22 @@ body {
   height: 100%;
   background: $color-black;
   padding-top: 44px;
-  font-family: 'Exo 2', sans-serif;
+  font-family: $font-family-geo;
   color: $color-text;
-  font-size: 1.8rem;
-  line-height: 2.8rem;
+  font-size: 2.4rem;
+  line-height: 2.6rem;
+  letter-spacing: -0.4px;
 }
 
 .page-wrap {
-  background: $color-blue;
-  transition: all 200ms;
+  background: $color-white;
   min-width: 320px;
 
-  &.page-speakers {
-    background: $color-pink;
-
-    .btn {
-      &:hover {
-        color: $color-pink;
-      }
-    }
-
-    & + footer {
-      color: $color-pink;
-    }
-  }
-
-  &.page-venue, &.page-partners {
-    background: $color-green;
-
-    & + footer {
-      color: $color-green;
-    }
-
-    .btn {
-      &:hover {
-        color: $color-green;
-      }
-    }
-  }
-
-  &.page-schedule {
-    background: $color-lime;
-
-    & + footer {
-      color: $color-lime;
-    }
-
-    .btn {
-      &:hover, &.active {
-        color: $color-lime;
-      }
-    }
-  }
-
-  &.page-contacts {
-    background: $color-purple;
-
-    & + footer {
-      color: $color-purple;
-    }
-  }
-
-  &.page-talk {
-    background: $color-yellow;
-
-    & + footer {
-      color: $color-yellow;
-    }
-
-    .btn {
-      &:hover {
-        color: $color-yellow;
-      }
-    }
-  }
-
   &.page-about, &.page-code-of-conduct {
-    background: $color-blue;
-
-    & + footer, footer {
-      color: $color-blue;
-    }
-
     .btn {
       margin: 30px 0;
       @media (max-width: 767px) {
         margin: 15px 0;
-      }
-
-      &:hover {
-        color: $color-blue;
       }
     }
   }
@@ -251,6 +182,11 @@ body {
 .conf-title {
   width: 100%;
   margin: 30px 0;
+
+  & + p {
+    font-family: "Arial Black", sans-serif;
+    text-transform: uppercase;
+  }
 }
 
 .noscroll {
@@ -259,77 +195,111 @@ body {
 }
 
 p {
-  font: #{$font-size-sm}/#{$line-height-sm} $font-family;
+  font: #{$font-size-sm}/#{$line-height-sm} $font-family-geo;
   margin: .5rem 0;
+  letter-spacing: -0.4px;
   @media (max-width: $screen-tablet) {
-    font: #{$font-size-sm-mb}/#{$line-height-sm-mb} $font-family;
+    font: #{$font-size-sm-mb}/#{$line-height-sm-mb} $font-family-geo;
     margin: .3rem 0;
+    letter-spacing: -0.4px;
+  }
+}
+
+p.text-sm {
+  font: #{$font-size-xsm}/#{$line-height-xsm} $font-family-geo;
+  letter-spacing: -0.4px;
+  @media (max-width: $screen-tablet) {
+    font: #{$font-size-md-mb}/#{$line-height-md-mb} $font-family-geo;
   }
 }
 
 p.text-md {
-  font: #{$font-size-md}/#{$line-height-md} $font-family;
+  font: #{$font-size-md}/#{$line-height-md} $font-family-geo;
   @media (max-width: $screen-tablet) {
-    font: #{$font-size-md-mb}/#{$line-height-md-mb} $font-family;
+    font: #{$font-size-md-mb}/#{$line-height-md-mb} $font-family-geo;
   }
 }
 
 .text-lg {
-  font: bold #{$font-size-lg}/#{$line-height-lg} $font-family;
+  font: bold #{$font-size-lg}/#{$line-height-lg} $font-family-exo2;
   margin: 2rem 0;
   text-transform: none;
+  letter-spacing: 1px;
   @media (max-width: $screen-tablet) {
-    font: bold #{$font-size-lg-mb}/#{$line-height-lg-mb} $font-family;
+    font: bold #{$font-size-lg-mb}/#{$line-height-lg-mb} $font-family-exo2;
+    letter-spacing: 0;
   }
 }
 
 h1 {
-  font: bold #{$font-size-h1}/#{$line-height-h1} $font-family;
+  font: bold #{$font-size-h1}/#{$line-height-h1} $font-family-geo;
   margin: 1rem 0;
 
   @media (max-width: $screen-tablet) {
-    font: bold #{$font-size-h1-mb}/#{$line-height-h1-mb} $font-family;
+    font: bold #{$font-size-h1-mb}/#{$line-height-h1-mb} $font-family-geo;
   }
 }
 
 h2 {
-  font: bold #{$font-size-h2}/#{$line-height-h2} $font-family;
+  font: bold #{$font-size-h2}/#{$line-height-h2} $font-family-arialBlack;
   text-transform: uppercase;
   margin-bottom: 60px;
 
   @media (max-width: $screen-tablet) {
-    font: bold #{$font-size-h2-mb}/#{$line-height-h2-mb} $font-family;
+    font: bold #{$font-size-h2-mb}/#{$line-height-h2-mb} $font-family-arialBlack;
     margin-top: 0;
     margin-bottom: 40px;
   }
 
   &.text-lg {
     margin-bottom: 60px;
+    font-family: $font-family-arialBlack;
 
     @media (max-width: $screen-tablet) {
+      font: #{$font-size-h2-mb}/#{$line-height-h2-mb} $font-family-arialBlack;
       margin-bottom: 40px;
+      text-transform: uppercase;
     }
   }
 }
 
 h3 {
-  font: bold normal #{$font-size-h3}/#{$line-height-h3} $font-family;
+  font: bold normal #{$font-size-h3}/#{$line-height-h3} $font-family-geo;
   margin: 0;
 
   @media (max-width: $screen-tablet) {
-    font: bold #{$font-size-h3-mb}/#{$line-height-h3-mb} $font-family;
+    font: bold #{$font-size-h3-mb}/#{$line-height-h3-mb} $font-family-geo;
+  }
+}
+
+//a {
+//  color: $color-link;
+//  text-decoration: none;
+//  border-bottom: 1px solid $color-link;
+//
+//  &:hover {
+//    border-bottom: none;
+//  }
+//}
+
+$colors: #D103F0, #FF4BFF, #FF1010, #FF9D10, #FFDA00, #FFF010, #D0FF10,
+#96FF3C, #00E558, #10F3FF, #1089FF, #0926FF, #9210FF, #6A00DC;
+
+@for $i from 1 through length($colors) {
+  a.color_#{$i}:hover {
+    background: nth($colors, $i);
+    color: #000;
   }
 }
 
 a {
-  color: $color-link;
+  color: $color-white;
+  background: $color-black;
   text-decoration: none;
-  border-bottom: 1px solid $color-link;
-
-  &:hover {
-    border-bottom: none;
-  }
+  transition: .3s;
+  padding: 0 4px;
 }
+
 
 iframe {
   width: 100%;
@@ -375,7 +345,7 @@ section {
   text-align: center;
 
   @media (max-width: $screen-desktop) {
-    padding: 50px 20px;
+    padding: 40px 20px;
   }
 
   &.shorted {
@@ -427,23 +397,31 @@ nav + section.shorted {
 }
 
 .btn {
-  background: transparent;
+  width: auto;
+  color: $color-white;
+  background-color: $color-black;
   display: inline-block;
-  padding: 15px 50px;
-  border: 2px solid $color-link;
-  color: $color-link;
-  font-weight: bold;
-  font-size: 2rem;
+  padding: 15px 20px;
+  font-family: $font-family-arialBlack;
+  font-size: 3.2rem;
   line-height: 3rem;
+  letter-spacing: 0;
   text-align: center;
   text-transform: uppercase;
   text-decoration: none;
   transition: .6s cubic-bezier(0.77, 0.2, 0.05, 1.0);
+  @media (max-width: $screen-tablet) {
+    font-size: 2.4rem;
+  }
 
-  &:hover, &.active {
-    color: $color-white;
-    background-color: $color-black;
-    border-bottom: 2px solid $color-link;
+  &.fullwidth {
+    width: 100%;
+  }
+
+  &.light {
+    color: $color-black;
+    background: $color-white;
+    border: 2px solid $color-link;
   }
 }
 
@@ -457,9 +435,28 @@ nav + section.shorted {
   }
 
   a {
+    display: inline-block;
     border-bottom: none;
-    font-size: 3rem;
-    padding: 0 5px;
+    margin: 10px 5px;
+    color: $color-black;
+    background: transparent;
+
+    &:hover {
+      background: transparent;
+    }
+
+    @media (max-width: $screen-tablet) {
+      margin: 10px 0;
+    }
+
+    i {
+      font-size: 5rem;
+      line-height: 5rem;
+      @media (max-width: $screen-tablet) {
+        font-size: 3.6rem;
+        line-height: 3.6rem;
+      }
+    }
   }
 }
 
@@ -478,9 +475,11 @@ blockquote {
   max-width: 500px;
 }
 
+
 figure {
+  margin: 1em 15px;
   @media (max-width: $screen-tablet) {
-    margin: 1em 20px;
+    margin: 1em 15px;
 
 
     figcaption h3 {
@@ -502,21 +501,19 @@ nav {
   text-align: center;
   z-index: 1001;
 
-  a {
-    color: $color-white;
-    border-bottom: 1px solid $color-white;
-
-    &:hover {
-      border-bottom: none;
-    }
-  }
-
-  h2 a {
-    border-bottom: none;
-  }
 
   .social-links a {
-    font-size: 2.5rem;
+    color: $color-white;
+    margin: 10px 3px;
+
+    i {
+      font-size: 2.9rem;
+      line-height: 2.9rem;
+    }
+
+    &:hover {
+      color: $color-white;
+    }
   }
 }
 
@@ -637,7 +634,6 @@ nav {
   max-width: 1200px;
   padding: 0 30px;
   margin: auto;
-  text-align: left;
 
   display: inline-grid;
   grid-template-columns: repeat(4, 1fr);
@@ -646,7 +642,7 @@ nav {
   grid-template-rows: auto;
   align-content: space-between;
 
-  grid-template-areas: "primary about venue tickets" "primary mp-day previous social"  ;
+  grid-template-areas: "primary about venue tickets" "primary mp-day previous social";
 
   ul {
     list-style: none;
@@ -656,8 +652,8 @@ nav {
   h2 {
     margin: 1.5rem 0;
     text-transform: uppercase;
-    font-size: 1.8rem;
-    line-height: 2.8rem;
+    font-size: 2.4rem;
+    line-height: 3.2rem;
   }
 
   h3 {
@@ -667,9 +663,16 @@ nav {
   }
 
   p {
-    font-size: 1.6rem;
-    line-height: 2.4rem;
+    font-size: 2.4rem;
+    line-height: 2.6rem;
     margin: 8px 0;
+
+    a {
+      color: $color-black;
+      background: $color-white;
+      border-bottom: none;
+      padding: 0 3px;
+    }
   }
 
   img {
@@ -697,9 +700,11 @@ nav {
 
 .menu-item-primary {
   grid-area: primary;
+  font-family: $font-family-arialBlack;
+
 
   li {
-    padding: 8px 0;
+    padding: 15px 0;
     text-transform: uppercase;
     font-weight: bold;
 
@@ -749,12 +754,19 @@ nav {
 .menu-item-previous {
   grid-area: previous;
 
-  li {
-    display: inline-block;
-    padding: 0 16px 0 0;
+  .preview-slider {
+    display: flex;
+    flex-direction: row;
   }
 
-  a.active {
+  li {
+    display: list-item;
+    width: 50%;
+  }
+
+  a {
+    color: $color-black;
+    background: $color-white;
     border-bottom: none;
   }
 
@@ -774,12 +786,12 @@ nav {
     padding: 0 16px 0 0;
   }
 
-  a.active {
-    border-bottom: none;
+  p a {
+    display: inline-block;
+    margin-top: 10px;
   }
 
   img {
-    float: left;
     width: auto;
     margin-left: -20px;
   }
@@ -811,18 +823,12 @@ nav {
     width: 100%;
     margin: 20px 0;
     padding: 13px 0;
-    border: 2px solid $color-white;
-    color: $color-white;
     font-size: 2rem;
     line-height: 3rem;
     font-weight: bold;
     text-transform: uppercase;
     text-align: center;
-
-    &:hover {
-      background: $color-white;
-      color: $color-black !important;
-    }
+    border: 0;
   }
 
   .placeholder-btn {
@@ -838,9 +844,6 @@ nav {
 .menu-item-social {
   grid-area: social;
 
-  .social-links {
-    text-align: left;
-  }
 
   @media (max-width: $screen-tablet) {
     display: none;
@@ -985,11 +988,14 @@ nav {
 
     h3 {
       text-align: center;
+      font-family: $font-family-arialBlack;
+      font-size: 2rem;
+      line-height: 2.2rem;
     }
 
     p, ul li {
-      font-size: 1.3rem;
-      line-height: 2rem;
+      font-size: 2rem;
+      line-height: 2.4rem;
     }
 
     img {
@@ -1008,18 +1014,15 @@ nav {
 }
 
 /*------------------------------------*\
-    ANNOUNCEMENT -BLUE
+    ANNOUNCEMENT
 \*------------------------------------*/
 
 .announcement {
   .btn {
-    margin: 30px 20px 0;
-    padding: 15px 30px;
+    margin: 10px 0;
+    padding: 15px 20px;
     min-width: 210px;
 
-    &:hover {
-      color: $color-blue;
-    }
   }
 }
 
@@ -1027,18 +1030,16 @@ nav {
     SPEAKER LIST
 \*------------------------------------*/
 .speaker-list {
-  margin: 0 0 -60px;
+  margin: 0 -15px;
   padding: 0;
   list-style-type: none;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-around;
   align-items: stretch;
   align-content: flex-start;
 
   img {
-    max-width: 260px;
     width: 100%;
     display: inline-block;
   }
@@ -1052,12 +1053,42 @@ nav {
     @media (max-width: $screen-tablet) {
       width: 50%;
       margin-bottom: 30px;
-      img {
-        max-width: 130px;
-      }
     }
   }
 
+  figcaption {
+    position: relative;
+    text-align: center;
+    padding-top: 20px;
+
+    h3 a {
+      font-size: 3.2rem;
+      line-height: 3.2rem;
+      padding: 0 4px;
+    }
+
+    p small {
+      font-size: 2.4rem;
+      line-height: 2.6rem;
+    }
+  }
+
+  .speaker-name span {
+    display: inline-block;
+    padding: 0 20px;
+  }
+
+  .speaker-company {
+    background: $color-white;
+    color: $color-black;
+    position: absolute;
+    top: -30px;
+    right: 0;
+    z-index: 10;
+    font-size: 1.8rem;
+    line-height: 2rem;
+    padding: 0 3px;
+  }
 
   &.shorted {
     margin: 0;
@@ -1071,31 +1102,18 @@ nav {
       margin: 0;
     }
   }
-}
 
-.speaker-list, .speaker-profile {
+  @media (max-width: $screen-tablet) {
+    &.short {
+      li {
+        display: none;
+      }
 
-  figcaption {
-    position: relative;
-  }
-
-  .speaker-company {
-    background: $color-yellow;
-    color: $color-black;
-    position: absolute;
-    top: -28px;
-    right: 0;
-    z-index: 10;
-    font-size: 1.2rem;
-    line-height: 1.6rem;
-    padding: 0 3px;
-
-    @media (max-width: $screen-tablet) {
-      left: 0;
-      right: auto;
+      li:nth-child(-n+4) {
+        display: block;
+      }
     }
   }
-
 }
 
 .speaker-list + h3 {
@@ -1106,26 +1124,69 @@ nav {
     SPEAKER PROFILE
 \*------------------------------------*/
 
+.content-lg > .content-sm {
+  margin: 0;
+  width: 660px;
+  max-width: 100%;
+}
+
 .speaker-profile {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
 
+  .text-lg {
+    font-family: $font-family-geo;
+    font-size: 3.2rem;
+    line-height: 3.2rem;
+    font-weight: normal;
+    letter-spacing: -0.4px;
+    @media (max-width: $screen-tablet) {
+      font-size: 4rem;
+      line-height: 3.4rem;
+    }
+  }
+
+  p {
+    font-size: 2.4rem;
+    line-height: 2.6rem;
+  }
+
   figure {
     width: 50%;
-    margin-right: 15px;
-    margin: 0;
+    margin: 0 30px 0 0;
     display: inline-block;
+
+    @media (max-width: $screen-tablet) {
+      width: 70%;
+    }
 
     img {
       width: 100%;
     }
+  }
 
+  figcaption {
+    position: relative;
+    text-align: center;
+    padding-top: 20px;
+  }
+
+  .speaker-company {
+    background: $color-white;
+    color: $color-black;
+    position: absolute;
+    top: -30px;
+    right: 0;
+    z-index: 10;
+    font-size: 1.8rem;
+    line-height: 2rem;
+    padding: 0 3px;
   }
 
   .speaker-about {
     display: inline-block;
-    width: 50%;
+    width: 60%;
     text-align: left;
     margin-left: 15px;
 
@@ -1151,8 +1212,28 @@ nav {
 \*------------------------------------*/
 
 .talk-info {
+  max-width: 747px;
+  margin: auto;
+
   h2 {
     margin: 0 0 30px;
+  }
+
+  .text-lg {
+    font-family: $font-family-geo;
+    font-size: 6rem;
+    line-height: 6rem;
+    font-weight: normal;
+    letter-spacing: -0.4px;
+    @media (max-width: $screen-tablet) {
+      font-size: 4rem;
+      line-height: 3.4rem;
+    }
+  }
+
+  p {
+    font-size: 2.4rem;
+    line-height: 2.6rem;
   }
 
   .text-md {
@@ -1200,6 +1281,7 @@ nav {
 .schedule.mobile-people-day > li.second-stream .talk-place {
   background: $color-blue;
 }
+
 /*------------------------------------*\
     SCHEDULE
 \*------------------------------------*/
@@ -1209,26 +1291,33 @@ nav {
   flex-wrap: nowrap;
   align-content: space-between;
 }
+
 .schedule-tabs .btn {
   width: 25%;
   display: inline-block;
   transition: 0.3s;
-
-  @include border-radius(0px);
-  padding: 15px 30px;
+  font-size: 2.4rem;
+  padding: 15px 10px;
   margin: 15px;
 
-  .stream-date {
-    display: block;
+  background: transparent;
+  color: $color-black;
+  border: 2px solid $color-black;
+
+  &.active {
+    background: $color-black;
+    color: $color-white;
   }
 
   .abbr-view {
     display: none;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
   }
 
   .stream-date {
-    display: block;
-    font-size: 1.5rem;
+    //display: block;
+    //font-size: 1.5rem;
     font-weight: normal;
 
     @media (max-width: $screen-tablet) {
@@ -1239,7 +1328,7 @@ nav {
   @media (max-width: $screen-tablet) {
 
     box-sizing: content-box;
-    padding: 10px;
+    padding: 10px 5px;
     margin: 5px;
 
     .full-view {
@@ -1251,16 +1340,20 @@ nav {
 
     .abbr-view {
       display: block;
+
+      & + br {
+        display: none;
+      }
     }
     .full-view {
       display: none;
     }
   }
 
-
   &:first-child {
     margin-left: 0;
   }
+
   &:last-child {
     margin-right: 0;
   }
@@ -1295,6 +1388,19 @@ nav {
     padding: 35px 100px;
     @media (max-width: $screen-tablet) {
       padding: 25px 10px 25px 75px;
+    }
+
+    h3 a {
+      padding: 0 5px;
+    }
+
+    .text-sm {
+      font-size: 2rem;
+      line-height: 2.2rem;
+
+      small {
+        font-size: 100%;
+      }
     }
 
     &:first-child {
@@ -1400,14 +1506,14 @@ nav {
   flex-wrap: wrap;
   justify-content: center;
   padding: 0;
-  margin: 0 auto 50px;
+  margin: 0 -15px 50px;
 
   @media (max-width: $screen-tablet) {
     overflow-x: scroll;
     overflow-y: hidden;
     flex-wrap: nowrap;
     margin: 0 auto 20px;
-
+    justify-content: flex-start;
   }
 
   li {
@@ -1415,6 +1521,7 @@ nav {
     display: inline-block;
     width: 25%;
     overflow: hidden;
+    padding: 0 15px;
 
     @media (max-width: $screen-tablet) {
       width: auto;
@@ -1423,13 +1530,15 @@ nav {
       margin: 0;
       padding: 0;
       overflow: initial;
-
     }
 
     img {
       width: auto;
-      height: 220px;
-      max-width: 220px;
+      max-width: 100%;
+      @media (max-width: $screen-tablet) {
+        height: 220px;
+        max-width: 250px;
+      }
     }
   }
 }
@@ -1441,15 +1550,39 @@ nav {
 .tweets-carousel {
   overflow: hidden;
   padding-bottom: 20px;
+
+  p {
+    font-family: $font-family-exo2;
+    font-size: 2.4rem;
+    @media (max-width: $screen-desktop) {
+      font-family: $font-family-geo;
+      font-size: 2rem;
+      line-height: 2rem;
+    }
+  }
 }
 
+
 .tweet {
+  font-family: $font-family-exo2;
+  font-size: 2.4rem;
   border: 2px solid $color-black;
+  background: $color-black;
+  color: $color-white;
   margin: 10px 0;
   text-align: left;
   float: left;
   width: 100%;
   clear: both;
+  @media (max-width: $screen-desktop) {
+    font-family: $font-family-geo;
+    font-size: 2rem;
+  }
+
+  a {
+    background: transparent;
+    color: $color-white;
+  }
 
   .bold {
     margin-right: 5px;
@@ -1555,7 +1688,6 @@ nav {
     PARTNERS
 \*------------------------------------*/
 .partner-list {
-  max-width: 900px;
   margin: 0 auto;
   padding: 0;
   list-style-type: none;
@@ -1568,7 +1700,6 @@ nav {
 
   li {
     display: list-item;
-    width: 20%;
     margin: 0 20px 60px;
 
     @media (max-width: $screen-desktop) {
@@ -1584,6 +1715,11 @@ nav {
     border-bottom: 0;
     display: inline-block;
     position: relative;
+    background-color: transparent;
+
+    &:hover {
+      background-color: transparent;
+    }
 
     &:before {
       position: absolute;
@@ -1718,7 +1854,7 @@ footer {
   color: $color-white;
 
   p {
-    font-size: 1.4rem;
+    font-size: 2.4rem;
     line-height: 4rem;
     margin: 0;
   }

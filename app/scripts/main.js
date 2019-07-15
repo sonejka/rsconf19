@@ -1,19 +1,19 @@
-$(window).on('scroll touchmove', function() {
-
-  if ($('.menu-btn:checked').length === 0) {
-
-    let coloredSections = $('section[data-color]');
-
-    const scrollTop = $(document).scrollTop() + $(window).height() / 2;
-
-    coloredSections.each(function(sectionIndex, sec) {
-      let section = $(sec);
-      if (scrollTop >= section.position().top) {
-        $('.page-wrap').css('background', section.attr('data-color'));
-      }
-    });
-  }
-});
+// $(window).on('scroll touchmove', function() {
+//
+//   if ($('.menu-btn:checked').length === 0) {
+//
+//     let coloredSections = $('section[data-color]');
+//
+//     const scrollTop = $(document).scrollTop() + $(window).height() / 2;
+//
+//     coloredSections.each(function(sectionIndex, sec) {
+//       let section = $(sec);
+//       if (scrollTop >= section.position().top) {
+//         $('.page-wrap').css('background', section.attr('data-color'));
+//       }
+//     });
+//   }
+// });
 
 
 $(document).ready(function() {
@@ -65,6 +65,23 @@ $(document).ready(function() {
     }, 100);
     return false;
   });
+
+
+  // colored links
+  let allLinks = document.getElementsByTagName('a');
+  let className;
+  let j = 1;
+
+  for (let i = 0; i < allLinks.length; i++) {
+
+    className = 'color_' + j;
+    allLinks[i].classList.add(className);
+    j++;
+    if (j === 11) {
+      j = 1;
+    }
+  }
+
 });
 
 
