@@ -97,15 +97,15 @@
   },
   {
     "id": 9,
-    "name": "Timofey Lavrenuyk",
-    "photo": "timofey-lavrenuyk.jpg",
-    "city": "Odessa, Ukraine",
-    "intro": "<p>Timofey is a Software Engineer at Keepsolid. Mozilla Tech Speaker. 6+ years in web development. Interested in creating my own projects, testing new features and going into production.</p>",
+    "name": "Andrew Smirnov",
+    "photo": "andrew-smirnov.jpg",
+    "city": "Moscow, Russia",
+    "intro": "<p>UI Practice Lead, IPONWEB</p>",
     "talk_lang": "RU",
-    "talk_title": "Building an Offline first app with Persistence storage",
-    "talk_description": "<p>My talk will be on the approach of offline first. This is something that has long been the norm on native platforms, but not very popular on the web. This will be about the experience of offline first at the architectural level using Web Worker and IndexedDB (with Lovefield SQL Engine).</p>",
-    "twitter": "geek_timofey",
-    "company": "KeepSolid"
+    "talk_title": "Фронтенд говорит",
+    "talk_description": "<p>Вы замечали, что в индустрии фронтенд-разработки как нигде много разных митапов, конференций и тех же подкастов? Есть мнение, что в своё время из-за относительно низкого порога входа фронтенд-разработка собрала в себе множество абсолютно разных интереснейших людей с диаметрально противовоположным профессиональным бэкграундом. И все эти люди имеют потребность в каком-то самовыражении и делают это с разных точек зрения, а разработчики, которые в этих активностях участвуют, активно взаимодействуют друг с другом и быстрее развиваются в том числе в профессиональном плане за счет обмена опытом. </p><p>Я бы хотел рассказать о важности soft skills для всех разработчиков и как их можно развивать в 2019-м году, а также развеять миф, что интроверт ими не обладает и не склонен к их развитию.</p>",
+    "twitter": "",
+    "company": "IPONWEB"
   },
   {
     "id": 10,
