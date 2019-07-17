@@ -628,6 +628,18 @@
     "talk3_description": "<ul><li>Is Javascript moving in Java way (driven by the big enterprise like java or non-commercial organization like python or by the community as c++)</li><li>Should javascript developers continue adopting engineering practices?</li><li>Or should the coder deep into the business?</li><li>In what degree should an engineer be platform agnostic?</li></ul>",
     "twitter": "",
     "company": "Mapbox"
+  },
+  {
+    "id": 52,
+    "name": "Pablo Birukov",
+    "photo": "pablo-birukov.jpg",
+    "city": "Riga, Latvia",
+    "intro": "<p>Pavel Birukov is a developer who has been writing JavaScript for 7 years. He joined Evolution Gaming back in 2015 when a rapid growth started. Now he's a member of the JS Platform team where he manages the delivery process, improves build tools and tries to keep the growing process under control.</p>",
+    "talk_lang": "RU",
+    "talk_title": "JavaScript that scales",
+    "talk_description": "<p>Within the last 3 years, we've migrated to TypeScript, and made it one of our core values. I'd like to share some tricks and best practices we've discovered and adopted, such as:</p><ul><li>gradual migration to TypeScript</li><li>non-trivial use of type aliases</li><li>upgrading TypeScript without breaking things</li><li>type safety with modular CSS</li><li>custom linter rules enforcing consistency and strong types</li></ul><p>... and more.</p>",
+    "twitter": "pablobirukov",
+    "company": "Evolution Gaming"
   }
 ]
 
