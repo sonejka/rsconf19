@@ -602,18 +602,6 @@
     "company": "IT-Academy"
   },
   {
-    "id": 50,
-    "name": "Yan Ageenko",
-    "photo": "yan-ageenko.jpg",
-    "city": "Minsk, Belarus",
-    "intro": "<p>Ян работает в IT c 2004 года. За это время прошел путь от рядового дизайнера до арт-директора и руководителя отдела дизайна и разработки. Работал со множеством проектов – от обычных сайтов и приложений до сложных сервисов и игр с дополненной реальностью. В настоящее время преподает UI/UX дизайн в IT-академии ПВТ и занимается корпоративным менторингом. Также ведет свой \n<a target=\"_blank\" href=\"https://www.youtube.com/channel/UCFwdlILJL8HLAYLvJE-ySDQ\">канал на YouTube</a></p>",
-    "talk_lang": "RU",
-    "talk_title": "Дизайн-система на HTML/CSS",
-    "talk_description": "<ul><li>Как дизайн-система упрощает разработку продуктов и экономит время</li><li>Что общего у дизайнеров и frontend-разработчиков</li><li>Зачем дизайнеру знать технологии, а разработчику - основы дизайна</li><li>Как хороший дизайн выглядит на уровне кода</li><li>Можно ли быть хорошим разработчиком и дизайнером одновременно</li></ul>",
-    "twitter": "",
-    "company": "IT-Academy"
-  },
-  {
     "id": 51,
     "name": "Dzianis Sheka",
     "photo": "dzianis-sheka.jpg",
@@ -640,6 +628,18 @@
     "talk_description": "<p>Within the last 3 years, we've migrated to TypeScript, and made it one of our core values. I'd like to share some tricks and best practices we've discovered and adopted, such as:</p><ul><li>gradual migration to TypeScript</li><li>non-trivial use of type aliases</li><li>upgrading TypeScript without breaking things</li><li>type safety with modular CSS</li><li>custom linter rules enforcing consistency and strong types</li></ul><p>... and more.</p>",
     "twitter": "pablobirukov",
     "company": "Evolution Gaming"
-  }
+  },
+  {
+  "id": 53,
+  "name": "Nikita Zenchenko",
+  "photo": "nikita-zenchenko.jpg",
+  "city": "Minsk, Belarus",
+  "intro": "<p>Дизайнер, куратор школы дизайна Design Spot School</p>",
+  "talk_lang": "RU",
+  "talk_title": "Дизайн-система на HTML/CSS",
+  "talk_description": "<p>Зачем DesignSpot запустил бесплатную школу для UX дизайнеров, как устроен процесс, кто преподает, пишет статьи и снимает видео, и каким будет результат для студентов, для DesignSpot и в целом для отрасли в Беларуси.</p><p>Никита расскажет, как за год до открытия школы команда проводила масштабное исследование проблем профессионального обучения и как сформулировали манифест DesignSpot School.</p>",
+  "twitter": "",
+  "company": "EPAM"
+}
 ]
 
