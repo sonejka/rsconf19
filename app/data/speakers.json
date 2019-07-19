@@ -652,6 +652,18 @@
     "talk_description": "<p>Спорный рассказ о состоянии современного веб-дизайна и влияния на него расхожих паттернов и шаблонов. В своем выступлении Павел расскажет о поиске ответов в смежных дисциплинах. Будет рассуждать о необходимости действовать наперекор общепринятым стандартам и как в этом поможет Readymag.</p>",
     "twitter": "",
     "company": "Readymag"
+  },
+  {
+    "id": 55,
+    "name": "Aliaksandr Adzerykha",
+    "photo": "aliaksandr-adzerykha.jpg",
+    "city": "Minsk, Belarus",
+    "intro": "<p></p>",
+    "talk_lang": "RU",
+    "talk_title": "Front-end development for Enterprise",
+    "talk_description": "<p>Historically, nobody cared about Enterprise users. You may have seen ugly screens, nightmare UX, different guidelines for external and internal users and other ways of discrimination that Enterprise users had always been facing with. But today, thanks to a variety of everyday-use intuitive mobile apps and Internet sites, users expect more in regards to user experience. You can no longer make them work in apps with terrible UI. Their expectations have been set to a very welcoming and consistent user experience across the whole business landscape and all systems they need to interact with to get their work done. A few years ago SAP SE introduced SAP Fiori 2.0 design system, having recently elevated it to the next level with SAP Fiori 3. Now enterprise solutions focus on consistency across all business applications, NLI, as well as enhancing the overall user experience by embedding intelligence to help users work more easily every day. The value put in aggregating all the emerging technologies is immense. From cloud, mobile, machine learning, blockchain to the Internet of everything. Running on JavaScript. In one place called Enterprise Solutions.</p>",
+    "twitter": "",
+    "company": "EPAM"
   }
 ]
 
