@@ -664,6 +664,18 @@
     "talk_description": "<p>Historically, nobody cared about Enterprise users. You may have seen ugly screens, nightmare UX, different guidelines for external and internal users and other ways of discrimination that Enterprise users had always been facing with. But today, thanks to a variety of everyday-use intuitive mobile apps and Internet sites, users expect more in regards to user experience. You can no longer make them work in apps with terrible UI. Their expectations have been set to a very welcoming and consistent user experience across the whole business landscape and all systems they need to interact with to get their work done. A few years ago SAP SE introduced SAP Fiori 2.0 design system, having recently elevated it to the next level with SAP Fiori 3. Now enterprise solutions focus on consistency across all business applications, NLI, as well as enhancing the overall user experience by embedding intelligence to help users work more easily every day. The value put in aggregating all the emerging technologies is immense. From cloud, mobile, machine learning, blockchain to the Internet of everything. Running on JavaScript. In one place called Enterprise Solutions.</p>",
     "twitter": "",
     "company": "EPAM"
+  },
+  {
+    "id": 56,
+    "name": "Mitya Osadchuk",
+    "photo": "mitya-asadchuk.jpg",
+    "city": "Moscow, Russia",
+    "intro": "<p>В Mail.Ru Group отвечает за разработку идей, концепций для цифровых продуктов, маркетинга и рекламных технологий. За плечами технический вуз, Британка, ведущие агентства рунета и более 10 лет дизайн-практики.  \nСоздавал цифровые продукты во многих сферах: разработка измерительных приборов, ювелирных изделий, сайтов правительства и либеральных радиостанций, интерфейсов и приложений, проектов для маленьких стартапов и брендов с многомиллионной аудиторией. Преподаватель Британки, Бауманки, ВШЭ, Coursera.</p>",
+    "talk_lang": "RU",
+    "talk_title": "Генеративный дизайн: инструменты дизайнера будущего",
+    "talk_description": "<p>Любой хаос стремится к порядку. Любой порядок можно описать параметрами, а потом управлять этим порядком. Дизайн – не исключение. Какие уроки мы можем извлечь из опыта развития дизайна в других сферах? Что такое параметрический, алгоритмический, генеративный дизайн? Вместе расставим точки. \nК концу дискуссии мы приблизимся к пониманию будущего профессии и где мы находимся сейчас среду других творческих дисциплин, и разберемся заменят ли роботы дизайнера.</p>",
+    "twitter": "",
+    "company": "Mail.Ru Group"
   }
 ]
 
