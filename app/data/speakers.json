@@ -6,7 +6,7 @@
     "city": "Berlin, Germany",
     "intro": "<p>Alex is employed as a front-end engineer at Wix.com, earning just enough to sustain his functional programming addiction.</p><p>In his spare time he teaches programming and creates educational games with his hacker friends.</p>",
     "talk_lang": "EN",
-    "talk_title": "Talk TBD",
+    "talk_title": "\"No Foul Play\" <br> Describing State with Dependently Typed FSMs",
     "talk_description": "",
     "twitter": "da_quirm",
     "company": "wix.com"
@@ -43,7 +43,7 @@
     "intro": "<p>Martin is open source contributor and web evangelist by heart from Zurich with a decade experience from the trenches of software engineering in multiple fields.</p><p>He works as a developer advocate at Google and loves solving problems.</p><p> He devotes his time to moving the web forward, fixing problems, building applications and systems and breaking things for fun & profit.</p><p> Martin believes in the web platform and is working with bleeding edge technologies that will allow the web to prosper.</p>",
     "talk_lang": "EN",
     "talk_title": "Technical SEO for JS developers",
-    "talk_description": "",
+    "talk_description": "Building web apps is a great way to reach a vast number of people... but to do so, your web content should also be discoverable via search. In this talk, we will dive into a few best practices and see how we can make sure our content can be found.",
     "twitter": "g33konaut",
     "company": "Google"
   },
