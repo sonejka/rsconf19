@@ -12,18 +12,6 @@
     "company": "wix.com"
   },
   {
-    "id": 2,
-    "name": "Vitali Lashchanka",
-    "photo": "vitali-lashchanka.jpg",
-    "city": "Riga, Latvia",
-    "intro": "<p>My name is Vitali Lashchanka and I’m Lead Software Development Engineer in Evolution Gaming. During my career I’ve worked as Backend and Frontend Developer in different companies, industries and positions. \u2028Test Automation was always my point of interest.\u2028In my current role I’m actively help teams to establish good testing and test automation practices related to frontend development (for example visual regression testing)</p>",
-    "talk_lang": "EN",
-    "talk_title": "Fail Fast approach in Frontend Development",
-    "talk_description": "TBD",
-    "twitter": "",
-    "company": "Evolution Gaming"
-  },
-  {
     "id": 3,
     "name": "Andre Gloukhmantchouk",
     "photo": "andre-gloukhmantchouk.jpg",
@@ -676,6 +664,18 @@
     "talk_description": "<p>Любой хаос стремится к порядку. Любой порядок можно описать параметрами, а потом управлять этим порядком. Дизайн – не исключение. Какие уроки мы можем извлечь из опыта развития дизайна в других сферах? Что такое параметрический, алгоритмический, генеративный дизайн? Вместе расставим точки. \nК концу дискуссии мы приблизимся к пониманию будущего профессии и где мы находимся сейчас среду других творческих дисциплин, и разберемся заменят ли роботы дизайнера.</p>",
     "twitter": "",
     "company": "Mail.Ru Group"
+  },
+  {
+    "id": 57,
+    "name": "Maksim Yuzva",
+    "photo": "maksim-yuzva.jpg",
+    "city": "Minsk, Belarus",
+    "intro": "<p></p>",
+    "talk_lang": "RU",
+    "talk_title": "Панельная дискуссия: Гайд по front-end разработчику, патч 2019",
+    "talk_description": "<p>В ролевых играх всегда было просто прокачаться в том направлении, в котором нам нравилось. Почему же развитие в реальной профессии такое неопределённое? Что учить сейчас, чтобы завтра не оказаться на задворках профессии? Как развиваются разработчики, которые сейчас на хайпе. Полезные ресурсы и источники информации. Где взять время на это ваше развитие? А сколько идти от фронтендера в архитекторы и почему это так больно? А может махнуть всем в менеджмент?</p><p>Эти и многие другие вопросы мы обсудим на нашей панельной дискуссии.</p>",
+    "twitter": "",
+    "company": "EPAM"
   }
 ]
 
