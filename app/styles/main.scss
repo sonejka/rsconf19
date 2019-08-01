@@ -1025,7 +1025,6 @@ nav {
       padding: 5px 10px;
     }
   }
-
 }
 
 /*------------------------------------*\
@@ -1512,6 +1511,10 @@ nav {
     }
   }
 
+  @media print {
+    page-break-after: always;
+  }
+
 
 }
 
@@ -1904,6 +1907,10 @@ footer {
     background: $color-black;
     color: #fff;
   }
+
+  @media print {
+    display: none !important;
+  }
 }
 
 .scroll-top i {
@@ -1915,6 +1922,10 @@ footer {
 \*------------------------------------*/
 
 @media print {
+
+  .schedule > li h3 a {
+    padding: 0;
+  }
 
   .for-print {
     display: block;
@@ -1956,34 +1967,35 @@ footer {
   .schedule > li {
     display: block;
     width: 100%;
-    padding: 5px 0 5px 50px;
+    padding: 5px 0 5px 100px;
 
-    &.first-stream,
-    &.second-stream {
-      width: 50%;
-      padding-right: 5px;
-    }
-
-    &.second-stream {
-      padding-right: 0;
-      padding-left: 5px;
-
-      .schedule-time {
-        display: none;
-      }
-    }
-
-    h3 {
-      margin: 0;
-      font-size: 8pt;
-      line-height: 10pt;
-    }
-
-    p {
-      font-size: 8pt;
-      line-height: 10pt;
-      margin: .2rem 0;
-    }
+    //&.first-stream,
+    //&.second-stream,
+    //&.third-stream {
+    //  width: 30%;
+    //  padding-right: 5px;
+    //}
+    //
+    //&.second-stream {
+    //  padding-right: 0;
+    //  padding-left: 5px;
+    //
+    //  .schedule-time {
+    //    display: none;
+    //  }
+    //}
+    //
+    //h3 {
+    //  margin: 0;
+    //  font-size: 12pt;
+    //  line-height: 14pt;
+    //}
+    //
+    //p {
+    //  font-size: 12pt;
+    //  line-height: 10pt;
+    //  margin: .2rem 0;
+    //}
   }
 
   p {
@@ -2010,6 +2022,7 @@ footer {
   .more {
     page-break-before: always;
   }
+
 }
 
 
