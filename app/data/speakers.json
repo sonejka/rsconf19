@@ -156,20 +156,6 @@
     "company": "Yandex"
   },
   {
-    "id": 15,
-    "name": "Shawn Wang",
-    "photo": "shawn-wang.jpg",
-    "city": "New York, United States",
-    "intro": "<p><a target='_blank' href='https://twitter.com/swyx'>@swyx</a> is an Infinite Builder working on Developer Experience at Netlify. In his free time he helps people Learn in Public at Egghead.io and /r/reactjs.</p>",
-    "talk_lang": "EN",
-    "talk_title": "STAR Apps: Design Systems, TypeScript, Apollo GraphQL, and React",
-    "talk_description": "A new front-end stack is emerging. They involve building Design Systems for visual consistency, using TypeScript for internal consistency, Apollo GraphQL for data manipulation, and server- or statically-rendered React for data representation. In this talk we explore how these trends fit together, and _why_ leading product teams from AirBnb to the New York Times are embracing them.",
-    "workshop_title": "Workshop: JAMStack Jumpstart: Gatsby + Netlify",
-    "workshop_description": "<p>There is a lot of developer and investment interest in JAMStack technologies: from the serverless movement to new authentication models to continuous atomic deployment to the static site generator renaissance. But with so many new terms and options, it is hard for people to figure out where to start.</p><p>This workshop will teach developers to set up a simple but state of the art Gatsby and Netlify stack, which lets people create blazing fast sites and apps with React and GraphQL, backed up by a continuous deployment and serverless platform complete with authentication and CMS. It has never been easier to get a great Lighthouse score, or to deploy complex, secure webapps for free.</p>",
-    "twitter": "swyx",
-    "company": "Netlify"
-  },
-  {
     "id": 16,
     "name": "Sergey Shalyapin",
     "photo": "sergey-shalyapin.jpg",
@@ -690,6 +676,18 @@
     "talk_description":"<p>Про новое качество печатных проектов, смешанные медиа и книги сегодня.</p>",
     "twitter": "",
     "company": "Yukhnevich.com"
+  },
+  {
+    "id": 15,
+    "name": "Vitali Lashchanka",
+    "photo": "vitali-lashchanka.jpg",
+    "city": "Riga, Latvia",
+    "intro": "<p>My name is Vitali Lashchanka and I’m Lead Software Development Engineer in Evolution Gaming. During my career I’ve worked as Backend and Frontend Developer in different companies, industries and positions. \u2028Test Automation was always my point of interest.\u2028In my current role I’m actively help teams to establish good testing and test automation practices related to frontend development (for example visual regression testing)</p>",
+    "talk_lang": "EN",
+    "talk_title": "Fail Fast approach in Frontend Development",
+    "talk_description": "TBD",
+    "twitter": "",
+    "company": "Evolution Gaming"
   }
 ]
 
