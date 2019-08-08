@@ -696,8 +696,8 @@
     "city": "Minsk, Belarus",
     "intro": "<p>Project Manager с прекрасной душой, Paralect</p>",
     "talk_lang": "RU",
-    "talk_title":"TBD",
-    "talk_description":"<p></p>",
+    "talk_title":"Черная книга скрам",
+    "talk_description":"<p>Я расскажу, в каких случаях скрам на проекте хуже, чем сын ефрейтор, и покажу пару трюков, которые помогут убедить вашего ПМа в том, что пора переходить на waterfall.</p>",
     "twitter": "",
     "company": "Paralect"
   }
