@@ -400,7 +400,7 @@
     "name": "Yonatan Levin",
     "photo": "yonatan-levin.jpg",
     "city": "Tel Aviv, Israel",
-    "intro": "<p>Yonatan is one of Israel's top mobile developers and part of the elite Google Developer Experts. He played a key role in the success of Gett which has raised over $500M and secured funding for his startup KolGene, a genetics market connector that's making big waves. Lovingly committed to Mobile & Product Management, Yonatan has also had passionate affairs with backend tech. Accomplished developer and entrepreneur, he knows exactly what's needed to transform smart ideas into lucrative products.</p>",
+    "intro": "<p>Yonatan is one of Israel's top mobile developers. He played a key role in the success of Gett which has raised over $500M and secured funding for his startup KolGene, a genetics market connector that's making big waves. Lovingly committed to Mobile & Product Management, Yonatan has also had passionate affairs with backend tech. Accomplished developer and entrepreneur, he knows exactly what's needed to transform smart ideas into lucrative products.</p>",
     "talk_lang": "EN",
     "talk_title": "Modern Android Development in Production",
     "talk_description": "<p>Being an Android developer is insane. Android Framework evolved and changed rapidly fast. It's tough to keep pace and keep updated with all new libraries, changes, and requirements with every new version. Recently at our startup, we reached the point where every move is hard and risky. How to refactor the application while keeping high release pace? How to go multi-module without re-write everything?</p><p>During this talk, we will look at the architecture approach we choose, refactoring dilemmas we had,  libraries we decide to use and why.</p>",
