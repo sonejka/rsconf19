@@ -694,17 +694,17 @@
     "name": "Vladimir Panteleev",
     "photo": "vladimir-panteleev.jpg",
     "city": "Minsk, Belarus",
-    "intro": "<p>Project Manager с прекрасной душой, Paralect</p>",
+    "intro": "<p>Project Manager с прекрасной душой</p>",
     "talk_lang": "RU",
     "talk_title":"Черная книга скрам",
     "talk_description":"<p>Я расскажу, в каких случаях скрам на проекте хуже, чем сын ефрейтор, и покажу пару трюков, которые помогут убедить вашего ПМа в том, что пора переходить на waterfall.</p>",
     "twitter": "",
-    "company": "Paralect"
+    "company": ""
   },
   {
     "id": 60,
-    "name": "Yan Tishko",
-    "photo": "yan-tishko.jpg",
+    "name": "Yan Tsishko",
+    "photo": "yan-tsishko.jpg",
     "city": "Minsk, Belarus",
     "intro": "<p>Senior Javascript Engineer at Oxagile with over 4 years experience. I am developing OTT platforms for Web and SmatTV for use by a multi-million audience, developing a microservice architecture for video processing using ML and result visualization on UI.</p>",
     "talk_lang": "RU",
