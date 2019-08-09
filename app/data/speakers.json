@@ -700,6 +700,18 @@
     "talk_description":"<p>Я расскажу, в каких случаях скрам на проекте хуже, чем сын ефрейтор, и покажу пару трюков, которые помогут убедить вашего ПМа в том, что пора переходить на waterfall.</p>",
     "twitter": "",
     "company": "Paralect"
+  },
+  {
+    "id": 60,
+    "name": "Yan Tishko",
+    "photo": "yan-tishko.jpg",
+    "city": "Minsk, Belarus",
+    "intro": "<p>Senior Javascript Engineer at Oxagile with over 4 years experience. I am developing OTT platforms for Web and SmatTV for use by a multi-million audience, developing a microservice architecture for video processing using ML and result visualization on UI.</p>",
+    "talk_lang": "RU",
+    "talk_title":"Server side rendering, глаза боятся, а руки делают",
+    "talk_description":"<p>Поделюсь опытом разработки server side rendering, на инвестигейт которого было потрачено 170 часов. Представлю готовое решение и starter kit для того, чтоб можно было сразу сесть и сделать SSR для React.js. Сравню 2 реализации с использованием Next.js фреймворка и Express.js, расскажу о плюсах, минусах и подводных камнях. Расскажу, почему Next.js нам не подошел.</p>",
+    "twitter": "",
+    "company": "Oxagile"
   }
 ]
 
