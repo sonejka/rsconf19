@@ -25,7 +25,7 @@ $(document).ready(function() {
   let dayToShow = window.location.hash;
 
   if (dayToShow === '') {
-    dayToShow = '#js-sun';
+    dayToShow = '#mobile-people-day';
   }
 
   dayToShow = dayToShow.substr(1);
