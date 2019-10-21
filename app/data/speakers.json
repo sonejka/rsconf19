@@ -9,7 +9,8 @@
     "talk_title": "\"No Foul Play\" Describing State with Dependently Typed FSMs",
     "talk_description": "",
     "twitter": "da_quirm",
-    "company": "wix.com"
+    "company": "wix.com",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/FaIVa4v_fMI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 3,
@@ -21,7 +22,8 @@
     "talk_title": "What's next for cross platform mobile development?",
     "talk_description": "<ul><li>Server-driven UI for mobile apps</li><li>The problem we are trying to solve</li><li>Why server-driven UI</li><li>Examples of implementation</li></ul>",
     "twitter": "",
-    "company": "Facebook"
+    "company": "Facebook",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/j91RPKzdNnQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 4,
@@ -33,7 +35,8 @@
     "talk_title": "Technical SEO for JS developers",
     "talk_description": "Building web apps is a great way to reach a vast number of people... but to do so, your web content should also be discoverable via search. In this talk, we will dive into a few best practices and see how we can make sure our content can be found.",
     "twitter": "g33konaut",
-    "company": "Google"
+    "company": "Google",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/nmxCUgFmtlg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 5,
@@ -45,7 +48,8 @@
     "talk_title": "React application as API",
     "talk_description": "Web applications went far beyond regular web sites. They are no longer just static (or dynamic) content presentations but rather complex systems with well defined business roles and goals. This is a story about how to transform your (pretty sure huge) React based application into a set of well separated single responsible features (endpoints), make them reusable, easy pluggable and maintainable.",
     "twitter": "",
-    "company": "Uber"
+    "company": "Uber",
+    "youtube": ""
   },
   {
     "id": 6,
@@ -57,7 +61,8 @@
     "talk_title": "Your Job Sucks And This Is Why",
     "talk_description": "",
     "twitter": "pukhalski",
-    "company": "EPAM"
+    "company": "EPAM",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/CxIL7cBs52g\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 7,
@@ -69,7 +74,8 @@
     "talk_title": "Creating IoT Applications with Web Bluetooth",
     "talk_description": "<p>10 million Bluetooth devices ship every day, and that figure is rising. Regarded as one of the key, enabling technologies of the Internet of Things (IoT), Bluetooth is everywhere and in the summer of 2017, a new Bluetooth technology, Bluetooth mesh networking was released. Bluetooth mesh is used in enterprise and industrial IoT systems and in these environments, web technologies and cloud-based architectures are king. </p><p>Web Bluetooth allows developers to create web applications which can monitor and control Bluetooth devices. In this session, we’ll review key Bluetooth concepts and capabilities and the Web Bluetooth APIs which let you exploit them. </p><p>There may even be demos!</p>",
     "twitter": "bluetooth_mdw",
-    "company": "Bluetooth SIG"
+    "company": "Bluetooth SIG",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/zcevm5fojDg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 9,
@@ -81,7 +87,8 @@
     "talk_title": "Фронтенд говорит",
     "talk_description": "<p>Вы замечали, что в индустрии фронтенд-разработки как нигде много разных митапов, конференций и тех же подкастов? Есть мнение, что в своё время из-за относительно низкого порога входа фронтенд-разработка собрала в себе множество абсолютно разных интереснейших людей с диаметрально противовоположным профессиональным бэкграундом. И все эти люди имеют потребность в каком-то самовыражении и делают это с разных точек зрения, а разработчики, которые в этих активностях участвуют, активно взаимодействуют друг с другом и быстрее развиваются в том числе в профессиональном плане за счет обмена опытом. </p><p>Я бы хотел рассказать о важности soft skills для всех разработчиков и как их можно развивать в 2019-м году, а также развеять миф, что интроверт ими не обладает и не склонен к их развитию.</p>",
     "twitter": "frontendweekend",
-    "company": "IPONWEB"
+    "company": "IPONWEB",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/nQPhKrVYATI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 10,
@@ -93,7 +100,8 @@
     "talk_title": "Через тернии к ATM",
     "talk_description": "<p>В августе 2018 года Тинькофф Банк запустил собственную сеть банкоматов. Одна из задач, стоявших перед командой - разработка оригинального, понятного и удобного для клиентов интерфейса. Рассказ о том, как важно выбирать технологии исходя из условий, с какими проблемами мы столкнулись, как их можно было бы избежать, и что из этого всего вышло.</p> <p>1) Что собой представляет UI для банкоматов.<br>- Взаимодействие софта и железа внутри банкомата.<br>- Используемый стек технологий для разработки UI.<br>- Почему выбрали именно такой стек?<br><br>2) Какие проблемы мы испытывали и испытываем при разработке и тестировании.<br>- Тестирование.<br>- Релизы.<br>- Решение клиентских проблем, необычные случаи из жизни.<br><br>3) Что удалось сделать.<br>- Много различных банкоматов, моделей, функций.<br>- Немного об оптимизации инкассации за счет наших технологий.</p>",
     "twitter": "",
-    "company": "Tinkoff"
+    "company": "Tinkoff",
+    "youtube": ""
   },
   {
     "id": 11,
@@ -105,7 +113,8 @@
     "talk_title": "Реалити шоу \"Cкрам 2 - Построй свое приложение\", или Сказ о том как мы всей командой тесты писали",
     "talk_description": "<p>Казалось бы, столько всего уже сказано о важности автотестов для повышения стабильности и упрощения работы. \nНо до сих пор многие люди, работающие в качестве outsource разработчиков (особенно для стартапов), имеют представление о том, как сложно \"продавить\" заказчика на выделение времени для написания автотестов. \nТут в ход идут все накопленные знания и умения, графики, аргументы и прочая полезность из прошлого опыта. И вот оно чудо - заказчик дает \"добро\", и надо бы радоваться, но встает вопрос: а что делать дальше? \nС чего и как лучше начинать, что тестировать, как приспособиться к новой жизни, как организовать работу команды, и как сделать все правильно? \nПро решения этих и многих других вопросов из сферы хард и софт скиллов мы и поговорим, разберем проблему с нескольких сторон и нарисуем карту \"граблей\" для успешного погружения.</p>",
     "twitter": "",
-    "company": "LeverX Group"
+    "company": "LeverX Group",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/ST3yvtXziv4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 12,
@@ -117,7 +126,8 @@
     "talk_title": "«Сундук позора» или как развиваться за счёт неудачных работ",
     "talk_description": "<p>Проекты «косяки» есть у каждого дизайнера. Вместо того, чтобы прятать их в «сундук позора», я предлагаю вам научиться анализировать их и становиться лучше. Как это делать, я расскажу на примере своих антикейсов.</p>",
     "twitter": "",
-    "company": "Wargaming"
+    "company": "Wargaming",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/jOX8Jb9FSco\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 13,
@@ -129,7 +139,8 @@
     "talk_title": "Svelte. Первый взгляд.",
     "talk_description": "<p>Рассказ о первом знакомстве с Svelte. Его основные особенности (что лежит в основе, основные концепции). Что нужно, чтобы написать первое приложение. Общие впечатления. Положительные и отрицательные стороны. Небольшое сравнение с React. </p> <p> Доклад начального уровня. Рассчитан на людей, которые давно слышали о фреймворке, но руки не доходили попробовать.</p>",
     "twitter": "",
-    "company": "EPAM"
+    "company": "EPAM",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/H9HUaQyUZpc\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 14,
@@ -141,7 +152,8 @@
     "talk_title": "Don’t (re)write code. Let AST do it",
     "talk_description": "<p>Рассмотрим проблему автоматического тестирования интерфейсов, работающих на технологии React. Кратко пробежимся по основам использования AST на примере автогенерации селекторов для React-компонентов, используя библиотеку Reselector.</p>",
     "twitter": "",
-    "company": "Yandex"
+    "company": "Yandex",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/80mBTRO-tOc\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 16,
@@ -153,7 +165,8 @@
     "talk_title": "What's wrong with classic education?!",
     "talk_description": "<p>What was new in terms of education tasks, how offline 30-person lectures grew up to thousand-viewers online webinars. How home tasks were updated. And what technologies are used to keep up the school.</p>",
     "twitter": "",
-    "company": ""
+    "company": "",
+    "youtube": ""
   },
   {
     "id": 17,
@@ -165,7 +178,8 @@
     "talk_title": "Beyond Flatland - the rise of 3D user interfaces",
     "talk_description": "<p>As humans we use spatial<sup>*</sup> intelligence to navigate around the world, record information as mental models and to solve complex three-dimensional problems. Navigating virtual 3D content with common 2D interaction techniques has severe drawbacks regarding efficiency and ease of use. In this talk we will explore possibilities of using three-dimensional user interfaces which let the user interact with virtual objects, environments or information using direct 3D input in the physical or virtual space.</p><p>Seeing how complex 3D interaction concepts can be broken down to simpler problems will inspire web developers to get creative and consider creating spatial computing products with 3D web technologies. Get inspired to experiment with the techniques and explore the possibilities of the immersive web beyond flatland.</p><p><small><sup>*</sup>spatial stands for \"relating to or occupying space\"</small></p> <h3 class='padding-top-md'>Takeaways for the audience</h3><ul> <li>Introduction to 3D UI/UX and interaction techniques</li> <li>Exploration of 3D user interaction systems and device landscape</li>  <li>Opportunities of Collaboration in spatial computing</li> <li>Enhancing Immersion through Storytelling & Visual Narrative</li> <li>Human Factors in Natural User Interfaces</li> <li>Opportunities in immersive web applications</li> <li>cool demos</li></ul>",
     "twitter": "anialdam",
-    "company": "FHNW University"
+    "company": "FHNW University",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/UsiyuZ0IVZk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 18,
@@ -177,7 +191,8 @@
     "talk_title": "Angular + Redux ... stop, what?",
     "talk_description": "<p>Now we can use Redux within Angular application with help of ngrx. I would like to talk about some useful tricks, which can help us to improve code readability, performance and make you feel better.</p>",
     "twitter": "",
-    "company": "Yandex"
+    "company": "Yandex",
+    "youtube": ""
   },
   {
     "id": 19,
@@ -189,7 +204,8 @@
     "talk_title": "How we develop WebStorm",
     "talk_description": "<p>We at the WebStorm team at JetBrains aim at making JavaScript developers more productive and happy. I will tell you about the IDE development process, how we decide what features will be implemented, and how users can help us with that and be involved in this process.</p>",
     "twitter": "katyaprigara",
-    "company": "JetBrains"
+    "company": "JetBrains",
+    "youtube": ""
   },
   {
     "id": 20,
@@ -201,7 +217,8 @@
     "talk_title": "Animations in Flutter",
     "talk_description": "<p>If you are into mobile development, you probably heard of Flutter. It's the new kid in the block and offers you a native cross-platform development environment.</p> <p>One of the biggest advertisements for the Flutter is \"You won't say no to your UI/UX designer anymore\" and one of the biggest reason for this is: Animations.</p> <p>In this talk we will go through, how you can create the widely used animations in Flutter by explaining the key concepts of it and of course, we will see some code :)</p>",
     "twitter": "salihgueler",
-    "company": "Onefootball GmbH"
+    "company": "Onefootball GmbH",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/7-03SX1E1MA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 21,
@@ -213,7 +230,8 @@
     "talk_title": "How to cook Flutter correctly",
     "talk_description": "<p>Flutter is a new mobile framework from Google, created for the development of applications for iOS and Android with the same codebase. SDK for cross-platform development allows developers to write applications in the Dart language and is designed to easily create a UI for both platforms.</p><p>Unfortunately, there is nothing in the documentation that looks like a guide to the recommended application architecture.</p><p>In the talk, I’ll talk about various typical architectures that can be used when developing on Flutter, their pros, and cons. And on one of them - BloC, we will stop in more detail.</p><p>BloC (Business Logic Component) is an architectural template presented by Google at the DartConf conference last year, based on the reactive paradigm, and in my opinion one of the most suitable for development on Flutter.</p>",
     "twitter": "ShuregDenisov",
-    "company": "EPAM"
+    "company": "EPAM",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/geraLLcP6EU\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 22,
@@ -225,7 +243,8 @@
     "talk_title": "Building Voice-First Android Apps",
     "talk_description": "<p>Thanks to the latest advancements in Machine Learning, we're now capable of interacting with machines through natural language. The age of voice assistants is here with Alexa, the Google Assistant and others. But, as an Android developer, what can I do on my existing app in relation to conversational features?</p><p> When we think about developing features that are voice-forward, we think about existing voice assistants such as Alexa and the Google Assistant. What about the fully-capable computers that we have with us all the time, our smartphones? Some moments on our day to day lives are very well suited for voice interactions: while in a car or cooking for example. Let's not forget that voice interactions are extremely accessible, not only in a physical way (for people with dexterity or motion impediments) but also in a cognitive way (I think we all have a loved one in our lives that really struggles with technology, and people from some emerging countries have very limited access to computers and are not at ease with technology).</p><p>In this talk, I'll explain what integrations can be done on Android:</p><ul><li>1st-party solutions such as the SpeechRecognizer and TextToSpeech APIs</li><li>Other Google solutions such as ML Kit, TensorFlow and Dialogflow</li><li>3rd-party solutions such as Porcupine, Snips, Amazon Lex, Snowboy and PocketSphinx</li><li>Integration with the Google Assistant via App Actions</li></ul>",
     "twitter": "elainedbatista",
-    "company": "SFEIR"
+    "company": "SFEIR",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/eAxVa279bOo\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 23,
@@ -237,7 +256,8 @@
     "talk_title": "What A Drag",
     "talk_description": "<p>\"Can we do this thing drag and droppable?\". That's one of the sentences that every front end developer fears the most. There are many DnD libraries out there but did you ever consider building something from scratch before adding additional 100kB to your bundle?</p><p>Let's take a look what tools browsers offer today. You can build beautiful and accessible experiences while supporting mobile devices and not sacrificing the performance! This talk is inspired by the recently released react-movable library.</p>",
     "twitter": "vmiksu",
-    "company": "Uber"
+    "company": "Uber",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/373pc0AbR9M\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 24,
@@ -249,7 +269,8 @@
     "talk_title": "Painting with Data",
     "talk_description": "<p>Data-visualisation trades in metaphor and allusion. At its best, it’s imaginative storytelling with data and algorithms. We’ll explore how to create beauty with JavaScript, how dataviz can shape the way we see the world, and how you can get started painting with data.</p>",
     "twitter": "richardwestenra",
-    "company": "QuantumBlack"
+    "company": "QuantumBlack",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/JAcxGAmD9DU\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 25,
@@ -261,7 +282,8 @@
     "talk_title": "Fast future with WebAssembly",
     "talk_description": "<p>The web has come a long way from text pages with links, but the only language that you could use to build applications for it was JavaScript - until now.</p><p>WebAssembly is a new type of code that modern browsers can run and it's fast by design. You do not write WebAssembly, you compile other languages, like C++ or Rust, to WebAssembly. All major browsers support it and they are steadily working on adding new features.</p><p>If you just smile and nod at the mention of binary and compilation targets, this talk is for you. It will be your gentle guide into how WebAssembly works, why we need it and how you can benefit from it in your next project (even if you continue to work with JavaScript only). Exciting real-world applications and implications included.</p>",
     "twitter": "bibydigital",
-    "company": "Mozilla TechSpeaker"
+    "company": "Mozilla TechSpeaker",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/QTqahDeTHVk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 26,
@@ -273,7 +295,8 @@
     "talk_title": "A universal fusion of the team",
     "talk_description": "<p>In a galaxy far, far away... Perhaps there is a team with high-quality processes, their communication proceeds without any problems and each team member speaks in the language that is understandable for everyone.</p><p>However, let's go back to our realities, where much still needs to be improved. To begin with, let's try to get rid of our (dev) accent to find a common language with the rest of the team.</p>",
     "twitter": "Paul_Yuhnovich",
-    "company": "EPAM"
+    "company": "EPAM",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/lwbs4_lSS9E\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 27,
@@ -285,7 +308,8 @@
     "talk_title": "10 lines of encryption, 1500 lines of key management",
     "talk_description": "<p>Often when users ask for some features, they don’t understand how long it takes to make them. When features are related to security, developers also often don’t understand how long it will take.</p><p>I will show the real case about one large note taking the app, that decided to implement convenient note encryption and note locking for their existing user base. But finding a balance between usability, security and mobile platforms' restrictions is complicated.</p><p>We will start with the security design scheme, then select the proper encryption library, then implement the flow, and prepare for incidents. Now — think about it — cryptography is only chapter 3 in OWASP MASVS (7 chapters in general). Even the best cryptography will fail if basic security controls are badly implemented.</p><p>Points we will go through the difference between \"locking\" and \"encrypting\", the difference between password and encryption key, how to sync passwords between devices, what exactly to store in keychain/keystore, how to use proper cryptography (AES CBC or AES GCM, random salt? IV? padding? what a hell is this mess), how to use biometrics (we don’t want to bother user, let’s use biometric keychain, but what if users will change their fingerprints — shall we invalidate all passwords?), updating encryption version (imagine, vulnerability is discovered in our library or app — how to update cipher, and softly migrate users to the new cipher, if users don’t even have a clue that encryption was versioned).</p><p>In the end, this is only one simple JIRA ticket \"let's encrypt the notes\" from the eyes of security software engineer :)</p>",
     "twitter": "vixentael",
-    "company": "Cossack Labs"
+    "company": "Cossack Labs",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/AHQi6wKfvmQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 28,
@@ -297,7 +321,8 @@
     "talk_title": "Wake Up, Neo",
     "talk_description": "<p>I believe most of us are just doing their day-to-day job and it's fine. But have you thought are we doing alright as an industry? Do we do things in a right way? Do we do the right things? Are there any flaws in what we are doing? Actually, there are! The security is not great generally speaking, the performance of our apps can be much better, the quality is below optimal and the emotional atmosphere is definitely not ideal. In this topic, I want to uncover those issues to give the current state of the industry and provide some tips on how we can improve it together. </p>",
     "twitter": "vvsevolodovich",
-    "company": "EPAM"
+    "company": "EPAM",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/4AWHbS5hWJw\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 29,
@@ -309,7 +334,8 @@
     "talk_title": "The Quest of the Styling Grail",
     "talk_description": "<p>\"At Yandex.Market we have a lot of different products with a wide variety of User Interfaces, plenty of client-side experiments like A/B tests, and each service have requirements such as performance, caching, theming and so on. And we've tried many different approaches in order to build a unified Design System which can be used by any of our services.</p><p>So, there are dozens of ways to style React applications, from Plain CSS and CSS-Modules to styled-components. Each option has tradeoffs. Yet the following problems often remain overlooked: styles, markup semantics, and accessibility.</p><p>Shadow DOM and frameworks like Svelte or Vue have made a step towards scoped styles for tags and attributes. However, it is still absent in React.</p><p>I would like to talk about the history of different web-applications styling solutions, and share some ideas about framework-agnostic library reshadow (https://reshadow.dev), which provides the Shadow DOM Developer Experience, but for the Virtual DOM.</p><p>It is about a way to match styles of complex application state on the simple declarative CSS selectors for tags, Components, and props, with efficient runtime and compile-time processing.</p><p>Thus, the more semantic and accessible markup you write, the simpler selectors you get.</p><p>At last but not least, reshadow makes it easy to completely restyle any Component, which in combination with Dependency Injection opens up additional possibilities in theming and A/B testing without product-code changes.\"</p>",
     "twitter": "_lttb",
-    "company": "Yandex.Market"
+    "company": "Yandex.Market",
+    "youtube": ""
   },
   {
     "id": 30,
@@ -321,7 +347,8 @@
     "talk_title": "Privacy UX",
     "talk_description": "<p>Privacy UX Interfaces have become quite a character, haven't they? Self-indulgent, impolite and genuinely unlikeable. How often are you greeted with a wondrous permissions prompt craving to send you messages to the lock screen? What about onboarding cards you dismiss without reading? How about app notifications, streaming endlessly and loudly your way? And what about the infamous \"feedback\" or \"chat\" buttons floating on the sie? All these solutions desperately craving for our attention, yet as a result pushing customers away, often irrevocably. In this talk, Vitaly Friedman, co-founder of Smashing Magazine and creative lead and UX consultant, will explore better approaches for onboarding and offboarding, authentication patterns and infamous GDPR consent cookie prompts, annoying permission requests and disruptive notifications requests. Plus, we'll learn how to deal with nasty CAPTCHAs, social sign-ins, shady third-parties, shaky connectivity issues and a few general privacy issues that often cost conversion. You'll walk away with a toolbox of techniques applicable to any mobile project — be it a native app, PWA or a good ol' responsive website. Beware: you will not be able to unlearn what you'll learn in this session!</p>",
     "twitter": "smashingmag",
-    "company": "Smashing Magazine"
+    "company": "Smashing Magazine",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/OZWfcdkSpxU\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 31,
@@ -333,7 +360,8 @@
     "talk_title": "Move Beyond Functions: Simple, Robust App Hosting with KNative and Google Cloud Run",
     "talk_description": "<p>We were led to believe that as frontends developers, if we wanted easy deployments, we needed to stick our code in a function. Since the birth of Lambda, the FaaS movement had been wildly popular. The problem is we ended up with a stack where we have a bunch of functions for one-offs, a single well maintained deployment path for our main application, and perhaps a mix legacy VMs running particular workloads. If we're lucky, our main deployment path is using K8S and has nice pipelines, but everything else is pretty ad-hoc.</p><p>This approach has been defended because why invest in all the work required to deploy to K8S for all those apps? It's a lot of yaml files after all.</p><p>But now there's a new approach. With Knative, you can easily deploy your scripts to a Kubernetes cluster with just a simple bit of configuration. No custom frameworks, just a vanilla container running your functions and applications.</p><p>Learn how Knative and Google Cloud Run are changing how frontend developers deploy code!</p>",
     "twitter": "",
-    "company": "Google"
+    "company": "Google",
+    "youtube": ""
   },
   {
     "id": 32,
@@ -345,7 +373,8 @@
     "talk_title": "How I learned testing from mobile browsers",
     "talk_description": "<p>Working on 5 mobile browsers app each with different focus might seem overwhelming. Ramping up people for such diverse testing might seem impossible. But as Tom Cruise survived Mission Impossible, so did my team.</p>",
     "twitter": "ioana_cis",
-    "company": "Cognizant Softvision / Mozilla"
+    "company": "Cognizant Softvision / Mozilla",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/8NnykSZBm7U\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 33,
@@ -357,7 +386,8 @@
     "talk_title": "Трассируем лучи в реальном времени",
     "talk_description": "<p>Я расскажу о способах рендеринга в реальном времени. Доклад делится на две части, в первой части будет рассказано о рендеринге с помощью растеризации, а также о том, что с ней не так. Вторая часть доклада посвящена рендерингу с помощью трассировки лучей и тому какие возможности это для нас открывает. Я буду использовать технологию NVIDIA RTX и соответствующее расширение Vulkan API, примеры кода на Node.js. Доклад дает представление о том, как можно начать разрабатывать собственный трассировщик лучей используя Javascript уже сегодня.</p>",
     "twitter": "",
-    "company": "Align Technology"
+    "company": "Align Technology",
+    "youtube": ""
   },
   {
     "id": 34,
@@ -369,7 +399,8 @@
     "talk_title": "Молчание джунов",
     "talk_description": "<p>\"Сижу я такой, пишу код быстрее всех в компании, чувствую себя супер сеньором. Сходил на собес, а меня спросили непонятно что, а потом позвонила hr и сказала, что я не ОК. Обидненько\". На другой стороне баррикад: \"Не можем найти разрабов уже год. Техлид завалил двадцать кандидатов подряд – сказал, что не ОК. Бизнес буксует, команда работает по 80 часов в неделю\".</p><p>Знакомая ситуация? На докладе мы посмотрим на процесс собеседования и построения плана индивидуального развития с разных сторон, проанализируем ошибки, а потом вместе с вами запилим шаблон для собеса, и протестируем его боем.</p>",
     "twitter": "xanderblinov",
-    "company": "Headhunter"
+    "company": "Headhunter",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/QYGb4yqTK4g\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 35,
@@ -381,7 +412,8 @@
     "talk_title": "Фантастические плагины и где они обитают",
     "talk_description": "<p>Каждый разработчик сталкивается с желанием автоматизировать часть своей работы. Но далеко не каждый пишет для этого собственный плагин для Android Studio или IntelliJ IDEA, потому что думает, что это сложно.</p><p>В докладе я докажу, что разработать плагин — подъёмная задача для любого разработчика.</p><p>Я расскажу, как в hh.ru сделали плагин для создания feature-модулей: почему решили написать именно плагин и почему не подошли существующие решения генерации кода, с какими проблемами сталкивались и как их решали. Раскрою несколько секретов плагиностроения: что такое PSI, как создавать собственные wizard-диалоги и как использовать встроенный DI. А также покажу исходники и расскажу, что в них поменять для решения ваших задач.</p><p>Доклад будет интересен как тем, кто никогда не писал плагины, так и тем, кто только начал в них разбираться.</p>",
     "twitter": "",
-    "company": "Headhunter"
+    "company": "Headhunter",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/hc3LN6vj_QQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 36,
@@ -393,7 +425,8 @@
     "talk_title": "Testing Software Architecture",
     "talk_description": "<p>If anything, the Agile, Lean, and DevOps movements have proven that software architecture is not a “one man show”. Instead, in order to succeed, software design is a group effort that requires involvement from different stakeholders. In this session I’d like to talk about the testing aspect of software architecture and design.</p><p>We will see what exactly is this “important stuff”, that we use to call software architecture; what are its goals, and what differentiates a good architecture from a bad one? Next, we will discuss how to watch over a system’s architecture during the various stages of its development:</p><ul><li>The differences between under and over-engineering</li><li>How to identify forming of a “big ball of mud” in early stages</li><li>What are the symptoms of an exhausted architecture that is breaking under its own weight</li></ul><p>Ultimately, I’ll demonstrate how such tests can be automated using static code analysis tools.</p>",
     "twitter": "vladikk",
-    "company": "Invesus Group"
+    "company": "Invesus Group",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/WBu4sUKGgT8\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 37,
@@ -405,7 +438,8 @@
     "talk_title": "Modern Android Development in Production",
     "talk_description": "<p>Being an Android developer is insane. Android Framework evolved and changed rapidly fast. It's tough to keep pace and keep updated with all new libraries, changes, and requirements with every new version. Recently at our startup, we reached the point where every move is hard and risky. How to refactor the application while keeping high release pace? How to go multi-module without re-write everything?</p><p>During this talk, we will look at the architecture approach we choose, refactoring dilemmas we had,  libraries we decide to use and why.</p>",
     "twitter": "parahall",
-    "company": "monday.com"
+    "company": "monday.com",
+    "youtube": ""
   },
   {
     "id": 38,
@@ -417,7 +451,8 @@
     "talk_title": "Distributed Architectures for Distributed Teams",
     "talk_description": "<p>In a dev team distributed across multiple timezones, you have many challenges:  coordination, keeping a maintainable codebase, and moving fast. You will get an overview of some architectural patterns that address these problems.</p>",
     "twitter": "",
-    "company": "Turtle Inc"
+    "company": "Turtle Inc",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/hVqMKAFtkOw\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 39,
@@ -429,7 +464,8 @@
     "talk_title": "How to set up a pipeline with visual unit tests for your application",
     "talk_description": "<p>During this talk, we’ll discuss why we bet on visual unit tests. On a real example, we’ll discover how to implement such tests for React application with Jest and Puppeteer, we’ll meet Allure report with Jest and in the end, set up the full pipeline with CircleCi and GitHub to run our own visual tests on each pull request. Also, we’ll consider performance and some tricky parts (eg. how to integrate it with BrowserStack in case if you need cross-browser testing).</p><p>Demo project and draft presentation available here: https://github.com/zaqqaz/visual-unit-tests</p>",
     "twitter": "",
-    "company": "DAZN"
+    "company": "DAZN",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/px0r9PqpLdI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 40,
@@ -441,7 +477,8 @@
     "talk_title": "UX как область ответственности мобильного разработчика",
     "talk_description": "<p>Мы часто говорим об удобстве разработки для программиста: “Архитектура, Многомодульность, чистый код…”. </p><p>Несмотря на это, не так много приложений могут похвастаться действительно хорошо реализованным UX’ом в проекте.</p><p>Поговорим о том, как мы можем менять в лучшую сторону UX приложения с минимальными затратами, и почему это не только задача дизайнера.</p>",
     "twitter": "hungry_moose",
-    "company": "Revolut"
+    "company": "Revolut",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/muqcNAVJuvc\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 41,
@@ -453,7 +490,8 @@
     "talk_title": "Автотесты под Android - так ли это просто?",
     "talk_description": "<p>Очень многие сегодня хотят внедрить автотесты в свои проекты. Многие неправильно оценивают сложность внедрения, расценивая эту задачу как простую. Однако приходит суровая реальность и на автотесты приходится потратить намного больше времени, чем ожидалось. Так в чем же дело? Давайте разберемся вместе на моем докладе. </p>",
     "twitter": "",
-    "company": "Revolut"
+    "company": "Revolut",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/xGVqsBA3ZJg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 42,
@@ -465,7 +503,8 @@
     "talk_title": "Строим видеоредактор для iOS",
     "talk_description": "<p>В докладе вы узнаете о том, как устроена обработка видео в общем виде, из каких основных частей может состоять абстрактный мобильный видеоредактор, в чем фундаментальные отличия предметной области между платформами iOS и Android. </p><p>А также мы более подробно остановимся на различных вариантах реализации частей видеоредактора для платформы iOS на основе AVFoundation, а также посмотрим, как можно применять обычные подходы проектирования к нашей предметной области.</p>",
     "twitter": "",
-    "company": "Movavi"
+    "company": "Movavi",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/KErn3MTYvkc\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 43,
@@ -477,7 +516,8 @@
     "talk_title": "Теплый ламповый геймдев на React и WebGL",
     "talk_description": "<p>Как начать писать 2D игры на WebGL в браузере, если ранее с ним не сталкивался? Стоит ли вообще начинать? Пишем игры почти не изучая сложных API. Как взять взять Canvas или React и достичь быстрого рендеринга в 2D.</p><p>В докладе рассматриваем подходы к разработке как домашних проектов так и разработку игр на работе как замену маркетинговых лендингов.</p>",
     "twitter": "mamu_eval",
-    "company": "Tinkoff"
+    "company": "Tinkoff",
+    "youtube": ""
   },
   {
     "id": 44,
@@ -489,7 +529,8 @@
     "talk_title": "MVVM as good (anti)pattern in iOS",
     "talk_description": "<p>Nowadays there are a lot of materials, presentations & talks about how great MVVM architecture is. Hype about the view models look like a never ending story. There are a lot of developers who like this approach and use it in their own projects. I tried to go against the grain and show a different perspective of MVVM. I also try to answer questions like: Do we really need it? Does it solves any particular problem or is it overkill?</p>",
     "twitter": "SzklarekMateusz",
-    "company": "EL Passion"
+    "company": "EL Passion",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/gyOWgpOZoGo\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 45,
@@ -501,7 +542,8 @@
     "talk_title": "Augmenting Reality",
     "talk_description": "<p>Discussing how and why AR could be used for indoor navigation - use cases, world mapping, way finding. Current possibilities and limitations. Looking into the future - what could be possible soon.</p>",
     "twitter": "edeniska",
-    "company": "EPAM Systems"
+    "company": "EPAM Systems",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/A1SQzVkYtjQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 46,
@@ -513,7 +555,8 @@
     "talk_title": "Креативность начинается с незнания",
     "talk_description": "<p>Рассуждение об основных составляющих успеха дизайнера. Что такое креативность, как развить креативное мышление, вкус, мотивацию. Доклад будет насыщен примерами и историями из собственной жизни и проектов Fantasy. Основной лейтмотив доклада – показать, что незнание, сомнения и творческий стресс – это основной ингредиент креативности.</p>",
     "twitter": "gkvasnikov",
-    "company": "Fantasy"
+    "company": "Fantasy",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/0XLjTAJwBFA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 47,
@@ -525,7 +568,8 @@
     "talk_title": "Видеопродакшен без комплексов: Почему красивые ролики снимать бессмысленно.",
     "talk_description": "<p></p>",
     "twitter": "",
-    "company": "Pocket Rocket"
+    "company": "Pocket Rocket",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/8APvVYs_sZA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 48,
@@ -537,7 +581,8 @@
     "talk_title": "Все дизайнеры — популисты",
     "talk_description": "<p>Дизайнеры обещают, что изменят жизнь к лучшему. Многие из нас уверены, что с помощью дизайна можно решить абсолютно любую проблему. Тем не менее, аксиомы типа «меньше значит больше» или «форма следует за функцией» часто звучат как алиби для неудачных дизайн-решений. И с этим нужно что-то делать.<p></p>Доклад на тему как перестать испытывать творческие муки, побороть неуверенность в себе и перейти к осознанному дизайну.</p>",
     "twitter": "",
-    "company": "AIC"
+    "company": "AIC",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/yyHuSvwzQrw\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 49,
@@ -549,7 +594,8 @@
     "talk_title": "Лучше стыдно, чем никогда",
     "talk_description": "<ul><li>Kак дизайнеру не сгореть при разработке макетов и протестировать свои сомнения</li><li>Kак решить противоречия между менеджером продукта и разработкой</li><li>Kак изначально увеличить вовлечение пользователей в продукт</li><li>Kак оценить вклад каждой фичи в продукте</li></ul><p>Поговорим о том, как быстро запускать MVP продукта, и добавлять только те функции, которые действительно нужны людям.</p>",
     "twitter": "",
-    "company": "AIC"
+    "company": "AIC",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/gI3DscDlG9M\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 50,
@@ -561,7 +607,8 @@
     "talk_title": "Дизайн-система на HTML/CSS",
     "talk_description": "<ul><li>Как дизайн-система упрощает разработку продуктов и экономит время</li><li>Что общего у дизайнеров и frontend-разработчиков</li><li>Зачем дизайнеру знать технологии, а разработчику - основы дизайна</li><li>Как хороший дизайн выглядит на уровне кода</li><li>Можно ли быть хорошим разработчиком и дизайнером одновременно</li></ul>",
     "twitter": "",
-    "company": "IT-Academy"
+    "company": "IT-Academy",
+    "youtube": ""
   },
   {
     "id": 51,
@@ -577,7 +624,10 @@
     "talk3_title": "Panel Discussion: Future after matureness",
     "talk3_description": "<ul><li>Is Javascript moving in Java way (driven by the big enterprise like java or non-commercial organization like python or by the community as c++)</li><li>Should javascript developers continue adopting engineering practices?</li><li>Or should the coder deep into the business?</li><li>In what degree should an engineer be platform agnostic?</li></ul>",
     "twitter": "",
-    "company": "Mapbox"
+    "company": "Mapbox",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/Cdyp_HdjLFc\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "youtube2": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/XU2z0jUNFG4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "youtube3": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/f8OauYHkqQA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 52,
@@ -589,7 +639,8 @@
     "talk_title": "JavaScript that scales",
     "talk_description": "<p>Over the last 3 years, we've migrated to TypeScript, and made it one of our core values. I'd like to share some tricks and best practices we've discovered and adopted, such as:</p><ul><li>gradual migration to TypeScript</li><li>non-trivial use of type aliases</li><li>upgrading TypeScript without breaking things</li><li>type safety with modular CSS</li><li>custom linter rules enforcing consistency and strong types</li></ul><p>... and more.</p>",
     "twitter": "",
-    "company": "Evolution Gaming"
+    "company": "Evolution Gaming",
+    "youtube": ""
   },
   {
   "id": 53,
@@ -601,7 +652,8 @@
   "talk_title": "Сколько стоит обучение в бесплатной школе DesignSpot School?",
   "talk_description": "<p>Зачем DesignSpot запустил бесплатную школу для UX дизайнеров, как устроен процесс, кто преподает, пишет статьи и снимает видео, и каким будет результат для студентов, для DesignSpot и в целом для отрасли в Беларуси.</p><p>Никита расскажет, как за год до открытия школы команда проводила масштабное исследование проблем профессионального обучения и как сформулировали манифест DesignSpot School.</p>",
   "twitter": "",
-  "company": "EPAM"
+  "company": "EPAM",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/vge6mJC4bGA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>F"
 },
   {
     "id": 54,
@@ -613,7 +665,8 @@
     "talk_title": "Другой веб",
     "talk_description": "<p>Спорный рассказ о состоянии современного веб-дизайна и влияния на него расхожих паттернов и шаблонов. В своем выступлении Павел расскажет о поиске ответов в смежных дисциплинах. Будет рассуждать о необходимости действовать наперекор общепринятым стандартам и как в этом поможет Readymag.</p>",
     "twitter": "",
-    "company": "Readymag"
+    "company": "Readymag",
+    "youtube": ""
   },
   {
     "id": 55,
@@ -625,7 +678,8 @@
     "talk_title": "Front-end development for Enterprise",
     "talk_description": "<p>Historically, nobody cared about Enterprise users. You may have seen ugly screens, nightmare UX, different guidelines for external and internal users and other ways of discrimination that Enterprise users had always been facing with. But today, thanks to a variety of everyday-use intuitive mobile apps and Internet sites, users expect more in regards to user experience. You can no longer make them work in apps with terrible UI. Their expectations have been set to a very welcoming and consistent user experience across the whole business landscape and all systems they need to interact with to get their work done. A few years ago SAP SE introduced SAP Fiori 2.0 design system, having recently elevated it to the next level with SAP Fiori 3. Now enterprise solutions focus on consistency across all business applications, NLI, as well as enhancing the overall user experience by embedding intelligence to help users work more easily every day. The value put in aggregating all the emerging technologies is immense. From cloud, mobile, machine learning, blockchain to the Internet of everything. Running on JavaScript. In one place called Enterprise Solutions.</p>",
     "twitter": "",
-    "company": "EPAM"
+    "company": "EPAM",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/ugmtw36XU5A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 56,
@@ -637,7 +691,8 @@
     "talk_title": "Генеративный дизайн: инструменты дизайнера будущего",
     "talk_description": "<p>Любой хаос стремится к порядку. Любой порядок можно описать параметрами, а потом управлять этим порядком. Дизайн – не исключение. Какие уроки мы можем извлечь из опыта развития дизайна в других сферах? Что такое параметрический, алгоритмический, генеративный дизайн? Вместе расставим точки. </p><p>К концу дискуссии мы приблизимся к пониманию будущего профессии и где мы находимся сейчас среду других творческих дисциплин, и разберемся заменят ли роботы дизайнера.</p>",
     "twitter": "",
-    "company": "Mail.Ru Group"
+    "company": "Mail.Ru Group",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/Q_tB9J-OF1o\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 57,
@@ -651,7 +706,8 @@
     "talk_title":"Воркшоп: Строим PDP на основе гайдa по front-end разработчику",
     "talk_description":"<p>Самый простой способ написать диплом — это создать файл на рабочем столе с названием \"Диплом\". Те же принципы работают в развитии себя и своей карьеры, нужно создать и приоритизировать цели. Мы предложим инструмент, в котором каждый сможет построить себе Personal Development Plan, пошарить его с менторами и даже экспортировать как CV.</p><p>Для большей наглядности создадим несколько PDP прямо на воркшопе.</p>",
     "twitter": "",
-    "company": "EPAM"
+    "company": "EPAM",
+    "youtube": ""
   },
   {
     "id": 58,
@@ -663,7 +719,8 @@
     "talk_title":"Принт умер. Да здравствует принт!",
     "talk_description":"<p>Про новое качество печатных проектов, смешанные медиа и книги сегодня.</p>",
     "twitter": "",
-    "company": "Yukhnevich.com"
+    "company": "Yukhnevich.com",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/k1Jl_83qY88\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 15,
@@ -675,11 +732,12 @@
     "talk_title": "Fail Fast approach in Frontend Development",
     "talk_description": "TBD",
     "twitter": "",
-    "company": "Evolution Gaming"
+    "company": "Evolution Gaming",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/XnsV8YACAHQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 8,
-    "name": "Лекс АйТиБорода",
+    "name": "Leks ITBoroda",
     "photo": "it-boroda.jpg",
     "city": "Minsk, Belarus",
     "intro": "<p>.NET-разработчик, основатель и ведущий youtube-канала \"АйТиБорода\"</p>",
@@ -687,7 +745,8 @@
     "talk_title": "Panel Discussion. Engineer: Hard Skills vs Soft Skills. ",
     "talk_description": "Ни для кого не секрет, что уровень мастерства инженера измеряется его практическими навыками и теоретическими познаниями в профильной области. Крутой программист должен уметь круто программировать, иными словами иметь прокаченные Hard Skills. Так же, в наше время  хороший разработчик должен уметь работать в команде, уметь понять заказчика и изложить ему свои мысли. Порою разработчикам даже приходится сглаживать углы, проявляя свои переговорческие навыки! Всё это - удел Soft Skills. В рамках нашей дискуссии мы попытаемся выяснить, что же из этоо важнее с точки зрения построения успешной карьеры и с точки зрения создания качественного продукта. Добро пожаловать!",
     "twitter": "",
-    "company": "АйТиБорода"
+    "company": "АйТиБорода",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/Vt60EHkEYR4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 59,
@@ -699,7 +758,8 @@
     "talk_title":"Черная книга скрам",
     "talk_description":"<p>Я расскажу, в каких случаях скрам на проекте хуже, чем сын ефрейтор, и покажу пару трюков, которые помогут убедить вашего ПМа в том, что пора переходить на waterfall.</p>",
     "twitter": "",
-    "company": ""
+    "company": "",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/FkD2r8g7GUA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 60,
@@ -711,7 +771,8 @@
     "talk_title":"Server side rendering, глаза боятся, а руки делают",
     "talk_description":"<p>Поделюсь опытом разработки server side rendering, на инвестигейт которого было потрачено 170 часов. Представлю готовое решение и starter kit для того, чтоб можно было сразу сесть и сделать SSR для React.js. Сравню 2 реализации с использованием Next.js фреймворка и Express.js, расскажу о плюсах, минусах и подводных камнях. Расскажу, почему Next.js нам не подошел.</p>",
     "twitter": "",
-    "company": "Oxagile"
+    "company": "Oxagile",
+    "youtube": ""
   }
 ]
 

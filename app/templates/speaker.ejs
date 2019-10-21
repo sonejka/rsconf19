@@ -131,12 +131,14 @@
     <div class="content-md">
 
       <div class="talk-info">
-        <p class="text-lg"><%= talk_title %></p>
+        <p class="text-lg"><%= talk_title %> </p>
+<!--        <p class="text-md"><i class="fab fa-youtube"></i> <a target="_blank" href="< %= youtube % >">Watch on YouTube</a></p>-->
         <p class="text-md"><!--<span class="talk-date">FEB 11</span>, -->
           <!--<span class="talk-time">10:00</span> -->
           <!--<span class="talk-place first-stream">Pink Room</span>--><span class="talk-lang"><%= talk_lang %></span>
         </p>
         <p><%- talk_description %></p>
+        <p class="text-lg"><%- youtube %></p>
       </div>
 
       <% if (typeof workshop_title != 'undefined') { %>
@@ -161,6 +163,7 @@
             <!--<span class="talk-place first-stream">Pink Room</span>--><span class="talk-lang"><%= talk_lang %></span>
           </p>
           <p><%- talk2_description %></p>
+          <p class="text-lg"><%- youtube2 %></p>
         </div>
 
       <% } %>
@@ -174,6 +177,7 @@
             <!--<span class="talk-place first-stream">Pink Room</span>--><span class="talk-lang"><%= talk_lang %></span>
           </p>
           <p><%- talk3_description %></p>
+          <p class="text-lg"><%- youtube3 %></p>
         </div>
 
       <% } %>

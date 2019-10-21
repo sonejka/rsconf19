@@ -1418,6 +1418,14 @@ nav {
       padding: 0 5px;
     }
 
+    h3 a.youtube-link {
+      background: transparent;
+      color: #ff0000;
+      &:hover {
+        color: #cc0000;
+      }
+    }
+
     .text-sm {
       font-size: 2rem;
       line-height: 2.2rem;
