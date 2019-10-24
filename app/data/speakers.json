@@ -49,7 +49,7 @@
     "talk_description": "Web applications went far beyond regular web sites. They are no longer just static (or dynamic) content presentations but rather complex systems with well defined business roles and goals. This is a story about how to transform your (pretty sure huge) React based application into a set of well separated single responsible features (endpoints), make them reusable, easy pluggable and maintainable.",
     "twitter": "",
     "company": "Uber",
-    "youtube": ""
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/bIfboQpgULg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 6,
@@ -192,7 +192,7 @@
     "talk_description": "<p>Now we can use Redux within Angular application with help of ngrx. I would like to talk about some useful tricks, which can help us to improve code readability, performance and make you feel better.</p>",
     "twitter": "",
     "company": "Yandex",
-    "youtube": ""
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/AduwO3GnN6o\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 19,
@@ -335,7 +335,7 @@
     "talk_description": "<p>\"At Yandex.Market we have a lot of different products with a wide variety of User Interfaces, plenty of client-side experiments like A/B tests, and each service have requirements such as performance, caching, theming and so on. And we've tried many different approaches in order to build a unified Design System which can be used by any of our services.</p><p>So, there are dozens of ways to style React applications, from Plain CSS and CSS-Modules to styled-components. Each option has tradeoffs. Yet the following problems often remain overlooked: styles, markup semantics, and accessibility.</p><p>Shadow DOM and frameworks like Svelte or Vue have made a step towards scoped styles for tags and attributes. However, it is still absent in React.</p><p>I would like to talk about the history of different web-applications styling solutions, and share some ideas about framework-agnostic library reshadow (https://reshadow.dev), which provides the Shadow DOM Developer Experience, but for the Virtual DOM.</p><p>It is about a way to match styles of complex application state on the simple declarative CSS selectors for tags, Components, and props, with efficient runtime and compile-time processing.</p><p>Thus, the more semantic and accessible markup you write, the simpler selectors you get.</p><p>At last but not least, reshadow makes it easy to completely restyle any Component, which in combination with Dependency Injection opens up additional possibilities in theming and A/B testing without product-code changes.\"</p>",
     "twitter": "_lttb",
     "company": "Yandex.Market",
-    "youtube": ""
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/yuzlY7GHh40\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 30,
@@ -773,7 +773,7 @@
     "talk_description":"<p>Поделюсь опытом разработки server side rendering, на инвестигейт которого было потрачено 170 часов. Представлю готовое решение и starter kit для того, чтоб можно было сразу сесть и сделать SSR для React.js. Сравню 2 реализации с использованием Next.js фреймворка и Express.js, расскажу о плюсах, минусах и подводных камнях. Расскажу, почему Next.js нам не подошел.</p>",
     "twitter": "",
     "company": "Oxagile",
-    "youtube": ""
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/eenX8EGkTZM\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   }
 ]
 
