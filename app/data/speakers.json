@@ -387,7 +387,7 @@
     "talk_description": "<p>Я расскажу о способах рендеринга в реальном времени. Доклад делится на две части, в первой части будет рассказано о рендеринге с помощью растеризации, а также о том, что с ней не так. Вторая часть доклада посвящена рендерингу с помощью трассировки лучей и тому какие возможности это для нас открывает. Я буду использовать технологию NVIDIA RTX и соответствующее расширение Vulkan API, примеры кода на Node.js. Доклад дает представление о том, как можно начать разрабатывать собственный трассировщик лучей используя Javascript уже сегодня.</p>",
     "twitter": "",
     "company": "Align Technology",
-    "youtube": ""
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/mGdjfQnwU7c\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 34,
@@ -608,7 +608,7 @@
     "talk_description": "<ul><li>Как дизайн-система упрощает разработку продуктов и экономит время</li><li>Что общего у дизайнеров и frontend-разработчиков</li><li>Зачем дизайнеру знать технологии, а разработчику - основы дизайна</li><li>Как хороший дизайн выглядит на уровне кода</li><li>Можно ли быть хорошим разработчиком и дизайнером одновременно</li></ul>",
     "twitter": "",
     "company": "IT-Academy",
-    "youtube": ""
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/srHkTsBldUo\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 51,
@@ -707,7 +707,7 @@
     "talk_description":"<p>Самый простой способ написать диплом — это создать файл на рабочем столе с названием \"Диплом\". Те же принципы работают в развитии себя и своей карьеры, нужно создать и приоритизировать цели. Мы предложим инструмент, в котором каждый сможет построить себе Personal Development Plan, пошарить его с менторами и даже экспортировать как CV.</p><p>Для большей наглядности создадим несколько PDP прямо на воркшопе.</p>",
     "twitter": "",
     "company": "EPAM",
-    "youtube": "",
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/y2fHkGk2V78\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
     "youtube2": ""
   },
   {
