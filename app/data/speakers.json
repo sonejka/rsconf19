@@ -205,7 +205,7 @@
     "talk_description": "<p>We at the WebStorm team at JetBrains aim at making JavaScript developers more productive and happy. I will tell you about the IDE development process, how we decide what features will be implemented, and how users can help us with that and be involved in this process.</p>",
     "twitter": "katyaprigara",
     "company": "JetBrains",
-    "youtube": ""
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/vWA9-ZG4xyM\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 20,
@@ -517,7 +517,7 @@
     "talk_description": "<p>Как начать писать 2D игры на WebGL в браузере, если ранее с ним не сталкивался? Стоит ли вообще начинать? Пишем игры почти не изучая сложных API. Как взять взять Canvas или React и достичь быстрого рендеринга в 2D.</p><p>В докладе рассматриваем подходы к разработке как домашних проектов так и разработку игр на работе как замену маркетинговых лендингов.</p>",
     "twitter": "mamu_eval",
     "company": "Tinkoff",
-    "youtube": ""
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/0IokvBSGixc\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
     "id": 44,
@@ -640,7 +640,7 @@
     "talk_description": "<p>Over the last 3 years, we've migrated to TypeScript, and made it one of our core values. I'd like to share some tricks and best practices we've discovered and adopted, such as:</p><ul><li>gradual migration to TypeScript</li><li>non-trivial use of type aliases</li><li>upgrading TypeScript without breaking things</li><li>type safety with modular CSS</li><li>custom linter rules enforcing consistency and strong types</li></ul><p>... and more.</p>",
     "twitter": "",
     "company": "Evolution Gaming",
-    "youtube": ""
+    "youtube": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/Q8-aOtRf6ac\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
   },
   {
   "id": 53,
